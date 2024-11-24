@@ -176,7 +176,7 @@ http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
 #EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https:" group-title="港澳",美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/channel8hd" group-title="AKTV",Channel 8 HD
+#EXTINF:-1 tvg-id="aktv/channel8hd" group-title="港澳",Channel 8 HD
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/null-21" group-title="港澳",MyTV SUPER
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
