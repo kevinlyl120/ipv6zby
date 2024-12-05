@@ -196,13 +196,13 @@ http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="aktv3/null-3" group-title="港澳",亞洲新聞台
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾",TVBS NEWS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾",TVBS HD
+http://litv.zapi.us.kg/?id=4gtv-4gtv073
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台湾",TVBS新闻台
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="台湾",TVBS欢乐
+http://litv.zapi.us.kg/?id=4gtv-4gtv072
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="台湾",TVBS欢乐台
 http://litv.zapi.us.kg/?id=4gtv-4gtv068
-#EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://assets.livednow.com/logo/TVBS-精采台.png" group-title="台湾",TVBS精采
+#EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://assets.livednow.com/logo/TVBS-精采台.png" group-title="台湾",TVBS精采台
 http://litv.zapi.us.kg/?id=4gtv-4gtv067
 #EXTINF:-1 tvg-name="八大综艺" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="台湾",八大综艺
 http://litv.zapi.us.kg/?id=4gtv-4gtv039
@@ -234,7 +234,7 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv003
 #EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="台湾",民视综艺
 http://litv.zapi.us.kg/?id=4gtv-4gtv004
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="台湾",华视新闻
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+http://litv.zapi.us.kg/?id=4gtv-4gtv041
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="台湾",东森新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv152
 #EXTINF:-1 tvg-name="东森财经" tvg-logo="https://assets.livednow.com/logo/東森財經新聞.png" group-title="台湾",东森财经
@@ -252,17 +252,19 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv055
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧.png" group-title="台湾",靖天戏剧
 http://litv.zapi.us.kg/?id=4gtv-4gtv058
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="台湾",靖天电影
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-name="靖天育乐" tvg-logo="https://live.fanmingming.com/tv/靖天育乐.png" group-title="台湾",靖天育乐
+http://litv.zapi.us.kg/?id=4gtv-4gtv061
+#EXTINF:-1 tvg-name="靖天育乐" tvg-logo="https://live.fanmingming.com/tv/靖天育乐.png" group-title="台湾",靖天娱乐
 http://litv.zapi.us.kg/?id=4gtv-4gtv062
 #EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://live.fanmingming.com/tv/靖天国际.png" group-title="台湾",靖天国际
 http://litv.zapi.us.kg/?id=4gtv-4gtv063
 #EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://live.fanmingming.com/tv/靖天资讯.png" group-title="台湾",靖天资讯
 http://litv.zapi.us.kg/?id=4gtv-4gtv065
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="台湾",中视新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv074
+http://litv.zapi.us.kg/?id=4gtv-4gtv040
 #EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://live.fanmingming.com/tv/中视菁采.png" group-title="台湾",中视菁采
 http://litv.zapi.us.kg/?id=4gtv-4gtv064
+#EXTINF:-1 tvg-name="ELTA 欢乐台" tvg-logo="https://live.fanmingming.com/tv/ELTA欢乐台.png" group-title="台湾",ELTA 欢乐台
+http://litv.zapi.us.kg/?id=4gtv-4gtv070
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="台湾",寰宇新聞台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-name="Mnews 镜新闻" tvg-logo="https://assets.livednow.com/logo/Mnews 镜新闻.png" group-title="台湾",Mnews 镜新闻
@@ -271,7 +273,7 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv075
 http://litv.zapi.us.kg/?id=4gtv-4gtv017
 #EXTINF:-1 tvg-name="数位电影" tvg-logo="https://live.fanmingming.com/tv/数位电影.png" group-title="台湾",数位电影
 http://litv.zapi.us.kg/?id=4gtv-4gtv011
-#EXTINF:-1 tvg-name="CAT电影" tvg-logo="https://live.fanmingming.com/tv/CAT电影.png" group-title="台湾",CAT电影
+#EXTINF:-1 tvg-name="CAT电影" tvg-logo="https://live.fanmingming.com/tv/CAT电影.png" group-title="台湾",CATCHPLAY 电影
 http://litv.zapi.us.kg/?id=4gtv-4gtv076
 #EXTINF:-1 tvg-name="韩国娱乐台" tvg-logo="https://live.fanmingming.com/tv/韩国娱乐台.png" group-title="台湾",韩国娱乐台
 http://litv.zapi.us.kg/?id=4gtv-4gtv016
