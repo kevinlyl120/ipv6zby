@@ -173,11 +173,13 @@ http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 #EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://epg.iill.top/logo/千禧经典.png" group-title="港澳",千禧經典台
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-name=" 爆谷台" tvg-logo="https:" group-title="港澳",爆谷台
+#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://epg.iill.top/logo/爆谷台.png" group-title="港澳",NOW爆谷台
 http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https:" group-title="港澳",Now星影台
+#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://epg.iill.top/logo/星影台.png" group-title="港澳",NOW爆谷星影台
 http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
-#EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https:" group-title="港澳",美亞電影台(HK)
+
+
+#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.iill.top/logo/美亚电影.png" group-title="港澳",美亞電影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="CH5(HD)" tvg-name="CH5(HD)" tvg-logo="https://epg.iill.top/logo/Channel5.png" group-title="港澳",Channel 5
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
@@ -185,9 +187,9 @@ http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 tvg-id="CHU(HD)" tvg-name="CHU(HD)" tvg-logo="https://epg.iill.top/logo/ChannelU.png" group-title="港澳",Channel U
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="港澳",黃金翡翠台
+#EXTINF:-1 tvg-id="MYTVSUPER18台" tvg-name="MYTVSUPER18台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="港澳",myTV SUPER
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-7" group-title="港澳",MyTV SUPER
+#EXTINF:-1 tvg-id="MYTVSUPER18台" tvg-name="MYTVSUPER18台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="港澳",myTV SUPER
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-id="MYTVSUPER18台" tvg-name="MYTVSUPER18台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="港澳",myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
@@ -197,8 +199,7 @@ http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.iill.top/logo/tvN.png" group-title="港澳",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/null-3" group-title="港澳",亞洲新聞台
-#EXTINF:-1 tvg-id="CNAHD" tvg-name="CNAHD" tvg-logo="https://epg.iill.top/logo/CNA.png" group-title="港澳",亞洲新聞台
+#EXTINF:-1 tvg-id="CNAHD" tvg-name="CNAHD" tvg-logo="https://epg.iill.top/logo/CNA.png" group-title="港澳", CNAHD
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="环球电视" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="港澳",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
