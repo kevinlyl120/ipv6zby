@@ -179,25 +179,47 @@ http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
 #EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https:" group-title="港澳",美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/channel8hd" group-title="港澳",Channel 8 HD
+#EXTINF:-1 tvg-id="CH5(HD)" tvg-name="CH5(HD)" tvg-logo="https://epg.iill.top/logo/Channel5.png" group-title="港澳",Channel 5
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-id="CH8(HD)" tvg-name="CH8(HD)" tvg-logo="https://epg.iill.top/logo/Channel8.png" group-title="港澳",Channel 8
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-21" group-title="港澳",MyTV SUPER
+#EXTINF:-1 tvg-id="CHU(HD)" tvg-name="CHU(HD)" tvg-logo="https://epg.iill.top/logo/ChannelU.png" group-title="港澳",Channel U
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="港澳",黃金翡翠台
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/null-7" group-title="港澳",MyTV SUPER
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/mytvsuper18" group-title="港澳",myTV SUPER 18台
+#EXTINF:-1 tvg-id="MYTVSUPER18台" tvg-name="MYTVSUPER18台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="港澳",myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="aktv/rockaction" group-title="港澳",ROCK Action
+#EXTINF:-1 tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.iill.top/logo/RockAction.png" group-title="港澳",ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/popc" group-title="港澳",PopC
+#EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://epg.iill.top/logo/PopC.png" group-title="港澳",PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/tvn" group-title="港澳",tvN
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.iill.top/logo/tvN.png" group-title="港澳",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-id="aktv3/null-3" group-title="港澳",亞洲新聞台
+#EXTINF:-1 tvg-id="CNAHD" tvg-name="CNAHD" tvg-logo="https://epg.iill.top/logo/CNA.png" group-title="港澳",亞洲新聞台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="环球电视" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="港澳",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 tvg-id="aktv3/null-3" group-title="港澳",亞洲新聞台
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="IFUN动漫台" tvg-name="IFUN动漫台" tvg-logo="https://epg.iill.top/logo/IFUN动漫.png" group-title="港澳",i-Fun 動漫台
+http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://epg.iill.top/logo/Kix.png" group-title="港澳",Kix
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.iill.top/logo/Thrill.png" group-title="港澳",Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.iill.top/logo/DW.png" group-title="港澳",DW
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-id="FRANCE24EHD" tvg-name="FRANCE24EHD" tvg-logo="https://epg.iill.top/logo/FRANCE24.png" group-title="港澳",France 24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 tvg-id="NICKJR." tvg-name="NICKJR." tvg-logo="https://epg.iill.top/logo/Nickjr.png" group-title="港澳",Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.iill.top/logo/Nickelodeon.png" group-title="港澳",Nickelodeon
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="https://epg.iill.top/logo/ZooMoo.png" group-title="港澳",ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾",TVBS HD
 http://litv.zapi.us.kg/?id=4gtv-4gtv073
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台湾",TVBS新闻台
