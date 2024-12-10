@@ -106,26 +106,26 @@ https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="广东",广东卫视
-http://219.159.194.66:8181/tsfile/live/0125_1.m3u8
+http://123.52.110.108:9901/tsfile/live/0125_1.m3u8
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东",广东新闻
-http://219.159.194.66:8181/tsfile/live/1007_1.m3u8
+http://119.125.134.212:9902/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东",广东体育
-http://219.159.194.66:8181/tsfile/live/1001_1.m3u8
+http://119.125.134.212:9902/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://119.125.134.205:9902/tsfile/live/1010_1.m3u8
+http://119.125.134.212:9902/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
-http://59.32.97.71:9901/tsfile/live/1004_1.m3u8
+http://119.125.134.212:9902/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东",广东民生
-http://219.159.194.66:8181/tsfile/live/1002_1.m3u8
+http://119.125.134.212:9902/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东",广东经济科教
-http://219.159.194.66:8181/tsfile/live/1003_1.m3u8
+http://119.125.134.212:9902/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="广东",广东影视
-http://219.159.194.66:8181/tsfile/live/1004_1.m3u8
+http://119.125.134.212:9902/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-name="广东少儿频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="广东",广东少儿频道
 http://219.159.194.66:8181/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="广东",嘉佳卡通
 http://113.102.83.24:4022/udp/239.77.0.179:5146
-https://stream1.freetv.fun/jia-jia-qia-tong-3.ctv
+http://59.32.97.71:9901/tsfile/live/1031_1.m3u8
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东",广州综合
 http://113.102.83.24:4022/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东",广州新闻
@@ -147,7 +147,7 @@ http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠台(北美)
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳", 翡翠综合台(北美)
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
@@ -184,8 +184,7 @@ http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/mytvsuper18" group-title="港澳",myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/hoy78" group-title="港澳",Hoy 78
-http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+
 #EXTINF:-1 tvg-id="aktv/rockaction" group-title="港澳",ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/popc" group-title="港澳",PopC
