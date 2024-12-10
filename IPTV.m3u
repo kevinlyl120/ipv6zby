@@ -129,6 +129,8 @@ http://119.125.134.212:9902/tsfile/live/1016_1.m3u8
 http://219.159.194.66:8181/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="广东",嘉佳卡通
 http://113.102.83.24:4022/udp/239.77.0.179:5146
+#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="广东",南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东",广州综合
 http://113.102.83.24:4022/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东",广州新闻
@@ -137,8 +139,6 @@ http://113.102.83.24:4022/udp/239.253.43.72:5146
 http://113.102.83.24:4022/udp/239.253.43.74:5146
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="广东",广州影视
 http://113.102.83.24:4022/udp/239.253.43.73:5146
-#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="广东",南国都市
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
