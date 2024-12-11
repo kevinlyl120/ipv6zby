@@ -131,7 +131,7 @@ http://113.111.16.104:8888/udp/239.77.0.250:5146
 http://113.111.16.104:8888/udp/239.77.0.213:5146
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png" group-title="广东",岭南戏曲
 http://113.111.16.104:8888/udp/239.77.0.122:5146
-#EXTINF:-1 tvg-name="4K超高清" tvg-logo="https://live.fanmingming.com/tv/4K超高清.png" group-title="广东",4K超高清
+#EXTINF:-1 tvg-name="4K超高清" tvg-logo="https://live.fanmingming.com/tv/广东4K.png" group-title="广东",4K超高清
 http://113.111.16.104:8888/udp/239.77.0.244:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="广东",嘉佳卡通
 http://113.111.16.104:8888/udp/239.77.0.179:5146
