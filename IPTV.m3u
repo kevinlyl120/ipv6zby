@@ -1,10 +1,12 @@
 #EXTM3U url-tvg="https://e.erw.cc/all.xml.gz"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000501/index.m3u8?
+http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视",CCTV2
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视",CCTV3
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000003/index.m3u8?
+http://223.105.252.60/PLTV/4/224/3221228499/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4" group-title="央视",CCTV4 
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000503/index.m3u8?
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" group-title="央视",CCTV4 欧洲
@@ -377,3 +379,5 @@ http://111.13.111.242/000000001001/3000000001000010129/1.m3u8?Contentid=1&HlsPro
 http://111.13.111.242/000000001001/3000000001000028638/1.m3u8?Contentid=1&HlsProfileId=
 #EXTINF:-1 tvg-name="咪咕直播32" tvg-logo="https://live.fanmingming.com/tv/咪咕直播32.png" group-title="咪咕直播",咪咕直播 32
 http://111.13.111.242/000000001001/3000000001000031494/1.m3u8?Contentid=1&HlsProfileId=
+#EXTINF:-1 tvg-name="咪咕音乐4K" tvg-logo="https://live.fanmingming.com/tv/咪咕音乐4K.png" group-title="咪咕直播",咪咕音乐4K
+http://223.105.252.60/PLTV/4/224/3221228794/index.m3u8?servicetype=1
