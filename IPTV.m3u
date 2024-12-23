@@ -136,9 +136,9 @@ http://119.32.12.32:2901/udp/224.1.100.36:11111
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东",广州新闻
 http://119.32.12.32:2901/udp/224.1.100.38:11111
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="广东",广州法治
-http://113.102.83.24:4022/udp/239.253.43.74:5146
+http://14.115.91.60:7878/udp/239.253.43.74:5146
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="广东",广州影视
-http://113.102.83.24:4022/udp/239.253.43.73:5146
+http://14.115.91.60:7878/udp/239.253.43.73:5146
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -491,4 +491,3 @@ https://tv.iill.top/beesport/CBS_Sports_Network_Live_TV
 https://tv.iill.top/beesport/Fox_Sports_1_Live_TV
 #EXTINF:-1 tvg-id="Fox-Sports-2" tvg-name="Fox Sports 2" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-2.png" group-title="国外体育",Fox Sports 2
 https://tv.iill.top/beesport/Fox_Sports_2_Live_TV
-
