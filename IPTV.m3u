@@ -164,6 +164,7 @@ http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳", 翡翠综合台(北美)
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠剧集台(北美)
@@ -235,9 +236,9 @@ http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾",TVBS HD
-http://litv.zapi.us.kg/?id=4gtv-4gtv073
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台湾",TVBS新闻台
-http://litv.zapi.us.kg/?id=4gtv-4gtv072
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="台湾",TVBS欢乐台
 http://litv.zapi.us.kg/?id=4gtv-4gtv068
 #EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://assets.livednow.com/logo/TVBS-精采台.png" group-title="台湾",TVBS精采台
@@ -253,14 +254,13 @@ https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
 #EXTINF:-1 tvg-name="中天娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="台湾",中天新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv009
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" group-title="台湾",中天亞洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-http://litv.zapi.us.kg/?id=4gtv-4gtv109
 #EXTINF:-1 tvg-name="台视财经" tvg-logo="https://live.fanmingming.com/tv/台视财经.png" group-title="台湾",台视财经
 http://litv.zapi.us.kg/?id=4gtv-4gtv056
 #EXTINF:-1 tvg-name="台视 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台湾",台视 HD
-http://litv.zapi.us.kg/?id=4gtv-4gtv066
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="民视 HD" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="台湾",民视 HD
 http://litv.zapi.us.kg/?id=4gtv-4gtv002
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="台湾",民视新闻
@@ -272,9 +272,9 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv003
 #EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="台湾",民视综艺
 http://litv.zapi.us.kg/?id=4gtv-4gtv004
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="台湾",华视新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv041
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="台湾",东森新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv152
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="东森财经" tvg-logo="https://assets.livednow.com/logo/東森財經新聞.png" group-title="台湾",东森财经
 https://litv.zapi.us.kg/?id=4gtv-4gtv153
 #EXTINF:-1 tvg-name="壹新聞" tvg-logo="https://epg.v1.mk/logo/壹新闻.png" group-title="台湾",壹新聞
@@ -298,13 +298,13 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv063
 #EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://live.fanmingming.com/tv/靖天资讯.png" group-title="台湾",靖天资讯
 http://litv.zapi.us.kg/?id=4gtv-4gtv065
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="台湾",中视新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv040
-#EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://live.fanmingming.com/tv/中视菁采.png" group-title="台湾",中视菁采
-http://litv.zapi.us.kg/?id=4gtv-4gtv064
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 #EXTINF:-1 tvg-name="ELTA 欢乐台" tvg-logo="https://live.fanmingming.com/tv/ELTA欢乐台.png" group-title="台湾",ELTA 欢乐台
 http://litv.zapi.us.kg/?id=4gtv-4gtv070
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="台湾",寰宇新聞台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 tvg-name=" 華視" tvg-logo="https://assets.livednow.com/logo/ 華視.png" group-title="台湾", 華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 #EXTINF:-1 tvg-name="Mnews 镜新闻" tvg-logo="https://assets.livednow.com/logo/Mnews 镜新闻.png" group-title="台湾",Mnews 镜新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv075
 #EXTINF:-1 tvg-name="AMC电影" tvg-logo="https://live.fanmingming.com/tv/AMC电影.png" group-title="台湾",AMC电影
