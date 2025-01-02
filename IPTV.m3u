@@ -128,9 +128,10 @@ http://119.32.12.32:2901/udp/224.1.100.96:11111
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东",广东新闻
 http://113.65.5.217:85/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东",广东体育
-http://119.32.12.32:2901/udp/224.1.100.34:11111
+http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://119.32.12.32:2901/udp/224.1.100.23:11111
+http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8%24LR%E2%80%A2IPV6%E3%80%8E%E7%BA%BF%E8%B7%AF4%E3%80%8F
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
 http://119.125.134.232:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东",广东民生
@@ -146,13 +147,13 @@ http://14.115.91.60:7878/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="广东",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东",广州综合
-http://119.32.12.32:2901/udp/224.1.100.36:11111
+http://dns.yiandrive.com:15907/gztv/zhonghe
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东",广州新闻
-http://119.32.12.32:2901/udp/224.1.100.38:11111
+http://dns.yiandrive.com:15907/gztv/xinwen
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="广东",广州法治
-http://119.32.12.32:2901/udp/224.1.100.17:11111
+http://dns.yiandrive.com:15907/gztv/fazhi
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="广东",广州影视
-http://119.32.12.32:2901/udp/224.1.100.88:11111
+http://dns.yiandrive.com:15907/gztv/yingshi
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -505,4 +506,3 @@ https://tv.iill.top/beesport/CBS_Sports_Network_Live_TV
 https://tv.iill.top/beesport/Fox_Sports_1_Live_TV
 #EXTINF:-1 tvg-id="Fox-Sports-2" tvg-name="Fox Sports 2" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-2.png" group-title="国外体育",Fox Sports 2
 https://tv.iill.top/beesport/Fox_Sports_2_Live_TV
-
