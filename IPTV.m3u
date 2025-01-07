@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://e.erw.cc/all.xml.gz"
+#EXTM3U url-tvg="ttps://live.fanmingming.cn/e.xml"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="4K 频道",CCTV1
 http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
