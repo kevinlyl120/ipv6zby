@@ -15,7 +15,7 @@ http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
 
 
 
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="电视剧 4K" tvg-logo="" group-title="4K 频道",电视剧 4K
+#EXTINF:-1 tvg-id="电视剧 4K" tvg-name="电视剧 4K" tvg-logo="" group-title="4K 频道",电视剧 4K
 http://223.105.252.60/PLTV/4/224/3221228711/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="真 4K" tvg-logo="" group-title="4K 频道",真 4K
 http://223.105.252.60/PLTV/4/224/3221228141/index.m3u8?servicetype=1
