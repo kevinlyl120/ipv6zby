@@ -41,7 +41,7 @@ http://148.135.93.213:81/live.php?id=CCTV17
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
 http://148.135.93.213:81/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
-http://148.135.93.213:81/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
+http://dsm.huarunguoji.top:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视
 http://148.135.93.213:81/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
@@ -145,15 +145,14 @@ http://wouu.net:9977/udp/239.93.1.4:2191
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="港澳",凤凰港澳
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="港澳",无线新闻台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳", 翡翠综合台(北美)
-http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+http://beishan008.asuscomm.com:8889/bysid/1.m3u8%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF11%E3%80%8F
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+http://cdn.132.us.kg/live/fct4k/stream.m3u8
+
 #EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港澳",TVBPLUS
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB星河台.png" group-title="港澳",TVB星河台
 http://aktv.top/AKTV/live/aktv/tvb/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="港澳",TVB娱乐新闻台
@@ -165,9 +164,9 @@ http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 #EXTINF:-1 tvg-name="美亚C+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="港澳",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="港澳",VIU 99
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+http://m.osvs.asia:8000/bysid/99
 #EXTINF:-1 tvg-name="VIUTVSIX" tvg-logo="https://live.fanmingming.com/tv/VIUTVSIX.png" group-title="港澳",VIU 96
-http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+http://m.osvs.asia:8000/bysid/96
 #EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://epg.iill.top/logo/千禧经典.png" group-title="港澳",千禧經典台
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://epg.iill.top/logo/爆谷台.png" group-title="港澳",NOW爆谷台
