@@ -128,12 +128,15 @@ http://113.65.9.137:4014/udp/239.77.0.179:5146
 http://dns.yiandrive.com:15907/gztv/shenghuo
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东",广州综合
 http://dns.yiandrive.com:15907/gztv/zhonghe
+https://stream1.freetv.fun/yan-zhou-zong-he-22.ctv
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东",广州新闻
 http://dns.yiandrive.com:15907/gztv/xinwen
+https://stream1.freetv.fun/yan-zhou-xin-wen-7.ctv
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="广东",广州法治
 http://dns.yiandrive.com:15907/gztv/fazhi
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="广东",广州影视
 http://dns.yiandrive.com:15907/gztv/yingshi
+https://stream1.freetv.fun/yan-zhou-ying-shi-2.ctv
 
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="港澳",凤凰中文
