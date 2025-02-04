@@ -110,7 +110,9 @@ http://115.149.139.141:10000/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authi
 http://14.117.233.59:9000/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东",广东体育
 http://119.32.12.32:2901/udp/224.1.100.34:11111
+https://stream1.freetv.fun/yan-dong-ti-yu-15.ctv
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
+http://14.112.86.85:4022/udp/239.77.0.1:5146
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
 http://113.65.9.137:4014/udp/239.77.0.215:5146%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF30%E3%80%8F
