@@ -160,6 +160,8 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 #EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="港澳",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
 #EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://epg.112114.xyz/logo/ASTROAEC.png" group-title="港澳",Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
