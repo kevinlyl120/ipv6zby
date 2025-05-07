@@ -59,7 +59,6 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221226339/index.m3u8?IASHttpSessionI
 http://39.134.64.87:6610/PLTV/88888888/224/3221226310/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
 http://39.134.64.87:6610/PLTV/88888888/224/3221226450/index.m3u8?IASHttpSessionId=%E3%80%81
-http://66.siyba.cn/7Etp7
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
 http://39.134.64.87:6610/PLTV/88888888/224/3221226477/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视",江西卫视
@@ -106,11 +105,13 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221226327/index.m3u8?IASHttpSessionI
 http://39.134.64.87:6610/PLTV/88888888/224/3221226465/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视",西藏卫视
 http://148.135.93.213:81/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://148.135.93.213:81/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="卫视",兵团卫视
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="广东",广东卫视
 http://39.134.64.87:6610/PLTV/88888888/224/3221226248/index.m3u8?IASHttpSessionId=
-
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东",广东新闻
 http://113.64.146.6:2024/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东",广东体育
@@ -120,8 +121,6 @@ http://113.64.146.6:2024/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
 http://222.128.55.152:9080/live/dwq.m3u8
 
-#EXTINF:-1 tvg-name="4K超高清" tvg-logo="https://live.fanmingming.com/tv/4K超高清.png" group-title="广东",4K超高清
-http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&amp%3Bamp%3Bplaylive=0&amp%3Bamp%3Bauthid=0
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东",广东民生
 http://113.64.146.6:2024/hls/38/index.m3u8
 #EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东",广东经济科教
@@ -173,43 +172,18 @@ http://php.jdshipin.com/smt.php?id=Quanjia
 http://php.jdshipin.com/smt.php?id=Huahee
 
 
-#EXTINF:-1 tvg-id="715574" tvg-logo="https://logo.iptveditor.com/premiersports1.png" group-title="港澳",Now HK Premier Sports 1
-http://66.siyba.cn/9X1OM
-#EXTINF:-1 tvg-id="715573" tvg-logo="https://logo.iptveditor.com/premiersports2.png" group-title="港澳",Now HK Premier Sports 2
-http://66.siyba.cn/aHEkf
-#EXTINF:-1 tvg-id="715572" tvg-logo="https://logo.iptveditor.com/premiersports3.png" group-title="港澳",Now HK Premier Sports 3
-http://66.siyba.cn/bsgPI
-#EXTINF:-1 tvg-id="715571" tvg-logo="https://logo.iptveditor.com/premiersports4.png" group-title="港澳",Now HK Premier Sports 4
-http://66.siyba.cn/bwVRf
-#EXTINF:-1 tvg-id="715570" tvg-logo="https://logo.iptveditor.com/premiersports5.png" group-title="港澳",Now HK Premier Sports 5
-http://66.siyba.cn/chymI
-#EXTINF:-1 tvg-id="715569" tvg-logo="https://logo.iptveditor.com/premiersports.png" group-title="港澳",Now HK Premier Sports 6
-http://66.siyba.cn/d1IfZ
-#EXTINF:-1 tvg-id="715568" tvg-logo="https://logo.iptveditor.com/premiersports.png" group-title="港澳",Now HK Premier Sports 7
-http://66.siyba.cn/70Kce
-#EXTINF:-1 tvg-id="715567" tvg-logo="https://logo.iptveditor.com/premiersports.png" group-title="港澳",Now HK Premier Sports 8
-http://66.siyba.cn/7Lmrz
-#EXTINF:-1 tvg-id="715566" tvg-logo="https://logo.iptveditor.com/nowsports1.png" group-title="港澳",Now HK Now Sports 1
-http://66.siyba.cn/8vYX2
-#EXTINF:-1 tvg-id="715565" tvg-logo="https://logo.iptveditor.com/nowsports2.png" group-title="港澳",Now HK Now Sports 2
-http://66.siyba.cn/9gBsv
-#EXTINF:-1 tvg-id="715564" tvg-logo="https://logo.iptveditor.com/nowsports3.png" group-title="港澳",Now HK Now Sports 3
-http://66.siyba.cn/9X1OW
-#EXTINF:-1 tvg-id="715563" tvg-logo="https://logo.iptveditor.com/nowsports4.png" group-title="港澳",Now HK Now Sports 4
-http://66.siyba.cn/aHEkp
-#EXTINF:-1 tvg-id="715562" tvg-logo="https://logo.iptveditor.com/nowsports5.png" group-title="港澳",Now HK Now Sports 5
-http://66.siyba.cn/bsgPS
-#EXTINF:-1 tvg-id="715561" tvg-logo="https://logo.iptveditor.com/nowsports6.png" group-title="港澳",Now HK Now Sports 6
-http://66.siyba.cn/bwVT1
-#EXTINF:-1 tvg-id="715560" tvg-logo="https://logo.iptveditor.com/nowsports7.png" group-title="港澳",Now HK Now Sports 7
-http://66.siyba.cn/chyou
-#EXTINF:-1 tvg-id="715559" tvg-logo="https://logo.iptveditor.com/nowsportsprime.png" group-title="港澳",Now Sports PRIME
-http://66.siyba.cn/d1IhL
-#EXTINF:-1 tvg-id="715558" tvg-logo="https://logo.iptveditor.com/nowsports616.png" group-title="港澳",Now HK Now Sports 4K 616
-http://66.siyba.cn/70JXS
-#EXTINF:-1 tvg-id="715557" tvg-logo="https://logo.iptveditor.com/nowsports617.png" group-title="港澳",Now HK Now Sports 4K 617
-http://66.siyba.cn/7Lmtl
 
+#EXTINF:-1 tvg-id="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="港澳",寰宇新聞
+http://222.128.55.152:9080/live/hy.m3u8
+
+#EXTINF:-1 tvg-id="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+
+#EXTINF:-1 tvg-id="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+
+#EXTINF:-1 tvg-id="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS亚洲.png" group-title="港澳",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕直播",咪咕直播4K Ⅰ
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
