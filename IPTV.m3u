@@ -145,13 +145,12 @@ http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="港澳",凤凰资讯
 http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="港澳",无线新闻台
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠台
 http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="港澳",无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻.png" group-title="港澳",TVB娱乐新闻
 http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
-
 #EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港澳",TVBPLUS
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-name="美亚C+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="港澳",美亚C+
@@ -162,7 +161,6 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-
 #EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://epg.112114.xyz/logo/ASTROAEC.png" group-title="港澳",Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
 #EXTINF:-1 tvg-id="Astro QJ" tvg-logo="https://epg.112114.xyz/logo/ASTROQJ.png" group-title="港澳",Astro QJ
