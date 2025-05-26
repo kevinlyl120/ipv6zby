@@ -186,11 +186,11 @@ http://php.jdshipin.com/smt.php?id=Quanjia
 http://php.jdshipin.com/smt.php?id=Huahee
 
 
-#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title=港澳",东森新闻
+#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港澳",东森新闻
 https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title=港澳",寰宇新闻
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="港澳",寰宇新闻
 https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title=港澳",中天新闻
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="港澳",中天新闻
 https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳",TVBS新聞
 http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
