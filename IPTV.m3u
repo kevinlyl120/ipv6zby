@@ -140,11 +140,11 @@ https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548
 #EXTINF:-1 tvg-name="番禺新闻" tvg-logo="https://live.fanmingming.com/tv/番禺新闻.png" group-title="广东",番禺新闻
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="港澳",凤凰中文
-https://cdn.163189.xyz/live/fhzw/stream.m3u8
+https://cdn5.163189.xyz/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="港澳",凤凰香港
 https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="港澳",凤凰资讯
-https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠台
 https://cdn6.163189.xyz/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳",明珠台
