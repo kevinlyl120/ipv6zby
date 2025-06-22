@@ -221,24 +221,32 @@ https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548
 #EXTINF:-1 tvg-name="番禺新闻" tvg-logo="https://live.fanmingming.com/tv/番禺新闻.png" group-title="广东",番禺新闻
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="港澳",凤凰中文
-https://cdn.163189.xyz/live/fhzw/stream.m3u8
+http://cdn.jdshipin.com/jisu.php?id=fhzw
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="港澳",凤凰香港
-https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+http://cdn.jdshipin.com/jisu.php?id=fhxg
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="港澳",凤凰资讯
+http://cdn.jdshipin.com/jisu.php?id=fhzx
 http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-https://cdn6.163189.xyz/live/fct4k/stream.m3u8
+http://cdn.jdshipin.com/jisu.php?id=fct
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="港澳",无线新闻台
-http://php.jdshipin.com/smt.php?id=inews_twn
+http://cdn.jdshipin.com/jisu.php?id=wxxw
 #EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻.png" group-title="港澳",TVB娱乐新闻
 http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 #EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港澳",TVBPLUS
 https://cdn.163189.xyz/live/tvbp/stream.m3u8
 #EXTINF:-1 tvg-id="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+
+#EXTINF:-1 tvg-id="CH5" tvg-name="CH5" tvg-logo="https://epg.112114.xyz/logo/CH5.png" group-title="港澳",CH5
+https://cdn6.163189.xyz/live/ch5/stream.m3u8
+#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" tvg-logo="https://epg.112114.xyz/logo/CH8.png" group-title="港澳",CH8
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
+#EXTINF:-1 tvg-id="CHU" tvg-name="CHU" tvg-logo="https://epg.112114.xyz/logo/CHU.png" group-title="港澳",CHU
+https://cdn6.163189.xyz/live/chu/stream.m3u8
+
 #EXTINF:-1 tvg-id="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="港澳",澳视澳门
 https://cdn.163189.xyz/live/asam/stream.m3u8
 #EXTINF:-1 tvg-id="澳视卫星" tvg-logo="https://epg.112114.xyz/logo/澳视卫星.png" group-title="港澳",澳视卫星
@@ -248,7 +256,26 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-id="HOY TV" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png" group-title="港澳",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1 tvg-id="TVB J1" tvg-logo="https://epg.112114.xyz/logo/TVB J1.png" group-title="港澳",TVB J1
-https://cdn6.163189.xyz/live/j1/stream.m3u8
+http://php.jdshipin.com/PLTV/iptv.php?id=j1
+#EXTINF:-1 tvg-id="RTHK-31" tvg-name="RTHK-31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="港澳",RTHK-31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="RTHK-32" tvg-name="RTHK-32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳",RTHK-32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://epg.112114.xyz/logo/八度空间.png" group-title="港澳",八度空间
+https://cdn6.163189.xyz/live/8tv/stream.m3u8
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://epg.112114.xyz/logo/龙华电影.png" group-title="港澳",龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.112114.xyz/logo/龙华经典.png" group-title="港澳",龙华经典
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+#EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" group-title="港澳",龙华偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://epg.112114.xyz/logo/龙华日韩台.png" group-title="港澳",龙华日韩
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华戏剧.png" group-title="港澳",龙华戏剧
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://epg.112114.xyz/logo/龙华洋片.png" group-title="港澳",龙华洋片
+https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕直播",咪咕直播4K Ⅰ
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
