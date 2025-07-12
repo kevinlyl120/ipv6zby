@@ -125,18 +125,22 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221226397/index.m3u8?IASHttpSessionI
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",湖南卫视
 http://118.89.87.74:88/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
+http://148.135.93.213/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",浙江卫视
 http://118.89.87.74:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+http://148.135.93.213/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",江苏卫视
 http://118.89.87.74:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",北京卫视
 http://118.89.87.74:88/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",广东卫视
 http://118.89.87.74:88/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
+http://148.135.93.213/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",东方卫视
 http://118.89.87.74:88/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",深圳卫视
 http://118.89.87.74:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
+http://148.135.93.213/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",湖北卫视
 http://118.89.87.74:88/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",江西卫视
@@ -175,6 +179,7 @@ http://118.89.87.74:88/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 http://118.89.87.74:88/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",内蒙古卫视
 http://118.89.87.74:88/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
+http://148.135.93.213/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",西藏卫视
 http://118.89.87.74:88/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",新疆卫视
@@ -212,31 +217,40 @@ https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548
 #EXTINF:-1 tvg-name="番禺新闻" tvg-logo="https://live.fanmingming.com/tv/番禺新闻.png" group-title="广东",番禺新闻
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="港澳",凤凰中文
-http://cdn.jdshipin.com/jisu.php?id=fhzw
 http://bx.757888.xyz/api.php?id=fhzw
+
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="港澳",凤凰资讯
-http://cdn.jdshipin.com/jisu.php?id=fhzx
 http://bx.757888.xyz/api.php?id=fhzx
-http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
+
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="港澳",凤凰香港
-http://cdn.jdshipin.com/jisu.php?id=fhxg
 http://bx.757888.xyz/api.php?id=fhhk
+
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠台
-http://cdn.jdshipin.com/jisu.php?id=fct
+http://118.89.87.74:88/live.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
+http://bx.757888.xyz/api.php?id=fct
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳",明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="港澳",无线新闻台
-http://cdn.jdshipin.com/jisu.php?id=wxxw
+http://bx.757888.xyz/api.php?id=wxxw
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+
+#EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="港澳",有线新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+
 #EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻.png" group-title="港澳",TVB娱乐新闻
 http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 #EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港澳",TVBPLUS
 https://cdn.163189.xyz/live/tvbp/stream.m3u8
+
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
 #EXTINF:-1 tvg-id="TVB J1" tvg-logo="https://epg.112114.xyz/logo/TVB J1.png" group-title="港澳",TVB J1
 http://php.jdshipin.com/PLTV/iptv.php?id=j1
 #EXTINF:-1 tvg-id="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.112114.xyz/logo/MYTVSUPER18台.png" group-title="港澳",myTV SUPER 18台
-https://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
+
 #EXTINF:-1 tvg-id="RTHK-31" tvg-name="RTHK-31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="港澳",RTHK-31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTHK-32" tvg-name="RTHK-32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳",RTHK-32
