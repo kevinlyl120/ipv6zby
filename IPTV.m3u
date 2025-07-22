@@ -126,6 +126,7 @@ http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="港澳",凤凰香港
 http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠台
+http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
 http://bx.757888.xyz/api.php?id=fct
 http://erp.giihgtidg.com:8080/live/jade01.m3u8
 #EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",黃金翡翠台
@@ -146,24 +147,13 @@ http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
 http://php.jdshipin.com/PLTV/iptv.php?id=j1
 #EXTINF:-1 tvg-id="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.112114.xyz/logo/MYTVSUPER18台.png" group-title="港澳",myTV SUPER 18台
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
+
 #EXTINF:-1 tvg-id="RTHK-31" tvg-name="RTHK-31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="港澳",RTHK-31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTHK-32" tvg-name="RTHK-32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳",RTHK-32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="CH5" tvg-name="CH5" tvg-logo="https://epg.112114.xyz/logo/CH5.png" group-title="港澳",CH5
-https://cdn6.163189.xyz/live/ch5/stream.m3u8
-#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" tvg-logo="https://epg.112114.xyz/logo/CH8.png" group-title="港澳",CH8
-https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#EXTINF:-1 tvg-id="CHU" tvg-name="CHU" tvg-logo="https://epg.112114.xyz/logo/CHU.png" group-title="港澳",CHU
-https://cdn6.163189.xyz/live/chu/stream.m3u8
-#EXTINF:-1 tvg-name="美亚C+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="港澳",美亚C+
-http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://epg.112114.xyz/logo/美亞電影台.png" group-title="港澳",美亞電影台
 http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-id="HOY TV" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png" group-title="港澳",HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1 tvg-id="八度空间"  tvg-logo="https://epg.112114.xyz/logo/八度空间.png" group-title="港澳",八度空间
 http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="港澳",AXN
@@ -209,10 +199,9 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
 #EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="港澳",中天新闻台
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="taiwan/CH-1" group-title="未分类",民視
+#EXTINF:-1 tvg-id="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="港澳",民視
 http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="astro/CH-1" group-title="未分类",中天亚洲台
+#EXTINF:-1 tvg-id="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="港澳",中天亚洲台
 http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕直播",咪咕直播4K Ⅰ
