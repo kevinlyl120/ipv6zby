@@ -132,14 +132,15 @@ http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",黃金翡翠台
 http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台娱乐台
+http://s1.an94tv.cfd/aktv/CH-7/AKTV.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
 http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="港澳台",无线新闻台
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+https://stream1.freetv.fun/e1197be826728274665ea76c587129b5e539d04d03e1f6ead9cf530ef31c1983.m3u8
 #EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="港澳台",有线新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+https://stream1.freetv.fun/becf9a78d5be5a31016da97c31df2b591a47ce1cfe0add948357afdce3d6ec31.ctv
 #EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻台.png" group-title="港澳台",TVB娱乐新闻
-http://s1.an94tv.cfd/aktv/CH-7/AKTV.m3u8
 http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 #EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港澳台",TVBPLUS
 http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
@@ -159,6 +160,8 @@ http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
 #EXTINF:-1 tvg-id="八度空间"  tvg-logo="https://epg.112114.xyz/logo/八度空间.png" group-title="港澳台",八度空间
 http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
+#EXTINF:-1 tvg-id="美亚C+"  tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="港澳台",美亚C+
+https://stream1.freetv.fun/99f3233e5bc35124a936ce032ec14fdf9c2ad50336346faaa4075affd912ca6e.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="港澳台",AXN
 http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
 #EXTINF:-1 tvg-id="PopC" tvg-logo="https://epg.112114.xyz/logo/POPC.png" group-title="港澳台",PopC
@@ -169,12 +172,6 @@ http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
 http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-id="HBo高清" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBo高清
 https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
-#EXTINF:-1 tvg-id="aktv2/CH-1" group-title="港澳台",好萊塢電影台
-http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/CH-2" group-title="港澳台",東森洋片
-http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/CH-0" group-title="港澳台",緯來體育台
-http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktvjp/japannews24hlive" group-title="港澳台",Japan News 24H LIVE
 http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv3/cna" group-title="港澳台",CNA
@@ -208,6 +205,7 @@ http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="港澳台",TVBS欢乐台
 https://stream1.freetv.fun/db4fdb60646745d166ab4e98233c28544cae838caebb298399ed44df1b5c7b87.ctv
+http://61.216.11.93:49981/stream/channelid/1607444205?profile=webtv-h264-aac-mpegts
 #EXTINF:-1 tvg-id="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="港澳台",民視
 http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="民視第一台" tvg-logo="https://epg.112114.xyz/logo/民視第一台.png" group-title="港澳台",民視第一台
@@ -232,6 +230,21 @@ http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=ctient
 #EXTINF:-1 tvg-id="三立台湾台" tvg-logo="https://epg.112114.xyz/logo/三立闽南.png" group-title="港澳台",三立台湾台
 https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
+
+#EXTINF:-1 tvg-id="緯來綜合" tvg-logo="https://epg.112114.xyz/logo/緯來綜合.png" group-title="港澳台",緯來綜合
+http://61.216.11.93:49981/stream/channelid/106481234?profile=webtv-h264-aac-mpegts
+https://stream1.freetv.fun/541f6094f34e0290077cf0d55df31c49bc148118e6b030fa2165d5c8c35a6d1f.ctv
+
+#EXTINF:-1 tvg-id="Hollywood" tvg-logo="https://epg.112114.xyz/logo/HOLLYWOOD.png" group-title="港澳台",Hollywood
+http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
+http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="aktv2/CH-2" group-title="港澳台",東森洋片
+http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
+#EXTINF:-1 tvg-id="aktv2/CH-0" group-title="港澳台",緯來體育台
+http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="https://epg.112114.xyz/logo/緯來電影.png" group-title="🌟湾湾频道④🌟",緯來電影
+http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
+
 #EXTINF:-1 tvg-id="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视
