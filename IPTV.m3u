@@ -142,6 +142,7 @@ http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-id="广东卫视" group-title="广东",广东卫视
+https://stream1.freetv.fun/e1255de42910dd033a45639253014950f684758ba9b2670370dbfdfdd81d1ac0.ctv
 http://t.061899.xyz/tl/dq.php?id=gdws
 #EXTINF:-1 tvg-id="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东",广东新闻
 https://stream1.freetv.fun/c56ba60c13df9f49626c6191379f359e7db76aea953e82b7ff8420f6e1066072.ctv
