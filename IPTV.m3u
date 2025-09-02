@@ -48,6 +48,7 @@ http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
 http://101.35.240.114:88/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" http-user-agent="AptvPlayer-UA" group-title="央卫IPV4",广东卫视
 http://t.061899.xyz/tl/dq.php?id=gdws
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 https://tx-ws4klizhi.gdtv.cn/live/gdws4k.m3u8?txSecret=c4d796d2ff908536e9ff9be0560bb3fe&txTime=68b46b2f
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="央卫IPV4",深圳卫视
 http://iptv.huuc.edu.cn/hls/szhd.m3u8
@@ -142,8 +143,7 @@ http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-id="广东卫视" group-title="广东",广东卫视
-https://stream1.freetv.fun/e1255de42910dd033a45639253014950f684758ba9b2670370dbfdfdd81d1ac0.ctv
-http://t.061899.xyz/tl/dq.php?id=gdws
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东",广东新闻
 https://stream1.freetv.fun/c56ba60c13df9f49626c6191379f359e7db76aea953e82b7ff8420f6e1066072.ctv
 #EXTINF:-1 tvg-id="大湾区卫视" group-title="广东",大湾区卫视
@@ -414,3 +414,72 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="咪咕直播" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕直播",咪咕直播 𝟜𝟝
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=YanG-1989
+
+#EXTINF:-1 tvg-id="至臻世界4K" tvg-name="至臻世界4K" tvg-logo="https://epg.112114.xyz/logo/至臻世界4K.png" group-title="咪咕直播IPV6",至臻世界4K
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
+#EXTINF:-1 tvg-id="咪咕视频4K" tvg-name="咪咕视频4K" tvg-logo="https://epg.112114.xyz/logo/咪咕视频4K.png" group-title="咪咕直播IPV6",咪咕视频4K
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226080/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225636/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225637/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225638/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225639/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225640/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225641/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225643/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225644/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225646/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225657/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225674/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225676/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225679/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225678/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225681/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225680/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225683/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225682/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225684/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225685/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225686/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225688/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225689/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225690/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225692/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225693/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225694/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225695/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/1.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="咪咕直播IPV6",咪视界
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
