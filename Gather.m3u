@@ -714,7 +714,7 @@ https://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1 tvg-id="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="香港",无线新闻台
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="有线新闻" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="香港",有线新闻
-http://t.061899.xyz/tl/js/js.php?id=xgyxxwt
+http://feng163.com:8003/bysid/78.m3u8%24IPV4%E2%80%A2%E7%BA%BF%E8%B7%AF1
 #EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻台.png" group-title="香港",TVB娱乐新闻
 http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 #EXTINF:-1 ttvg-id="TVBPLUS" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="香港",TVBPLUS
@@ -725,36 +725,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTHK-32" tvg-id="RTHK-32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="香港",RTHK-32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="NOW新聞台" tvg-name="NOW新聞台" tvg-logo="https://epg-1.iill.top/logo/NOW新聞台.png" group-title="香港",now新聞台
-https://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="NOW財經台" tvg-name="NOW財經台" tvg-logo="https://epg-1.iill.top/logo/NOW財經台.png" group-title="香港",now財經台
-http://iptv.4666888.xyz/iptv.php?id=20085
-#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://epg-1.iill.top/logo/NOW星影台.png" group-title="香港",now星影台
-http://iptv.4666888.xyz/iptv.php?id=20086
-#EXTINF:-1 tvg-id="NOW 爆谷台" tvg-name="NOW 爆谷台" tvg-logo="https://epg-1.iill.top/logo/NOW爆谷台.png" group-title="香港",now爆谷台
-http://iptv.4666888.xyz/iptv.php?id=20087
-#EXTINF:-1 tvg-id="NOW華劇台" tvg-name="NOW華劇台" tvg-logo="https://epg-1.iill.top/logo/NOW華劇台.png" group-title="香港",now華劇台
-http://iptv.4666888.xyz/iptv.php?id=20091
-#EXTINF:-1 tvg-id="NOW SPORTS 英超1台" tvg-name="NOW SPORTS 英超1台" tvg-logo="https://epg-1.iill.top/logo/NOW-SPORTS-英超1台.png" group-title="香港",Now Sports 英超1台
-http://iptv.4666888.xyz/iptv.php?id=20092
-#EXTINF:-1 tvg-id="NOW SPORTS 2" tvg-name="NOW SPORTS 2" tvg-logo="https://epg-1.iill.top/logo/NOW-SPORTS-2.png" group-title="香港",Now Sports 2
-http://iptv.4666888.xyz/iptv.php?id=20093
-#EXTINF:-1 tvg-id="NOW SPORTS 3" tvg-name="NOW SPORTS 3" tvg-logo="https://epg-1.iill.top/logo/NOW-SPORTS-3.png" group-title="香港",Now Sports 3
-http://iptv.4666888.xyz/iptv.php?id=20084
-#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://epg-1.iill.top/logo/愛爾達體育1.png" group-title="香港",愛爾達體育1台
-http://iptv.4666888.xyz/iptv.php?id=20232
-#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://epg-1.iill.top/logo/愛爾達體育2.png" group-title="香港",愛爾達體育2台
-http://iptv.4666888.xyz/iptv.php?id=20233
-#EXTINF:-1 tvg-id="Sky Sports F1" tvg-name="Sky Sports F1" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="香港",Sky Sports F1
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
+
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://epg-1.iill.top/logo/RedBull.png" group-title="香港",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://epg-1.iill.top/logo/娛樂新聞.png" group-title="香港",娛樂新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg-1.iill.top/logo/星河台.png" group-title="香港",TVB 星河「粤」
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg-1.iill.top/logo/星河台.png" group-title="香港",TVB 星河「国」
-http://iptv.4666888.xyz/iptv.php?id=20102
 #EXTINF:-1 tvg-id="亞洲武俠" tvg-name="亞洲武俠" tvg-logo="https://epg-1.iill.top/logo/亞洲武俠.png" group-title="香港",亞洲武俠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://epg-1.iill.top/logo/AOD.png" group-title="香港",Astro AOD
@@ -775,21 +752,3 @@ http://cdn6.163189.xyz/163189/ch5
 http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 tvg-id="CHU" tvg-name="CHU" tvg-logo="https://epg-1.iill.top/logo/ChannelU.png" group-title="香港",CHU
 http://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 tvg-id="Hub娛家" tvg-name="Hub娛家" tvg-logo="https://epg-1.iill.top/logo/Hub娛家.png" group-title="香港",Hub娛家
-http://iptv.4666888.xyz/iptv.php?id=20287
-#EXTINF:-1 tvg-id="Hub都會" tvg-name="Hub都會" tvg-logo="https://epg-1.iill.top/logo/Hub都會.png" group-title="香港",Hub都會
-http://iptv.4666888.xyz/iptv.php?id=20288
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg-1.iill.top/logo/中天新闻2.png" group-title="香港",中天CTI+
-http://iptv.4666888.xyz/iptv.php?id=20181
-#EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="https://epg-1.iill.top/logo/纬来日本.png" group-title="香港",緯來日本
-http://iptv.4666888.xyz/iptv.php?id=20226
-#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://epg-1.iill.top/logo/纬来体育.png" group-title="香港",緯來體育
-http://iptv.4666888.xyz/iptv.php?id=20225
-#EXTINF:-1 tvg-id="EYE TV戲劇台" tvg-name="EYE TV戲劇台" tvg-logo="https://epg-1.iill.top/logo/EYETV戲劇.png" group-title="香港",EYE TV戲劇
-http://iptv.4666888.xyz/iptv.php?id=20230
-#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://epg-1.iill.top/logo/龙祥时代.png" group-title="香港",龍祥時代
-http://iptv.4666888.xyz/iptv.php?id=20247
-#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://epg-1.iill.top/logo/好萊塢電影.png" group-title="香港",好萊塢電影
-http://iptv.4666888.xyz/iptv.php?id=20248
-#EXTINF:-1 tvg-id="國興衛視" tvg-name="國興衛視" tvg-logo="https://epg-1.iill.top/logo/國興衛視.png" group-title="香港",國興衛視
-http://iptv.4666888.xyz/iptv.php?id=20315
