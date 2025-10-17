@@ -1,5 +1,32 @@
 #EXTM3U url-tvg="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K
+http://101.35.240.114:88/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",广东卫视4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K
+http://101.35.240.114:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" http-user-agent="aliplayer" group-title="4K频道",江苏卫视4K
+http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="aliplayer" group-title="4K频道",浙江卫视4K
+http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视" http-user-agent="aliplayer" group-title="4K频道",湖南卫视4K
+http://101.35.240.114:88/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视" http-user-agent="aliplayer" group-title="4K频道",山东卫视4K
+http://101.35.240.114:88/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视" http-user-agent="aliplayer" group-title="4K频道",东方卫视4K
+http://101.35.240.114:88/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视" http-user-agent="aliplayer" http-referer="https://api.chinaaudiovisual.cn/" group-title="4K频道",四川卫视4K
+http://101.35.240.114:88/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K
+#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" group-title="4K频道",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" group-title="4K频道",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 http-user-agent="AptvPlayer-UA" group-title="4K频道",CCTV4K
+http://180.136.233.111:10099/udp/239.81.0.196:4056
+#EXTINF:-1 tvg-id="CCTV16 4K" tvg-name="CCTV16 4K" http-user-agent="AptvPlayer-UA" group-title="4K频道",CCTV16 4K
+http://180.136.233.111:10099/udp/239.81.0.144:4056
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="央卫IPV4",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央卫IPV4",CCTV2
@@ -37,34 +64,6 @@ http://101.35.240.114:88/live.php?id=CCTV16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央卫IPV4",CCTV17
 http://148.135.93.213/live.php?id=CCTV17
 
-
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K
-http://101.35.240.114:88/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",广东卫视4K
-http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K
-http://101.35.240.114:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" http-user-agent="aliplayer" group-title="4K频道",江苏卫视4K
-http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K
-#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="aliplayer" group-title="4K频道",浙江卫视4K
-http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视" http-user-agent="aliplayer" group-title="4K频道",湖南卫视4K
-http://101.35.240.114:88/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K
-#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视" http-user-agent="aliplayer" group-title="4K频道",山东卫视4K
-http://101.35.240.114:88/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视" http-user-agent="aliplayer" group-title="4K频道",东方卫视4K
-http://101.35.240.114:88/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K
-#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视" http-user-agent="aliplayer" http-referer="https://api.chinaaudiovisual.cn/" group-title="4K频道",四川卫视4K
-http://101.35.240.114:88/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K
-#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" group-title="4K频道",苏州4K
-https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" group-title="4K频道",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 http-user-agent="AptvPlayer-UA" group-title="4K频道",CCTV4K
-http://180.136.233.111:10099/udp/239.81.0.196:4056
-#EXTINF:-1 tvg-id="CCTV16 4K" tvg-name="CCTV16 4K" http-user-agent="AptvPlayer-UA" group-title="4K频道",CCTV16 4K
-http://180.136.233.111:10099/udp/239.81.0.144:4056
-
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" http-user-agent="AptvPlayer-UA" group-title="央卫IPV4",湖南卫视
 http://101.35.240.114:88/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="AptvPlayer-UA" group-title="央卫IPV4",浙江卫视
@@ -78,7 +77,7 @@ http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="央卫IPV4",深圳卫视
 http://101.35.240.114:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" http-user-agent="AptvPlayer-UA" group-title="央卫IPV4",东方卫视
-http://101.35.240.114:88/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
+http://101.35.240.114:88/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" http-user-agent="AptvPlayer-UA" group-title="央卫IPV4",湖北卫视
 http://101.35.240.114:88/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" http-user-agent="AptvPlayer-UA" group-title="央卫IPV4",江西卫视
@@ -661,25 +660,30 @@ http://1tv41.icu:8080/30065823/63154294/208896
 #EXTINF:-1 tvg-id="US: WWE NETWORK" tvg-name="US: WWE NETWORK" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="国际体育",US: WWE NETWORK
 http://1tv41.icu:8080/30065823/63154294/11645
 
-
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="广东",广东卫视
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",广东卫视4K
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
-http://106.53.99.30/tv/api.php?id=gdws
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="广东",深圳卫视
-http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K
+http://101.35.240.114:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="南国都市" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="广东",南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" group-title="广东",广东新闻
+https://stream1.freetv.fun/a1aceb66dd3443fe3f5db2c3fac077b0cb0f005845310ccce3fb0e016df76d49.ctv
+http://183.237.95.108:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="广东",大湾区卫视
+https://stream1.freetv.fun/387a99be734c6f7c96d314703a43a61468c1639db583b50be1d286dd2f175058.ctv
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="广东",广东体育
-http://r.jdshipin.com/LiYdg
+https://stream1.freetv.fun/6477e8191b057483e882dc7c5ade21a08c498f5a70f31f6924def9f6d75dba91.ctv
+http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="广东",广东珠江
-http://r.jdshipin.com/sE5vO
+https://stream1.freetv.fun/562fb4c226aada7876a3157d893a4dd00279cb69eecfadab3ca7a442f0d13722.ctv
+http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" group-title="广东",广东民生
-http://120.238.94.82:9901/tsfile/live/1011_1.m3u8?key=txiptv%24IPV4%E2%80%A2%E7%BA%BF%E8%B7%AF6
-
+https://stream1.freetv.fun/0b993b96ccec22876fc47a96d41e65335b6a895add0125227c0eadc71cd03c56.ctv
+http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" group-title="广东",广东经济科教
+https://stream1.freetv.fun/13dbbd8d4e024ab844563da377e889f7d6656a59fa7710ffa32d66b5fbe4e367.ctv
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" group-title="广东",广东影视
+https://stream1.freetv.fun/da1c8db79d6c250c7a071631098629faca06235371bad1048401c5427a0d26b0.ctv
 #EXTINF:-1 tvg-id="广东4K" tvg-name="广东4K" group-title="广东",广东4K
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" group-title="广东",广东少儿
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" group-title="广东",嘉佳卡通
