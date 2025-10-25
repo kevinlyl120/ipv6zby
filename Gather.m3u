@@ -4,13 +4,10 @@
 http://101.35.240.114:88/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",广东卫视4K
 http://180.136.233.111:10099/udp/239.81.0.252:4056
-http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K
 http://180.136.233.111:10099/udp/239.81.0.254:4056
-http://101.35.240.114:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" http-user-agent="aliplayer" group-title="4K频道",江苏卫视4K
 http://180.136.233.111:10099/udp/239.81.0.73:4056
-http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="aliplayer" group-title="4K频道",浙江卫视4K
 http://180.136.233.111:10099/udp/239.81.0.75:4056
 http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
