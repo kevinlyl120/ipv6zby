@@ -413,7 +413,7 @@ http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" group-title="广东",广东新闻
 https://stream1.freetv.fun/yan-dong-xin-wen-24.ctv
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="广东",大湾区卫视
-https://stream1.freetv.fun/da-wan-qu-wei-shi-3.ctv
+https://stream1.freetv.fun/da-wan-qu-wei-shi-21.ctv
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="广东",广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-20.ctv
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="广东",广东珠江
@@ -421,18 +421,20 @@ https://stream1.freetv.fun/yan-dong-zhu-jiang-32.ctv
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" group-title="广东",广东民生
 https://stream1.freetv.fun/yan-dong-min-sheng-19.ctv
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" group-title="广东",广东经济科教
-https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-3.ctv
+https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-6.ctv
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" group-title="广东",广东影视
-https://stream1.freetv.fun/yan-dong-ying-shi-17.ctv
+https://stream1.freetv.fun/yan-dong-ying-shi-3.ctv
 #EXTINF:-1 tvg-id="广东4K" tvg-name="广东4K" group-title="广东",广东4K
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" group-title="广东",广东少儿
+https://stream1.freetv.fun/yan-dong-shao-er-17.ctv
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" group-title="广东",嘉佳卡通
+https://stream1.freetv.fun/jia-jia-qia-tong-12.ctv
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" group-title="广东",广州新闻
-https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
+https://stream1.freetv.fun/yan-zhou-xin-wen-15.ctv
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" group-title="广东",广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
+https://stream1.freetv.fun/yan-zhou-zong-he-23.ctv
 #EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" group-title="广东",广州法治
-https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
+https://stream1.freetv.fun/yan-zhou-fa-zhi-5.ctv
 #EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" group-title="广东",广州影视
 http://dns.yiandrive.com:13571/gztv/yingshi
 
