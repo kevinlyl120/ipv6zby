@@ -113,32 +113,6 @@ http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.149:8076
 http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.156:8148
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="央视卫视",江西卫视
 http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.123:8164
-#EXTINF:-1 tvg-id="BRTV新闻" tvg-name="BRTV新闻" tvg-logo="https://11.112114.xyz/logo/BRTV新闻.png" group-title="央视卫视",BRTV新闻
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="BRTV影视" tvg-name="BRTV影视" tvg-logo="https://11.112114.xyz/logo/BRTV影视.png" group-title="央视卫视",BRTV影视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="BRTV文艺" tvg-name="BRTV文艺" tvg-logo="https://11.112114.xyz/logo/BRTV文艺.png" group-title="央视卫视",BRTV文艺
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="BRTV财经" tvg-name="BRTV财经" tvg-logo="https://11.112114.xyz/logo/BRTV财经.png" group-title="央视卫视",BRTV财经
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="BRTV生活" tvg-name="BRTV生活" tvg-logo="https://11.112114.xyz/logo/BRTV生活.png" group-title="央视卫视",BRTV生活
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="BRTV青年" tvg-name="BRTV青年" tvg-logo="https://11.112114.xyz/logo/BRTV青年.png" group-title="央视卫视",BRTV青年
-http://naslmd2.myqnapcloud.com:4022/#%20rtp/239.3.1.118:8000
-#EXTINF:-1 tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://11.112114.xyz/logo/BRTV纪实科教.png" group-title="央视卫视",BRTV纪实科教
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://11.112114.xyz/logo/卡酷少儿.png" group-title="央视卫视",BRTV卡酷少儿
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://11.112114.xyz/logo/冬奥纪实.png" group-title="央视卫视",BRTV冬奥纪实
-http://naslmd2.myqnapcloud.com:4022/#%20rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://11.112114.xyz/logo/冬奥纪实.png" group-title="央视卫视",BRTV冬奥纪实
-http://naslmd2.myqnapcloud.com:4022/#%20rtp/239.3.1.121:8000
-#EXTINF:-1 tvg-id="BRTV体育休闲" tvg-name="BRTV体育休闲" tvg-logo="https://11.112114.xyz/logo/BRTV体育休闲.png" group-title="央视卫视",BRTV体育休闲
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="BRTV国际频道" tvg-name="BRTV国际频道" tvg-logo="https://11.112114.xyz/logo/BRTV国际.png" group-title="央视卫视",BRTV国际频道
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.235:8000
-#EXTINF:-1 tvg-id="BRTV国际频道" tvg-name="BRTV国际频道" tvg-logo="https://11.112114.xyz/logo/BRTV国际.png" group-title="央视卫视",BRTV国际频道
-%E5%B1%B1%E4%B8%9C%E9%9D%92%E5%B2%9B%E8%81%94%E9%80%9A
 
 #EXTINF:-1 tvg-id="咪视界" tvg-logo="https://11.112114.xyz/logo/咪咕4k.png" group-title="咪视界",咪视界4K
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
