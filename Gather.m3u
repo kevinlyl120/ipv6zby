@@ -230,46 +230,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-id="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="香港",无线新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-id="有线新闻" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="香港",有线新闻
-http://feng163.com:8003/bysid/78.m3u8%24IPV4%E2%80%A2%E7%BA%BF%E8%B7%AF1
 #EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://11.112114.xyz/logo/TVB1.png" group-title="香港",TVB1
 https://6.cdn.loc.cc/163189.php?id=tvb1
 #EXTINF:-1 tvg-id="TVBJ1美频高" tvg-name="TVBJ1美频高" tvg-logo="https://11.112114.xyz/logo/TVBJ1美频高.png" group-title="香港",TVBJ1美频高
-http://php.jdshipin.com/PLTV/iptv.php?id=j1
 #EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻台.png" group-title="香港",TVB娱乐新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 ttvg-id="TVBPLUS" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="香港",TVBPLUS
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-logo="http://bxtv.3a.ink/logo/MYTVSUPER18.png" group-title="香港",myTV SUPER 18台
-http://bxtv.3a.ink/api.php?id=18
 #EXTINF:-1 tvg-id="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://11.112114.xyz/logo/NOW新闻台.png" group-title="香港",NOW新闻台
-http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://epg-1.iill.top/logo/娛樂新聞.png" group-title="香港",娛樂新聞台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg-1.iill.top/logo/星河台.png" group-title="香港",TVB 星河「粤」
-http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-id="亞洲武俠" tvg-name="亞洲武俠" tvg-logo="https://epg-1.iill.top/logo/亞洲武俠.png" group-title="香港",亞洲武俠
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://epg-1.iill.top/logo/AOD.png" group-title="香港",Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://epg-1.iill.top/logo/AEC.png" group-title="香港",Astro AEC
-http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://epg-1.iill.top/logo/全佳.png" group-title="香港",Astro QJ
-http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg-1.iill.top/logo/欢喜台.png" group-title="香港",Astro 欢喜台
-http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://epg-1.iill.top/logo/爱奇艺.png" group-title="香港",愛奇藝
-http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://11.112114.xyz/logo/RTHK31.png" group-title="香港",RTHK31
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://11.112114.xyz/logo/RTHK32.png" group-title="香港",RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://11.112114.xyz/logo/八度空间.png" group-title="香港",八度空间
-http://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 tvg-id="CH5" tvg-name="CH5" tvg-logo="https://11.112114.xyz/logo/CHU.png" group-title="香港",CH5
-http://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" tvg-logo="https://11.112114.xyz/logo/CHU.png" group-title="香港",CH8
-http://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 tvg-id="CHU" tvg-name="CHU" tvg-logo="https://11.112114.xyz/logo/CHU.png" group-title="香港",CHU
-http://cdn6.163189.xyz/163189/chu
