@@ -2,14 +2,10 @@
 
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K
 https://stream1.freetv.fun/bei-jing-wei-shi-65.m3u8
-http://183.184.47.145:8001/rtp/226.0.2.155:9172
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",广东卫视4K
 https://stream1.freetv.fun/yan-dong-wei-shi-17.m3u8
-http://171.116.216.113:10010/rtp/226.0.1.245:2120
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K
-https://migu.188766.xyz/?migutoken=8d399f88cd617f8696426a96d54b6a11&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 https://stream1.freetv.fun/5e52e7e8bd6f5f4c7262ce3ecc6aa28fa1e294834940403d823f3062acb835ae.m3u8
-http://171.116.216.113:10010/rtp/226.0.1.244:2119
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" http-user-agent="aliplayer" group-title="4K频道",江苏卫视4K
 https://stream1.freetv.fun/4b3a79c01c9ae45646cd792c7c7818c22a58ed5cb47262cfd65e9895464207bf.ctv
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="aliplayer" group-title="4K频道",浙江卫视4K
@@ -20,11 +16,10 @@ https://stream1.freetv.fun/hu-nan-wei-shi-20.m3u8
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视" http-user-agent="aliplayer" group-title="4K频道",山东卫视4K
 #EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视" http-user-agent="aliplayer" group-title="4K频道",东方卫视4K
 https://stream1.freetv.fun/dong-fang-wei-shi-94.m3u8
-#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视" http-user-agent="aliplayer" http-referer="https://api.chinaaudiovisual.cn/" group-title="4K频道",四川卫视4K
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视" http-user-agent="aliplayer" group-title="4K频道",四川卫视4K
 #EXTINF:-1 http-user-agent="AptvPlayer-UA" group-title="4K频道",CCTV4K
 https://stream1.freetv.fun/cctv4k-4.m3u8
 #EXTINF:-1 tvg-id="CCTV16 4K" tvg-name="CCTV16 4K" http-user-agent="AptvPlayer-UA" group-title="4K频道",CCTV16 4K
-http://180.136.233.111:10099/udp/239.81.0.144:4056
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="央视卫视",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
@@ -173,9 +168,9 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=Fifa
 
 
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" http-user-agent="AptvPlayer-UA" group-title="广东",广东卫视4K
-http://171.116.216.113:10010/rtp/226.0.1.245:2120
+https://stream1.freetv.fun/yan-dong-wei-shi-17.m3u8
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="广东",深圳卫视4K
-http://171.116.216.113:10010/rtp/226.0.1.244:2119
+https://stream1.freetv.fun/5e52e7e8bd6f5f4c7262ce3ecc6aa28fa1e294834940403d823f3062acb835ae.m3u8
 #EXTINF:-1 tvg-id="南国都市" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="广东",南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" group-title="广东",广东新闻
