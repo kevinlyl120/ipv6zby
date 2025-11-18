@@ -1,30 +1,28 @@
 #EXTM3U url-tvg="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K
-http://101.35.240.114:88/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
+https://stream1.freetv.fun/bei-jing-wei-shi-65.m3u8
+http://183.184.47.145:8001/rtp/226.0.2.155:9172
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",广东卫视4K
+https://stream1.freetv.fun/yan-dong-wei-shi-17.m3u8
 http://171.116.216.113:10010/rtp/226.0.1.245:2120
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K
+https://migu.188766.xyz/?migutoken=8d399f88cd617f8696426a96d54b6a11&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+https://stream1.freetv.fun/5e52e7e8bd6f5f4c7262ce3ecc6aa28fa1e294834940403d823f3062acb835ae.m3u8
 http://171.116.216.113:10010/rtp/226.0.1.244:2119
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" http-user-agent="aliplayer" group-title="4K频道",江苏卫视4K
-http://180.136.233.111:10099/udp/239.81.0.73:4056
+https://stream1.freetv.fun/4b3a79c01c9ae45646cd792c7c7818c22a58ed5cb47262cfd65e9895464207bf.ctv
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="aliplayer" group-title="4K频道",浙江卫视4K
-http://180.136.233.111:10099/udp/239.81.0.75:4056
+https://stream1.freetv.fun/zhe-jiang-wei-shi-75.ctv
 http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视" http-user-agent="aliplayer" group-title="4K频道",湖南卫视4K
-http://180.136.233.111:10099/udp/239.81.0.72:4056
+https://stream1.freetv.fun/hu-nan-wei-shi-20.m3u8
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视" http-user-agent="aliplayer" group-title="4K频道",山东卫视4K
-http://180.136.233.111:10099/udp/239.81.0.78:4056
 #EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视" http-user-agent="aliplayer" group-title="4K频道",东方卫视4K
-http://180.136.233.111:10099/udp/239.81.0.76:4056
+https://stream1.freetv.fun/dong-fang-wei-shi-94.m3u8
 #EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视" http-user-agent="aliplayer" http-referer="https://api.chinaaudiovisual.cn/" group-title="4K频道",四川卫视4K
-http://180.136.233.111:10099/udp/239.81.0.80:4056
-#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" group-title="4K频道",苏州4K
-https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" group-title="4K频道",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 http-user-agent="AptvPlayer-UA" group-title="4K频道",CCTV4K
-http://180.136.233.111:10099/udp/239.81.0.196:4056
+https://stream1.freetv.fun/cctv4k-4.m3u8
 #EXTINF:-1 tvg-id="CCTV16 4K" tvg-name="CCTV16 4K" http-user-agent="AptvPlayer-UA" group-title="4K频道",CCTV16 4K
 http://180.136.233.111:10099/udp/239.81.0.144:4056
 
@@ -183,30 +181,28 @@ http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" group-title="广东",广东新闻
 https://stream1.freetv.fun/yan-dong-xin-wen-24.ctv
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="广东",大湾区卫视
-https://stream1.freetv.fun/da-wan-qu-wei-shi-21.ctv
+https://stream1.freetv.fun/463f5d3b03fb4165abc66a2acdbbfb935e13f007a4c414d703097d344843dd77.ctv
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="广东",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-20.ctv
+https://stream1.freetv.fun/yan-dong-ti-yu-33.ctv
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="广东",广东珠江
-https://stream1.freetv.fun/yan-dong-zhu-jiang-32.ctv
+https://stream1.freetv.fun/254458c6c3c95a5477268ce2dd81aad42bf5da89f99c9815424b7583535aac3f.ctv
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" group-title="广东",广东民生
-https://stream1.freetv.fun/yan-dong-min-sheng-19.ctv
+https://stream1.freetv.fun/yan-dong-min-sheng-20.ctv
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" group-title="广东",广东经济科教
-https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-6.ctv
+https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-13.ctv
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" group-title="广东",广东影视
-https://stream1.freetv.fun/yan-dong-ying-shi-3.ctv
+https://stream1.freetv.fun/yan-dong-ying-shi-14.ctv
 #EXTINF:-1 tvg-id="广东4K" tvg-name="广东4K" group-title="广东",广东4K
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" group-title="广东",广东少儿
-https://stream1.freetv.fun/yan-dong-shao-er-17.ctv
+https://stream1.freetv.fun/yan-dong-shao-er-21.ctv
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" group-title="广东",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-12.ctv
+https://stream1.freetv.fun/jia-jia-qia-tong-25.ctv
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" group-title="广东",广州新闻
-https://stream1.freetv.fun/yan-zhou-xin-wen-15.ctv
+https://stream1.freetv.fun/yan-zhou-xin-wen-19.ctv
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" group-title="广东",广州综合
-https://stream1.freetv.fun/yan-zhou-zong-he-23.ctv
+https://stream1.freetv.fun/yan-zhou-zong-he-3.ctv
 #EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" group-title="广东",广州法治
-https://stream1.freetv.fun/yan-zhou-fa-zhi-5.ctv
-#EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" group-title="广东",广州影视
-http://dns.yiandrive.com:13571/gztv/yingshi
+https://stream1.freetv.fun/yan-zhou-fa-zhi-14.ctv
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-id="凤凰中文" group-title="香港",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
