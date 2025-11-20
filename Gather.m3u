@@ -1,108 +1,104 @@
 #EXTM3U url-tvg="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K
-https://stream1.freetv.fun/bei-jing-wei-shi-65.m3u8
+http://183.220.107.138:4022/rtp/239.10.0.91:5140
+http://101.35.240.114:88/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",广东卫视4K
-https://stream1.freetv.fun/yan-dong-wei-shi-17.m3u8
+http://183.184.47.145:8001/rtp/226.0.1.245:2120
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K
-https://stream1.freetv.fun/5e52e7e8bd6f5f4c7262ce3ecc6aa28fa1e294834940403d823f3062acb835ae.m3u8
+http://183.184.47.145:8001/rtp/226.0.1.244:2119
+http://101.35.240.114:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" http-user-agent="aliplayer" group-title="4K频道",江苏卫视4K
-https://stream1.freetv.fun/4b3a79c01c9ae45646cd792c7c7818c22a58ed5cb47262cfd65e9895464207bf.ctv
+https://stream1.freetv.fun/jiang-su-wei-shi-100.ctv
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="aliplayer" group-title="4K频道",浙江卫视4K
-https://stream1.freetv.fun/zhe-jiang-wei-shi-75.ctv
 http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视" http-user-agent="aliplayer" group-title="4K频道",湖南卫视4K
 https://stream1.freetv.fun/hu-nan-wei-shi-20.m3u8
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视" http-user-agent="aliplayer" group-title="4K频道",山东卫视4K
 #EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视" http-user-agent="aliplayer" group-title="4K频道",东方卫视4K
-https://stream1.freetv.fun/dong-fang-wei-shi-94.m3u8
+https://stream1.freetv.fun/dong-fang-wei-shi-90.m3u8
 #EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视" http-user-agent="aliplayer" group-title="4K频道",四川卫视4K
+https://stream1.freetv.fun/si-chuan-wei-shi-47.m3u8
 #EXTINF:-1 http-user-agent="AptvPlayer-UA" group-title="4K频道",CCTV4K
-https://stream1.freetv.fun/cctv4k-4.m3u8
 #EXTINF:-1 tvg-id="CCTV16 4K" tvg-name="CCTV16 4K" http-user-agent="AptvPlayer-UA" group-title="4K频道",CCTV16 4K
+#EXTINF:-1 tvg-id="广东4K" tvg-name="广东4K" group-title="广东",广东4K
 
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视卫视",CCTV-1
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.129:8008
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视卫视",CCTV-2
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.60:8084
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视卫视",CCTV-3
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.172:8001
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视卫视",CCTV-4
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.105:8092
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视卫视",CCTV-5
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.173:8001
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视卫视",CCTV-5+
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.130:8004
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视卫视",CCTV-6
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.174:8001
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视卫视",CCTV-7
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.61:8104
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="央视卫视",CCTV-8
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.175:8001
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/CCTV9.png" group-title="央视卫视",CCTV-9
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.62:8112
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视卫视",CCTV-10
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.63:8116
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="央视卫视",CCTV-11
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.152:8120
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视卫视",CCTV-12
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.64:8124
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视卫视",CCTV-13
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.124:8128
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="央视卫视",CCTV-14
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.65:8132
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://11.112114.xyz/logo/CCTV15.png" group-title="央视卫视",CCTV-15
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.153:8136
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/CCTV16.png" group-title="央视卫视",CCTV-16
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.184:8001
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/CCTV17.png" group-title="央视卫视",CCTV-17
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.151:8144
-#EXTINF:-1 tvg-id="CGTN 新闻" tvg-name="CGTN 新闻" tvg-logo="https://11.112114.xyz/logo/CGTN新闻.png" group-title="央视卫视",CGTN 新闻
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.215:4220
-#EXTINF:-1 tvg-id="CGTN 记录" tvg-name="CGTN 记录" tvg-logo="https://11.112114.xyz/logo/CGTN记录.png" group-title="央视卫视",CGTN 记录
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.216:4220
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="央视卫视",北京卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.241:8000
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="央视卫视",湖南卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.132:8012
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="央视卫视",东方卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.136:8032
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="央视卫视",浙江卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.137:8036
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="央视卫视",江苏卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.135:8028
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="央视卫视",深圳卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.134:8020
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="央视卫视",广东卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.142:8048
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="央视卫视",安徽卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.211:8064
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="央视卫视",天津卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.141:1234
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://11.112114.xyz/logo/重庆卫视.png" group-title="央视卫视",重庆卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.122:8160
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="央视卫视",山东卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.209:8052
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="央视卫视",黑龙江卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.133:8016
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="央视卫视",河北卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.148:8072
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="央视卫视",辽宁卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.210:8056
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="央视卫视",湖北卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.138:8044
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="央视卫视",吉林卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.240:8172
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="央视卫视",贵州卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.149:8076
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="央视卫视",东南卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.156:8148
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="央视卫视",江西卫视
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.123:8164
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="央视卫视",CCTV1
+http://101.35.240.114:88/live.php?id=CCTV1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视卫视",CCTV2
+http://148.135.93.213/live.php?id=CCTV2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" http-user-agent="AptvPlayer-UA" group-title="央视卫视",CCTV3
+http://101.35.240.114:88/live.php?id=CCTV3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视卫视",CCTV4
+http://148.135.93.213/live.php?id=CCTV4
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" http-user-agent="AptvPlayer-UA" group-title="央视卫视",CCTV5
+http://101.35.240.114:88/live.php?id=CCTV5
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" group-title="央视卫视",CCTV5+
+http://148.135.93.213/live.php?id=CCTV5p
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" http-user-agent="AptvPlayer-UA" group-title="央视卫视",CCTV6
+http://101.35.240.114:88/live.php?id=CCTV6
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视卫视",CCTV7
+http://148.135.93.213/live.php?id=CCTV7
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" http-user-agent="AptvPlayer-UA" group-title="央视卫视",CCTV8
+http://101.35.240.114:88/live.php?id=CCTV8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视卫视",CCTV9
+http://148.135.93.213/live.php?id=CCTV9
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" http-user-agent="AptvPlayer-UA" group-title="央视卫视",CCTV10
+http://101.35.240.114:88/live.php?id=CCTV10
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视卫视",CCTV11
+http://148.135.93.213/live.php?id=CCTV11
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" http-user-agent="AptvPlayer-UA" group-title="央视卫视",CCTV12
+http://101.35.240.114:88/live.php?id=CCTV12
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视卫视",CCTV13
+http://148.135.93.213/live.php?id=CCTV13
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" http-user-agent="AptvPlayer-UA" group-title="央视卫视",CCTV14
+http://101.35.240.114:88/live.php?id=CCTV14
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视卫视",CCTV15
+http://148.135.93.213/live.php?id=CCTV15
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="AptvPlayer-UA" http-referer="https:/aptv.app/" group-title="央视卫视",CCTV16
+http://101.35.240.114:88/live.php?id=CCTV16
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视卫视",CCTV17
+http://148.135.93.213/live.php?id=CCTV17
 
 
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" http-user-agent="AptvPlayer-UA" http-referer="https:/aptv.app/" group-title="央视卫视",湖南卫视
+http://101.35.240.114:88/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="央视卫视",北京卫视
+http://101.35.240.114:88/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="央视卫视",深圳卫视
+http://101.35.240.114:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="AptvPlayer-UA" group-title="央视卫视",浙江卫视
+http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="AptvPlayer-UA" http-header="Referer=https://litchi-play-encrypted-site.jstv.com/" group-title="央视卫视",江苏卫视
+http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" http-user-agent="AptvPlayer-UA" group-title="央视卫视",陕西卫视
+http://101.35.240.114:88/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" http-user-agent="AptvPlayer-UA" group-title="央视卫视",湖北卫视
+http://101.35.240.114:88/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" http-user-agent="AptvPlayer-UA" group-title="央视卫视",内蒙古卫视
+http://101.35.240.114:88/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" http-user-agent="AptvPlayer-UA" group-title="央视卫视",江西卫视
+http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
+
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="央视卫视",四川卫视
+http://148.135.93.213/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="央视卫视",山东卫视
+http://148.135.93.213/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="央视卫视",广西卫视
+http://148.135.93.213/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="央视卫视",河南卫视
+http://148.135.93.213/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="央视卫视",甘肃卫视
+http://148.135.93.213/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="央视卫视",贵州卫视
+http://148.135.93.213/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="央视卫视",辽宁卫视
+http://148.135.93.213/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="央视卫视",重庆卫视
+http://148.135.93.213/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="央视卫视",黑龙江卫视
+http://148.135.93.213/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="咪视界" tvg-logo="https://11.112114.xyz/logo/咪咕4k.png" group-title="咪视界",咪视界4K
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
@@ -195,30 +191,25 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=Fifa
 
 
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" http-user-agent="AptvPlayer-UA" group-title="广东",广东卫视4K
-https://stream1.freetv.fun/yan-dong-wei-shi-17.m3u8
+http://183.184.47.145:8001/rtp/226.0.1.245:2120
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="广东",深圳卫视4K
-https://stream1.freetv.fun/5e52e7e8bd6f5f4c7262ce3ecc6aa28fa1e294834940403d823f3062acb835ae.m3u8
+http://183.184.47.145:8001/rtp/226.0.1.244:2119
 #EXTINF:-1 tvg-id="南国都市" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="广东",南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" group-title="广东",广东新闻
-https://stream1.freetv.fun/yan-dong-xin-wen-9.ctv
+https://stream1.freetv.fun/yan-dong-xin-wen-1.ctv
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="广东",大湾区卫视
-https://stream1.freetv.fun/463f5d3b03fb4165abc66a2acdbbfb935e13f007a4c414d703097d344843dd77.ctv
+https://stream1.freetv.fun/da-wan-qu-wei-shi-gao-qing-1.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="广东",广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-33.ctv
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="广东",广东珠江
-https://stream1.freetv.fun/254458c6c3c95a5477268ce2dd81aad42bf5da89f99c9815424b7583535aac3f.ctv
+https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-3.m3u8
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" group-title="广东",广东民生
 https://stream1.freetv.fun/yan-dong-min-sheng-20.ctv
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" group-title="广东",广东经济科教
 https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-13.ctv
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" group-title="广东",广东影视
 https://stream1.freetv.fun/yan-dong-ying-shi-14.ctv
-#EXTINF:-1 tvg-id="广东4K" tvg-name="广东4K" group-title="广东",广东4K
-#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" group-title="广东",广东少儿
-https://stream1.freetv.fun/yan-dong-shao-er-21.ctv
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" group-title="广东",嘉佳卡通
-https://stream1.freetv.fun/jia-jia-qia-tong-25.ctv
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" group-title="广东",广州新闻
 https://stream1.freetv.fun/yan-zhou-xin-wen-19.ctv
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" group-title="广东",广州综合
