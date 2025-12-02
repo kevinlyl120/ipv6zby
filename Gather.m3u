@@ -229,27 +229,41 @@ https://stream1.freetv.fun/yan-zhou-fa-zhi-14.ctv
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-id="凤凰中文" group-title="香港",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+https://cdn6.101.qzz.io/163189/fhzw
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-id="凤凰资讯" group-title="香港",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+https://cdn6.101.qzz.io/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰香港" tvg-id="凤凰香港" group-title="香港",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+https://cdn6.101.qzz.io/163189/fhhk
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台
-http://cdn6.163189.xyz/163189/fct4k
-http://mytv.cdn.loc.cc/o12.php?id=fct
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="翡翠娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台娱乐台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-id="翡翠剧集台" tvg-logo="https://11.112114.xyz/logo/翡翠剧集台.png" group-title="香港",翡翠剧集台
+https://6.cdn.loc.cc/163189.php?id=tvbd
+
+
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-id="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="香港",无线新闻台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
 #EXTINF:-1 tvg-id="有线新闻" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="香港",有线新闻
 #EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://11.112114.xyz/logo/TVB1.png" group-title="香港",TVB1
 https://6.cdn.loc.cc/163189.php?id=tvb1
-#EXTINF:-1 tvg-id="TVBJ1美频高" tvg-name="TVBJ1美频高" tvg-logo="https://11.112114.xyz/logo/TVBJ1美频高.png" group-title="香港",TVBJ1美频高
-#EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻台.png" group-title="香港",TVB娱乐新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-id="T翡翠台(北美版)TVB J1" tvg-name="翡翠台(北美版)TVB J1" tvg-logo="https://11.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台(北美版)TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 ttvg-id="TVBPLUS" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="香港",TVBPLUS
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-logo="http://bxtv.3a.ink/logo/MYTVSUPER18.png" group-title="香港",myTV SUPER 18台
 #EXTINF:-1 tvg-id="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+
+#EXTINF:-1 ttvg-id="RTHK-31" ",RTHK-31
+http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
+#EXTINF:-1 ttvg-id="RTHK-32" ",RTHK-32
+http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
+#EXTINF:-1 ttvg-id="Now新闻" ",Now新闻
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 ttvg-id="Now财经" ",Now财经
+http://hls.168.us.kg/u/333/master.m3u8
