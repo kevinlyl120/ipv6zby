@@ -8,7 +8,7 @@ https://stream1.freetv.fun/yan-dong-wei-shi-18.m3u8
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="广东4K" tvg-name="广东4K" group-title="4K频道",广东4K
-https://stream1.freetv.fun/yan-dong-zong-yi-3.ctv
+https://stream1.freetv.fun/yan-dong-zong-yi-14.ctv
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" http-user-agent="aliplayer" group-title="4K频道",江苏卫视4K
 https://stream1.freetv.fun/jiang-su-wei-shi-100.ctv
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="aliplayer" group-title="4K频道",浙江卫视4K
