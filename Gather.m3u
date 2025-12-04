@@ -221,11 +221,10 @@ https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-12.ctv
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" group-title="广东",广东影视
 http://go.bkpcp.top/mg/gdys
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" group-title="广东",广州新闻
-https://stream1.freetv.fun/yan-zhou-xin-wen-1.ctv
+http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" group-title="广东",广州综合
-https://stream1.freetv.fun/yan-zhou-zong-he-18.ctv
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 #EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" group-title="广东",广州法治
-https://stream1.freetv.fun/yan-zhou-fa-zhi-14.ctv
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-id="凤凰中文" group-title="香港",凤凰中文
 https://cdn6.101.qzz.io/163189/fhzw
