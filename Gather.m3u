@@ -68,7 +68,7 @@ http://101.35.240.114:88/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="央视卫视",深圳卫视
 http://nn.7x9d.cn/%E6%B7%B1%E5%9C%B3%E6%9C%80%E6%96%B0.php?id=szws4k
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="AptvPlayer-UA" group-title="央视卫视",浙江卫视
-http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="AptvPlayer-UA" http-header="Referer=https://litchi-play-encrypted-site.jstv.com/" group-title="央视卫视",江苏卫视
 http://phmanet.com:9999/rtp/239.76.253.181:9000
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" http-user-agent="AptvPlayer-UA" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="央视卫视",东方卫视
@@ -220,9 +220,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 http://iptv.4666888.xyz/iptv2A.php?id=32
 #EXTINF:-1 tvg-id="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="null" group-title="港澳台",HOY 77
+#EXTINF:-1 tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="null" group-title="香港",HOY 77
 http://cdn.163189.xyz/163189/hoy
-#EXTINF:-1 tvg-id="HOY 78" tvg-name="HOY 78" tvg-logo="null" group-title="港澳台",HOY 78
+#EXTINF:-1 tvg-id="HOY 78" tvg-name="HOY 78" tvg-logo="null" group-title="香港",HOY 78
 http://iptv.4666888.xyz/iptv2A.php?id=31
 
 #EXTINF:-1 ttvg-id="RTHK-31" group-title="香港",RTHK-31
