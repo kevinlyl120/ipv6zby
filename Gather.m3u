@@ -2,16 +2,18 @@
 
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K
 http://phmanet.com:9999/rtp/239.76.253.246:9000
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K
-http://101.35.240.114:88/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
+https://live.264788.xyz/channel/beijingweishi4k?streamid=ec1dc6a6eb32cabcbff436085ff993ef&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京IPTV4K
+http://home.airengine.net:9003/rtp/228.1.1.123:8001
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="aliplayer" group-title="4K频道",浙江卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" http-user-agent="aliplayer" group-title="4K频道",广东卫视4K
-http://101.35.240.114:88/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K
+https://live.264788.xyz/channel/guangdongweishi4k?streamid=e0289cccc782400e932e5d3b2830db4d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="广东4K超高清" tvg-name="广东4K超高清" http-user-agent="AptvPlayer-UA" group-title="4K频道",广东4K超高清
+http://183.237.240.235:808/hls/66/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" http-user-agent="aliplayer" http-referer="http://live.jstv.com/" group-title="4K频道",江苏卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视" http-user-agent="aliplayer" group-title="4K频道",湖南卫视4K
@@ -21,7 +23,12 @@ http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 http://101.35.240.114:88/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视" http-user-agent="aliplayer" group-title="4K频道",山东卫视4K
 http://101.35.240.114:88/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K
-
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台4K.png" group-title="4K频道",翡翠台4K
+http://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="4K频道",咪视界4K
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=K
+#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="4K频道",至臻视界4K
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=K
 
 
 #EXTINF:-1 tvg-name="4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="央视",CCTV4K
@@ -208,7 +215,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=41
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
 http://iptv.4666888.xyz/iptv2A.php?id=29
 #EXTINF:-1 tvg-id="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="香港",无线新闻台
-http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://11.112114.xyz/logo/TVB1.png" group-title="香港",TVB1
 http://iptv.4666888.xyz/iptv2A.php?id=25
 #EXTINF:-1 tvg-id="T翡翠台(北美版)TVB J1" tvg-name="翡翠台(北美版)TVB J1" tvg-logo="https://11.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台(北美版)TVB J1
@@ -230,5 +237,3 @@ http://cdn.163189.xyz/163189/rthk31
 http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 ttvg-id="Now新闻" group-title="香港",Now新闻
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 ttvg-id="Now财经" group-title="香港",Now财经
-http://hls.168.us.kg/u/333/master.m3u8
