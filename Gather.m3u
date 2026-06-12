@@ -217,15 +217,11 @@ http://cdn6.163189.xyz/163189/fhhk
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台频道",TVB翡翠台
 http://101.35.240.114:88/live.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
-
-
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台频道",翡翠台
 http://r.jdshipin.com/qClQf
 http://r.jdshipin.com/n90gt
-#EXTINF:-1 tvg-id="翡翠娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台频道",翡翠台娱乐台
-http://iptv.4666888.xyz/iptv2A.php?id=36
-#EXTINF:-1 tvg-id="翡翠剧集台" tvg-logo="https://11.112114.xyz/logo/翡翠剧集台.png" group-title="港澳台频道",翡翠剧集台
-http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/华丽翡翠台.png" group-title="港澳台频道",华丽翡翠台
+http://r.jdshipin.com/thuYX
 
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台频道",明珠台
 http://r.jdshipin.com/ZQ4kN
