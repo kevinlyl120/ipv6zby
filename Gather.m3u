@@ -1,15 +1,19 @@
 #EXTM3U url-tvg="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K
+http://223.86.170.98:4500/rtp/239.10.0.92:5140
+
 
 #EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京IPTV4K
+http://123.118.52.115:8686/rtp/239.3.1.249:8001%24%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A31
 
 
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" group-title="4K频道",湖南卫视4K
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+http://223.86.170.98:4500/rtp/239.11.0.119:5140
 
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" http-user-agent="aliplayer" http-referer="http://live.jstv.com/" group-title="4K频道",江苏卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K
+http://8.138.7.223/tv/jsws4k.php
 
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="aliplayer" group-title="4K频道",浙江卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
@@ -23,17 +27,25 @@ http://183.237.240.235:808/hls/66/index.m3u8
 
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" http-user-agent="aliplayer" group-title="4K频道",广东卫视4K
 
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视" http-user-agent="aliplayer" group-title="4K频道",东方卫视4K
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://epg.112114.xyz/logo/东方卫视4K.png" group-title="4K频道",东方卫视4K
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视" http-user-agent="aliplayer" group-title="4K频道",山东卫视4K
 
 #EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视" http-user-agent="aliplayer" group-title="4K频道",四川卫视4K
 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台4K.png" group-title="4K频道",翡翠台4K
+http://r.jdshipin.com/n90gt
 
 #EXTINF:-1 tvg-name="4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="央视频道",CCTV4K
 
 #EXTINF:-1 tvg-id="CCTV16 4K" tvg-name="CCTV16 4K" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV16 4K
+
+#EXTINF:-1 group-title="4K频道",CCTV4K
+http://183.236.43.98:4013/udp/239.77.0.194:5146%24%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A111
+
+#EXTINF:-1 group-title="4K频道",华数4K
+http://221.220.129.233:8012/rtp/239.3.1.236:2000%24%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A21
 
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1
 http://183.222.15.202:4321/rtp/239.11.0.65:5140
