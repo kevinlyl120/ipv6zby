@@ -40,7 +40,7 @@ https://live.264788.xyz/channel/sichuanweishi4k?streamid=d6f1daa39d8e39b25578ea8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台4K.png" group-title="4K频道",翡翠台4K
 http://r.jdshipin.com/n90gt
 
-#EXTINF:-1 tvg-id="CCTV16 4K" tvg-name="CCTV16 4K" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV16 4K
+#EXTINF:-1 tvg-id="CCTV16 4K" tvg-name="CCTV16 4K" http-user-agent="AptvPlayer-UA" group-title="4K频道",CCTV16 4K
 http://59.174.162.239:4022/rtp/239.69.1.249:11136%24%E6%B9%96%E5%8C%97%E7%94%B5%E4%BF%A112
 http://220.176.218.173:9000/udp/239.252.220.237:5140%24%E6%B1%9F%E8%A5%BF%E7%94%B5%E4%BF%A111
 
