@@ -13,20 +13,18 @@ http://180.107.42.71:9999/rtp/239.49.1.68:8000
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" http-user-agent="aliplayer" http-referer="http://live.jstv.com/" group-title="4K频道",江苏卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K
 http://8.138.7.223/tv/jsws4k.php
-https://live.264788.xyz/channel/jiangsuweishi4k?streamid=d6f1daa39d8e39b25578ea882820cc86&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk 
 
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="aliplayer" group-title="4K频道",浙江卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
 
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K
-https://live.264788.xyz/channel/shenzhenweishi4k?streamid=2af9bbae55f64f373a94440b8bb0a0bd&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 tvg-id="广东4K超高清" tvg-name="广东4K超高清" http-user-agent="AptvPlayer-UA" group-title="4K频道",广东4K超高清
 http://183.237.240.235:808/hls/66/index.m3u8
 
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" http-user-agent="aliplayer" group-title="4K频道",广东卫视4K
-https://live.264788.xyz/channel/guangdongweishi4k?streamid=e0289cccc782400e932e5d3b2830db4d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
 
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://epg.112114.xyz/logo/东方卫视4K.png" group-title="4K频道",东方卫视4K
 http://180.107.42.71:9999/rtp/239.49.1.70:8000
