@@ -3,47 +3,54 @@
 
 
 #EXTINF:-1 group-title="4K频道",北京卫视4K
-https://live.264788.xyz/channel/beijingweishi4k?streamid=9859ef98cc152feae0c066e8c100ad2e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://113.65.7.6:7088/rtp/239.77.0.2:5146
 
 #EXTINF:-1 group-title="4K频道",北京IPTV4K
 http://home.airengine.net:9003/rtp/228.1.1.123:8001
 
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
-https://live.264788.xyz/channel/hunanweishi4k?streamid=d6f1daa39d8e39b25578ea882820cc86&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://113.65.7.6:7088/rtp/239.77.0.56:5146
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="AptvPlayer-UA" http-header="Referer=https://litchi-play-encrypted-site.jstv.com/" group-title="4K频道",江苏卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K
-https://live.264788.xyz/channel/jiangsuweishi4k?streamid=375dbc290331f86f70689c85cd16e1eb&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://113.65.7.6:7088/rtp/239.77.0.57:5146
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",浙江卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
-https://live.264788.xyz/channel/zhejiangweishi4k?streamid=664bb2d3ef43cf06ccb52c01a226593d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://113.65.7.6:7088/rtp/239.77.0.58:5146
 
 #EXTINF:-1 group-title="4K频道",东方卫视4K
-https://live.264788.xyz/channel/dongfangweishi4k?streamid=ac7357572df3296592eeaee3c55edac6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://113.65.7.6:7088/rtp/239.77.0.59:5146
 
 #EXTINF:-1 group-title="4K频道",广东卫视4K
-https://live.264788.xyz/channel/guangdongweishi4k?streamid=33aeafbb59f2bcb1877c3a8229c0135b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://113.65.7.6:7088/rtp/239.77.0.65:5146
 
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K
-http://101.35.240.114:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K
-https://live.264788.xyz/channel/shenzhenweishi4k?streamid=2af9bbae55f64f373a94440b8bb0a0bd&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="4K频道",深圳卫视4K
+http://113.65.7.6:7088/rtp/239.77.0.67:5146
 
 #EXTINF:-1 group-title="4K频道",广东4K超高清
-http://183.237.240.235:808/hls/66/index.m3u8
+http://113.65.7.6:7088/rtp/239.77.0.244:5146
 
 #EXTINF:-1 group-title="4K频道",山东卫视4K
-https://live.264788.xyz/channel/shandongweishi4k?streamid=94f01afe37551c1ea2aa8e32b1d80c9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://113.65.7.6:7088/rtp/239.77.0.61:5146
 
 #EXTINF:-1 group-title="4K频道",四川卫视4K
-https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://113.65.7.6:7088/rtp/239.77.0.60:5146
 
 #EXTINF:-1 group-title="4K频道",CCTV4K
-http://192.151.150.154/live/cctv4k.m3u8
-http://home.amucn.net:8800/udp/239.49.0.82:8000
-http://www.520345.xyz:8188/rtp/239.69.1.111:10304?%243840x2160
+http://113.65.7.6:7088/rtp/239.77.0.194:5146
 
+#EXTINF:-1 group-title="4K频道",TVB翡翠4K
+http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E7%BF%A14k
 
+#EXTINF:-1 group-title="4K频道",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+
+#EXTINF:-1 group-title="4K频道",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+
+#EXTINF:-1 group-title="4K频道",欢笑剧场4K
+https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://60.10.139.113:8801/hls/1/index.m3u8
@@ -238,39 +245,46 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=Fifa
 
 
 #EXTINF:-1 group-title="广东",广东4K超高清
-http://183.237.240.235:808/hls/66/index.m3u8
+http://113.65.7.6:7088/rtp/239.77.0.244:5146
 
 #EXTINF:-1 group-title="广东",广东卫视4K
-https://live.264788.xyz/channel/guangdongweishi4k?streamid=33aeafbb59f2bcb1877c3a8229c0135b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://113.65.7.6:7088/rtp/239.77.0.65:5146
 
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="广东",深圳卫视4K
-http://101.35.240.114:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864
-https://live.264788.xyz/channel/shenzhenweishi4k?streamid=2af9bbae55f64f373a94440b8bb0a0bd&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="广东",深圳卫视4K
+http://113.65.7.6:7088/rtp/239.77.0.67:5146
 
-#EXTINF:-1 group-title="广东",南国都市
-http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+#EXTINF:-1 group-title="广东",南国都市4K
+http://113.65.7.6:7088/rtp/239.253.43.99:5146
 
 #EXTINF:-1 group-title="广东",广东新闻
-http://183.236.43.98:4013/udp/239.77.0.173:5146
+http://113.65.7.6:7088/rtp/239.77.0.173:5146
 
 #EXTINF:-1 group-title="广东",大湾区卫视
-http://gdyd.7259.cc.cd:4013/udp/239.77.0.215:5146
+http://113.65.7.6:7088/rtp/239.77.0.215:5146
 
 #EXTINF:-1 group-title="广东",广东体育
-http://120.198.86.186:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.65.7.6:7088/rtp/239.77.0.112:5146
 
 #EXTINF:-1 group-title="广东",广东珠江
-http://198.204.228.26/live/gdzj.m3u8
+http://113.65.7.6:7088/rtp/239.77.0.1:5146
 
 #EXTINF:-1 group-title="广东",广东民生
-http://183.236.43.98:4013/udp/239.77.0.225:5146
+http://113.65.7.6:7088/rtp/239.77.0.225:5146
+
+#EXTINF:-1 group-title="广东",广东经济科教
+http://113.65.7.6:7088/rtp/239.77.0.85:5146
+
+#EXTINF:-1 group-title="广东",广东影视
+http://113.65.7.6:7088/rtp/239.77.0.217:5146
 
 #EXTINF:-1 group-title="广东",广州新闻
-http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+http://113.65.7.6:7088/rtp/239.253.43.72:5146
 
 #EXTINF:-1 group-title="广东",广州综合
-http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+http://113.65.7.6:7088/rtp/239.253.43.71:5146
 
+#EXTINF:-1 group-title="广东",广州法治
+http://113.65.7.6:7088/rtp/239.253.43.74:5146
 
 
 #EXTINF:-1 tvg-id="凤凰中文" group-title="港澳台频道",凤凰中文
