@@ -3,42 +3,46 @@
 
 
 #EXTINF:-1 group-title="4K频道",北京卫视4K
-http://113.65.7.6:7088/rtp/239.77.0.2:5146
+http://116.237.161.27:8881/rtp/233.18.204.209:5140
 
 #EXTINF:-1 group-title="4K频道",北京IPTV4K
 http://home.airengine.net:9003/rtp/228.1.1.123:8001
 
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
-http://113.65.7.6:7088/rtp/239.77.0.56:5146
+http://116.237.161.27:8881/rtp/233.18.204.227:5140
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="AptvPlayer-UA" http-header="Referer=https://litchi-play-encrypted-site.jstv.com/" group-title="4K频道",江苏卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K
-http://113.65.7.6:7088/rtp/239.77.0.57:5146
+http://116.237.161.27:8881/rtp/233.18.204.226:5140
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",浙江卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
-http://113.65.7.6:7088/rtp/239.77.0.58:5146
+http://116.237.161.27:8881/rtp/233.18.204.229:5140
 
 #EXTINF:-1 group-title="4K频道",东方卫视4K
-http://113.65.7.6:7088/rtp/239.77.0.59:5146
+http://116.237.161.27:8881/rtp/233.18.204.224:5140
 
 #EXTINF:-1 group-title="4K频道",广东卫视4K
-http://113.65.7.6:7088/rtp/239.77.0.65:5146
+http://116.237.161.27:8881/rtp/233.18.204.218:5140
 
 #EXTINF:-1 group-title="4K频道",深圳卫视4K
-http://113.65.7.6:7088/rtp/239.77.0.67:5146
+http://116.237.161.27:8881/rtp/233.18.204.219:5140
 
 #EXTINF:-1 group-title="4K频道",广东4K超高清
 http://113.65.7.6:7088/rtp/239.77.0.244:5146
 
 #EXTINF:-1 group-title="4K频道",山东卫视4K
-http://113.65.7.6:7088/rtp/239.77.0.61:5146
+http://116.237.161.27:8881/rtp/233.18.204.228:5140
 
 #EXTINF:-1 group-title="4K频道",四川卫视4K
-http://113.65.7.6:7088/rtp/239.77.0.60:5146
+http://116.237.161.27:8881/rtp/233.18.204.225:5140
+
 
 #EXTINF:-1 group-title="4K频道",CCTV4K
-http://113.65.7.6:7088/rtp/239.77.0.194:5146
+http://116.237.161.27:8881/rtp/233.18.204.188:5140
+
+#EXTINF:-1 group-title="4K频道",CCTV16 4K
+http://116.237.161.27:8881/rtp/233.18.204.114:5140
 
 #EXTINF:-1 group-title="4K频道",TVB翡翠4K
 http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E7%BF%A14k
@@ -49,59 +53,60 @@ https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 group-title="4K频道",苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
-#EXTINF:-1 group-title="4K频道",欢笑剧场4K
-https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://60.10.139.113:8801/hls/1/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.129:8008
 
 #EXTINF:-1 group-title="央视频道",CCTV2
-http://60.10.139.113:8801/hls/2/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.60:8084
 
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://60.10.139.113:8801/hls/3/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.172:8001
 
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://60.10.139.113:8801/hls/4/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.105:8092
 
 #EXTINF:-1 group-title="央视频道",CCTV5
-http://60.10.139.113:8801/hls/5/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.173:8001
 
 #EXTINF:-1 group-title="央视频道",CCTV5+
-http://60.10.139.113:8801/hls/15/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.130:8004
 
 #EXTINF:-1 group-title="央视频道",CCTV6
-http://60.10.139.113:8801/hls/6/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.174:8001
 
 #EXTINF:-1 group-title="央视频道",CCTV7
-http://60.10.139.113:8801/hls/7/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.61:8104
 
 #EXTINF:-1 group-title="央视频道",CCTV8
-http://60.10.139.113:8801/hls/8/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.175:8001
 
 #EXTINF:-1 group-title="央视频道",CCTV9
-http://60.10.139.113:8801/hls/9/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.62:8112
 
 #EXTINF:-1 group-title="央视频道",CCTV10
-http://60.10.139.113:8801/hls/10/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.63:8116
 
 #EXTINF:-1 group-title="央视频道",CCTV11
-http://60.10.139.113:8801/hls/96/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.152:8120
 
 #EXTINF:-1 group-title="央视频道",CCTV12
-http://60.10.139.113:8801/hls/11/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.64:8124
 
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://60.10.139.113:8801/hls/12/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.124:8128
 
 #EXTINF:-1 group-title="央视频道",CCTV14
-http://60.10.139.113:8801/hls/13/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.65:8132
 
 #EXTINF:-1 group-title="央视频道",CCTV15
-http://60.10.139.113:8801/hls/97/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.153:8136
+
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://114.252.228.26:4022/rtp/239.3.1.184:8001
 
 #EXTINF:-1 group-title="央视频道",CCTV17
-http://60.10.139.113:8801/hls/98/index.m3u8
+http://114.252.228.26:4022/rtp/239.3.1.151:8144
 
 
 #EXTINF:-1 group-title="咪视界",咪视界4K
@@ -253,8 +258,8 @@ http://113.65.7.6:7088/rtp/239.77.0.65:5146
 #EXTINF:-1 group-title="广东",深圳卫视4K
 http://113.65.7.6:7088/rtp/239.77.0.67:5146
 
-#EXTINF:-1 group-title="广东",南国都市4K
-http://113.65.7.6:7088/rtp/239.253.43.99:5146
+#EXTINF:-1 group-title="广东",南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 #EXTINF:-1 group-title="广东",广东新闻
 http://113.65.7.6:7088/rtp/239.77.0.173:5146
