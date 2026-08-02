@@ -3,46 +3,46 @@
 
 
 #EXTINF:-1 group-title="4K频道",北京卫视4K
-http://116.237.161.27:8881/rtp/233.18.204.209:5140
+http://123.114.30.36:4000/rtp/239.3.1.139:8001
 http://183.220.107.138:4022/rtp/239.10.0.92:5140
 
 #EXTINF:-1 group-title="4K频道",北京IPTV4K
 http://home.airengine.net:9003/rtp/228.1.1.123:8001
+http://223.72.115.6:4022/rtp/228.1.1.123:8001
+
 
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
-http://116.237.161.27:8881/rtp/233.18.204.227:5140
+http://123.114.30.36:4000/rtp/239.3.1.112:3002
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="AptvPlayer-UA" http-header="Referer=https://litchi-play-encrypted-site.jstv.com/" group-title="4K频道",江苏卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K
-http://116.237.161.27:8881/rtp/233.18.204.226:5140
+http://123.114.30.36:4000/rtp/239.3.1.113:3003
 http://8.138.7.223/tv/jsws4k.php
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",浙江卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
-http://116.237.161.27:8881/rtp/233.18.204.229:5140
+http://123.114.30.36:4000/rtp/239.3.1.114:3004
 
 #EXTINF:-1 group-title="4K频道",东方卫视4K
-http://116.237.161.27:8881/rtp/233.18.204.224:5140
-http://183.220.107.138:4022/rtp/239.11.0.90:5140
+http://123.114.30.36:4000/rtp/239.3.1.119:3006
 
 #EXTINF:-1 group-title="4K频道",广东卫视4K
-http://116.237.161.27:8881/rtp/233.18.204.218:5140
+http://123.114.30.36:4000/rtp/239.3.1.203:2000
 
 #EXTINF:-1 group-title="4K频道",深圳卫视4K
-http://116.237.161.27:8881/rtp/233.18.204.219:5140
+http://123.114.30.36:4000/rtp/239.3.1.202:2000
 
 #EXTINF:-1 group-title="4K频道",广东4K超高清
-http://113.65.7.6:7088/rtp/239.77.0.244:5146
 http://112.92.129.96:9898/hls/138/index.m3u8
 
 #EXTINF:-1 group-title="4K频道",山东卫视4K
-http://116.237.161.27:8881/rtp/233.18.204.228:5140
+http://123.114.30.36:4000/rtp/239.3.1.144:3005
 
 #EXTINF:-1 group-title="4K频道",四川卫视4K
-http://116.237.161.27:8881/rtp/233.18.204.225:5140
+http://123.114.30.36:4000/rtp/239.3.1.131:3001
 
 #EXTINF:-1 group-title="4K频道",CCTV4K
-http://116.237.161.27:8881/rtp/233.18.204.188:5140
+http://223.72.115.6:4022/rtp/228.1.1.227:2000
 
 #EXTINF:-1 group-title="4K频道",CCTV16 4K
 http://116.237.161.27:8881/rtp/233.18.204.114:5140
@@ -56,6 +56,8 @@ https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 group-title="4K频道",苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
+#EXTINF:-1 group-title="4K频道",爱上4K(轮播频道)
+http://27.10.204.170:8009/rtp/225.0.4.226:7980
 
 
 #EXTINF:-1 group-title="央视频道",CCTV1
@@ -69,6 +71,13 @@ http://112.92.129.96:9898/hls/20/index.m3u8
 
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://112.92.129.96:9898/hls/21/index.m3u8
+
+
+#EXTINF:-1 group-title="央视频道",CCTV4欧洲
+http://223.72.115.6:4022/rtp/228.1.1.213:4220
+
+#EXTINF:-1 group-title="央视频道",CCTV4美洲
+http://223.72.115.6:4022/rtp/228.1.1.203:4220
 
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://112.92.129.96:9898/hls/22/index.m3u8
