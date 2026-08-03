@@ -1,8 +1,10 @@
 #EXTM3U url-tvg="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 
+
+
 #EXTINF:-1 group-title="4K频道",北京卫视4K
-http://123.114.30.36:4000/rtp/239.3.1.139:8001
-http://183.220.107.138:4022/rtp/239.10.0.92:5140
+http://223.72.115.6:4022/rtp/228.1.1.235:8002
+
 
 #EXTINF:-1 group-title="4K频道",北京IPTV4K
 http://home.airengine.net:9003/rtp/228.1.1.123:8001
@@ -10,34 +12,34 @@ http://223.72.115.6:4022/rtp/228.1.1.123:8001
 
 
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
-http://123.114.30.36:4000/rtp/239.3.1.112:3002
+http://223.72.115.6:4022/rtp/228.1.1.40:3002
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="AptvPlayer-UA" http-header="Referer=https://litchi-play-encrypted-site.jstv.com/" group-title="4K频道",江苏卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K
-http://123.114.30.36:4000/rtp/239.3.1.113:3003
+http://223.72.115.6:4022/rtp/228.1.1.41:3002
 http://8.138.7.223/tv/jsws4k.php
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",浙江卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
-http://123.114.30.36:4000/rtp/239.3.1.114:3004
+http://223.72.115.6:4022/rtp/228.1.1.45:3004
 
 #EXTINF:-1 group-title="4K频道",东方卫视4K
-http://123.114.30.36:4000/rtp/239.3.1.119:3006
+http://223.72.115.6:4022/rtp/228.1.1.43:3006
 
 #EXTINF:-1 group-title="4K频道",广东卫视4K
-http://123.114.30.36:4000/rtp/239.3.1.203:2000
+http://223.72.115.6:4022/rtp/228.1.1.241:2000
 
 #EXTINF:-1 group-title="4K频道",深圳卫视4K
-http://123.114.30.36:4000/rtp/239.3.1.202:2000
+http://223.72.115.6:4022/rtp/228.1.1.240:2000
 
 #EXTINF:-1 group-title="4K频道",广东4K超高清
 http://112.92.129.96:9898/hls/138/index.m3u8
 
 #EXTINF:-1 group-title="4K频道",山东卫视4K
-http://123.114.30.36:4000/rtp/239.3.1.144:3005
+http://223.72.115.6:4022/rtp/228.1.1.46:3006
 
 #EXTINF:-1 group-title="4K频道",四川卫视4K
-http://123.114.30.36:4000/rtp/239.3.1.131:3001
+http://223.72.115.6:4022/rtp/228.1.1.47:3000
 
 #EXTINF:-1 group-title="4K频道",CCTV4K
 http://223.72.115.6:4022/rtp/228.1.1.227:2000
@@ -45,7 +47,7 @@ http://223.72.115.6:4022/rtp/228.1.1.227:2000
 #EXTINF:-1 group-title="4K频道",CCTV16 4K
 http://116.237.161.27:8881/rtp/233.18.204.114:5140
 
-#EXTINF:-1 group-title="4K频道",TVB翡翠4K
+#EXTINF:-1 group-title="4K频道",翡翠台
 http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E7%BF%A14k
 
 #EXTINF:-1 group-title="4K频道",河北4K
@@ -56,6 +58,7 @@ https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 #EXTINF:-1 group-title="4K频道",爱上4K
 http://27.10.204.170:8009/rtp/225.0.4.226:7980
+http://223.72.115.6:4022/rtp/228.1.1.38:2000
 
 
 #EXTINF:-1 group-title="央视频道",CCTV1
