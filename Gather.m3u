@@ -249,16 +249,16 @@ http://112.92.129.96:9898/hls/14/index.m3u8
 #EXTINF:-1 group-title="广东频道",广东少儿
 http://112.92.129.96:9898/hls/131/index.m3u8
 
-#EXTINF:-1 group-title="广东",南国都市
+#EXTINF:-1 group-title="广东频道",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
-#EXTINF:-1 group-title="广东",广州新闻
+#EXTINF:-1 group-title="广东频道",广州新闻
 http://113.65.7.6:7088/rtp/239.253.43.72:5146
 
-#EXTINF:-1 group-title="广东",广州综合
+#EXTINF:-1 group-title="广东频道",广州综合
 http://113.65.7.6:7088/rtp/239.253.43.71:5146
 
-#EXTINF:-1 group-title="广东",广州法治
+#EXTINF:-1 group-title="广东频道",广州法治
 http://183.220.107.138:4022/rtp/239.253.43.74:5146
 
 
