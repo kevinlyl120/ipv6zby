@@ -43,9 +43,11 @@ http://223.72.115.6:4022/rtp/228.1.1.47:3000
 
 #EXTINF:-1 group-title="4K频道",CCTV4K
 http://223.72.115.6:4022/rtp/228.1.1.227:2000
+http://112.44.179.115:10086/rtp/239.11.0.61:5140
 
 #EXTINF:-1 group-title="4K频道",CCTV16 4K
 http://116.237.161.27:8881/rtp/233.18.204.114:5140
+http://112.44.179.115:10086/rtp/239.11.0.67:5140
 
 #EXTINF:-1 group-title="4K频道",翡翠台
 http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E7%BF%A14k
@@ -180,6 +182,15 @@ http://112.92.129.96:9898/hls/49/index.m3u8
 
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://112.92.129.96:9898/hls/57/index.m3u8
+
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://112.44.179.115:10086/rtp/239.11.0.55:5140
+
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://112.44.179.115:10086/rtp/239.11.0.193:5140
+
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://112.44.179.115:10086/rtp/239.11.0.52:5140
 
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://112.92.129.96:9898/hls/64/index.m3u8
@@ -394,6 +405,7 @@ http://112.92.129.96:9898/hls/128/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" group-title="港澳台",凤凰资讯
 http://cdn6.163189.xyz/163189/fhzx
 http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 
 #EXTINF:-1 tvg-id="凤凰港澳台" group-title="港澳台",凤凰港澳台
 http://cdn6.163189.xyz/163189/fhhk
@@ -407,6 +419,9 @@ http://101.35.240.114:88/live.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://r.jdshipin.com/qClQf
 http://r.jdshipin.com/n90gt
+
+#EXTINF:-1 tvg-name="Mytv Super" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台",Mytv Super
+http://iptv.4666888.xyz/iptv2A.php?id=34
 
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/华丽翡翠台.png" group-title="港澳台",华丽翡翠台
 http://r.jdshipin.com/thuYX
@@ -459,8 +474,18 @@ https://cdn6.163189.xyz/163189/as
 #EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" group-title="港澳台",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻.png" group-title="港澳台",TVBS新闻
+http://iptv.4666888.xyz/iptv2A.php?id=43
+
 #EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS亚洲.png" group-title="港澳台",TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
+#EXTINF:-1 group-title="港澳台",民视
+http://iptv.4666888.xyz/iptv2A.php?id=55
+
 #EXTINF:-1 tvg-name="民视新闻" group-title="港澳台",民视新闻
 http://rihou.cc:555/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB
+http://rihou.cc:555/tv/民视新闻
+
+#EXTINF:-1 group-title="港澳台",民视综艺
+http://iptv.4666888.xyz/iptv2A.php?id=46
