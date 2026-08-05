@@ -11,12 +11,12 @@ http://223.72.115.6:4022/rtp/228.1.1.123:8001
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
 http://223.72.115.6:4022/rtp/228.1.1.40:3002
 
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="AptvPlayer-UA" http-header="Referer=https://litchi-play-encrypted-site.jstv.com/" group-title="4K频道",江苏卫视4K
-http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K
+#EXTINF:-1 group-title="4K频道",江苏卫视4K
+http://111.196.130.39:8686/rtp/239.3.1.113:3003
 http://8.138.7.223/tv/jsws4k.php
 
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",浙江卫视4K
-http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
+#EXTINF:-1 group-title="4K频道",浙江卫视4K
+http://111.196.130.39:8686/rtp/239.3.1.114:3004
 
 #EXTINF:-1 group-title="4K频道",东方卫视4K
 http://223.72.115.6:4022/rtp/228.1.1.43:3006
@@ -183,8 +183,6 @@ http://112.44.179.115:10086/rtp/239.11.0.193:5140
 
 #EXTINF:-1 group-title="卫视频道",三沙卫视
 http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
-http://113.119.24.90:58888/udp/239.253.43.113:5146$广东电信21
-
 
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://112.44.179.115:10086/rtp/239.11.0.52:5140
