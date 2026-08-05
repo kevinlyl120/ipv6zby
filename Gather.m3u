@@ -127,17 +127,35 @@ http://112.92.129.96:9898/hls/38/index.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://112.92.129.96:9898/hls/55/index.m3u8
 
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://112.92.129.96:9898/hls/41/index.m3u8
+#EXTINF:-1 group-title="广东频道",广东卫视
+http://112.92.129.96:9898/hls/1/index.m3u8
 
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://112.92.129.96:9898/hls/39/index.m3u8
+#EXTINF:-1 group-title="广东频道",深圳卫视
+http://112.92.129.96:9898/hls/16/index.m3u8
+
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://112.92.129.96:9898/hls/64/index.m3u8
+
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://112.92.129.96:9898/hls/43/index.m3u8
+
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://112.92.129.96:9898/hls/47/index.m3u8
+
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://112.92.129.96:9898/hls/44/index.m3u8
+
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://112.92.129.96:9898/hls/49/index.m3u8
+
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://112.44.179.115:10086/rtp/239.11.0.52:5140
 
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://112.92.129.96:9898/hls/40/index.m3u8
 
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://112.92.129.96:9898/hls/43/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://112.92.129.96:9898/hls/41/index.m3u8
 
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://112.92.129.96:9898/hls/101/index.m3u8
@@ -151,23 +169,17 @@ http://112.92.129.96:9898/hls/45/index.m3u8
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://112.92.129.96:9898/hls/58/index.m3u8
 
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://112.92.129.96:9898/hls/47/index.m3u8
-
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://112.92.129.96:9898/hls/44/index.m3u8
-
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://112.92.129.96:9898/hls/46/index.m3u8
 
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://112.92.129.96:9898/hls/66/index.m3u8
 
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://112.92.129.96:9898/hls/39/index.m3u8
+
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://112.92.129.96:9898/hls/48/index.m3u8
-
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://112.92.129.96:9898/hls/49/index.m3u8
 
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://112.92.129.96:9898/hls/57/index.m3u8
@@ -184,17 +196,8 @@ http://112.44.179.115:10086/rtp/239.11.0.193:5140
 #EXTINF:-1 group-title="卫视频道",三沙卫视
 http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
 
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://112.44.179.115:10086/rtp/239.11.0.52:5140
-
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://112.92.129.96:9898/hls/64/index.m3u8
-
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://112.92.129.96:9898/hls/65/index.m3u8
-
-#EXTINF:-1 group-title="卫视频道",兵团卫视
-http://112.92.129.96:9898/hls/77/index.m3u8
 
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://112.92.129.96:9898/hls/68/index.m3u8
@@ -204,6 +207,9 @@ http://112.92.129.96:9898/hls/61/index.m3u8
 
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://112.92.129.96:9898/hls/151/index.m3u8
+
+#EXTINF:-1 group-title="卫视频道",兵团卫视
+http://112.92.129.96:9898/hls/77/index.m3u8
 
 #EXTINF:-1 group-title="卫视频道",北京纪实科教
 http://112.92.129.96:9898/hls/50/index.m3u8
@@ -257,7 +263,7 @@ http://113.119.24.90:58888/udp/239.253.43.71:5146
 #EXTINF:-1 group-title="广东频道",广州法治
 http://183.220.107.138:4022/rtp/239.253.43.74:5146
 
-http://113.119.24.90:58888/udp/239.253.43.74:5146
+
 #EXTINF:-1 group-title="咪视界",咪视界4K
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=K
 
@@ -408,8 +414,6 @@ http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" group-title="港澳台",翡翠台
 http://112.92.129.96:9898/hls/91/index.m3u8
 
-#EXTINF:-1 tvg-name="Mytv Super" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台",Mytv Super
-
 #EXTINF:-1 tvg-id="明珠台" group-title="港澳台",明珠台
 http://112.92.129.96:9898/hls/110/index.m3u8
 
@@ -417,13 +421,13 @@ http://112.92.129.96:9898/hls/110/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBPLUS" group-title="港澳台",TVBPLUS
 
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://tb.zbds.top/logo/TVB星河.png" group-title="港澳台",TVB星河
+#EXTINF:-1 tvg-name="TVB星河" group-title="港澳台",TVB星河
 http://112.92.129.96:9898/hls/122/index.m3u8
 
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="港澳台",澳视澳门
+#EXTINF:-1 tvg-name="澳视澳门" group-title="港澳台",澳视澳门
 http://112.92.129.96:9898/hls/135/index.m3u8
 
-#EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" group-title="港澳台",环球电视
+#EXTINF:-1 tvg-id="环球电视" group-title="港澳台",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 #EXTINF:-1 tvg-id="TVBS亚洲" group-title="港澳台",TVBS亚洲
