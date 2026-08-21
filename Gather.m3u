@@ -6,6 +6,7 @@ http://123.114.30.36:4000/rtp/239.3.1.139:8001
 
 #EXTINF:-1 group-title="4K频道",北京IPTV4K
 http://home.airengine.net:9003/rtp/228.1.1.123:8001
+http://221.220.135.225:8012/rtp/239.3.1.249:8001%24%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A31
 
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
 http://123.114.30.36:4000/rtp/239.3.1.112:3002
@@ -43,7 +44,8 @@ http://183.236.43.98:4013/udp/239.77.0.194:5146%24%E5%B9%BF%E4%B8%9C%E7%94%B5%E4
 
 #EXTINF:-1 group-title="4K频道",CCTV16 4K
 
-#EXTINF:-1 group-title="4K频道",翡翠台
+#EXTINF:-1 group-title="4K频道",华数4K
+http://221.220.135.225:8012/rtp/239.3.1.236:2000%24%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A31
 
 #EXTINF:-1 group-title="4K频道",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -54,21 +56,24 @@ https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://112.92.129.96:9898/hls/18/index.m3u8
+http://114.226.212.132:8787/rtp/239.49.8.19:9614%24%E6%B1%9F%E8%8B%8F%E7%94%B5%E4%BF%A112
 
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://112.92.129.96:9898/hls/19/index.m3u8
+http://183.236.43.98:4013/udp/239.77.1.158:5146%24%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A111
 
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://112.92.129.96:9898/hls/20/index.m3u8
+http://39.77.22.26:4002/rtp/239.253.254.191:8000%24%E5%B1%B1%E4%B8%9C%E8%81%94%E9%80%9A11
 
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://112.92.129.96:9898/hls/21/index.m3u8
 
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
-http://123.114.30.36:4000/rtp/239.3.1.213:4220
+http://221.220.135.225:8012/rtp/239.3.1.213:4220%24%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A31
 
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
-http://123.114.30.36:4000/rtp/239.3.1.214:4220
+http://221.220.135.225:8012/rtp/239.3.1.214:4220%24%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A31
 
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://112.92.129.96:9898/hls/22/index.m3u8
@@ -207,17 +212,19 @@ http://112.92.129.96:9898/hls/48/index.m3u8
 http://112.92.129.96:9898/hls/57/index.m3u8
 
 #EXTINF:-1 group-title="卫视频道",山西卫视
+http://219.156.89.99:4022/rtp/225.1.4.38:1067%24%E6%B2%B3%E5%8D%97%E8%81%94%E9%80%9A11
 
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://112.44.179.115:10086/rtp/239.11.0.55:5140
+http://219.156.89.99:4022/rtp/225.1.4.42:1071%24%E6%B2%B3%E5%8D%97%E8%81%94%E9%80%9A11
 
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://112.44.179.115:10086/rtp/239.11.0.193:5140
+http://219.156.89.99:4022/rtp/225.1.4.195:1310%24%E6%B2%B3%E5%8D%97%E8%81%94%E9%80%9A11
 
 #EXTINF:-1 group-title="卫视频道",海峡卫视
 
 #EXTINF:-1 group-title="卫视频道",三沙卫视
 http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
+http://183.236.43.98:4013/udp/239.253.43.113:5146%24%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A111
 
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://112.92.129.96:9898/hls/65/index.m3u8
@@ -226,7 +233,7 @@ http://112.92.129.96:9898/hls/65/index.m3u8
 http://112.92.129.96:9898/hls/68/index.m3u8
 
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://45.192.97.170:8880/play/974.m3u8
+http://183.236.43.98:4013/udp/239.253.43.125:5146%24%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A111
 
 #EXTINF:-1 group-title="卫视频道",新疆卫视
 http://112.92.129.96:9898/hls/61/index.m3u8
