@@ -56,15 +56,12 @@ https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://112.92.129.96:9898/hls/18/index.m3u8
-http://114.226.212.132:8787/rtp/239.49.8.19:9614%24%E6%B1%9F%E8%8B%8F%E7%94%B5%E4%BF%A112
 
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://112.92.129.96:9898/hls/19/index.m3u8
-http://183.236.43.98:4013/udp/239.77.1.158:5146%24%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A111
 
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://112.92.129.96:9898/hls/20/index.m3u8
-http://39.77.22.26:4002/rtp/239.253.254.191:8000%24%E5%B1%B1%E4%B8%9C%E8%81%94%E9%80%9A11
 
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://112.92.129.96:9898/hls/21/index.m3u8
@@ -223,7 +220,6 @@ http://219.156.89.99:4022/rtp/225.1.4.195:1310%24%E6%B2%B3%E5%8D%97%E8%81%94%E9%
 #EXTINF:-1 group-title="卫视频道",海峡卫视
 
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
 http://183.236.43.98:4013/udp/239.253.43.113:5146%24%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A111
 
 #EXTINF:-1 group-title="卫视频道",西藏卫视
@@ -288,10 +284,8 @@ http://112.92.129.96:9898/hls/131/index.m3u8
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 #EXTINF:-1 group-title="广东频道",广州新闻
-http://8.134.175.232:4022/rtp/239.253.43.72:5146
 
 #EXTINF:-1 group-title="广东频道",广州综合
-http://8.134.175.232:4022/rtp/239.253.43.71:5146
 
 #EXTINF:-1 group-title="广东频道",广州法治
 http://183.220.107.138:4022/rtp/239.253.43.74:5146
@@ -448,7 +442,6 @@ http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 
 #EXTINF:-1 group-title="港澳台",凤凰资讯
 http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
-http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 group-title="港澳台",凤凰港澳台
 http://r.jdshipin.com/yDoTN
@@ -476,31 +469,37 @@ http://r.jdshipin.com/Nr5jq
 http://rihou.cc:555/tv/[Pd]Plus%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 group-title="港澳台",TVB1
+http://iptv.4666888.xyz/iptv2A.php?id=25
 
 #EXTINF:-1 group-title="港澳台",TVBJ1
-http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E5%A8%B1%E4%B9%90
 
 #EXTINF:-1 group-title="港澳台",TVBS精彩台
+
+http://iptv.4666888.xyz/iptv2A.php?id=26
+http://iptv.4666888.xyz/iptv2A.php?id=28
 
 #EXTINF:-1 group-title="港澳台",TVB星河
 http://r.jdshipin.com/Voac4
 
 #EXTINF:-1 group-title="港澳台",TVB娱乐新闻台
-http://ysift55.xyz/live/52TLK6U/TNLMRY9/1052635.ts
+http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E5%A8%B1%E4%B9%90
 
 #EXTINF:-1 group-title="港澳台",TVB千禧经典台
-http://ysift55.xyz/live/52TLK6U/TNLMRY9/1052632.ts
 
 #EXTINF:-1 group-title="港澳台",MyTV Super
 http://iptv.4666888.xyz/iptv2A.php?id=34
 
+http://iptv.4666888.xyz/iptv2A.php?id=22
+
 #EXTINF:-1 group-title="港澳台",RHK31
+http://iptv.4666888.xyz/iptv2A.php?id=23
 
 #EXTINF:-1 group-title="港澳台",RHK32
 
 #EXTINF:-1 group-title="港澳台",HOY76
 
 #EXTINF:-1 group-title="港澳台",HOY77
+http://iptv.4666888.xyz/iptv2A.php?id=35
 http://r.jdshipin.com/sFw4S
 http://rihou.cc:555/tv/[Pd]%E6%9C%89%E7%BA%BF%E7%BB%BC%E5%90%88
 
@@ -515,11 +514,16 @@ https://cdn.qd.je/163189.php?id=now
 
 #EXTINF:-1 group-title="港澳台",Astro欢喜台
 
+
+#EXTINF:-1 group-title="港澳台",八度空间
+http://iptv.4666888.xyz/iptv2A.php?id=52
+
 #EXTINF:-1 group-title="港澳台",香港面包
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 #EXTINF:-1 group-title="港澳台",澳视澳门
 http://112.92.129.96:9898/hls/135/index.m3u8
+http://iptv.4666888.xyz/iptv2A.php?id=41
 
 #EXTINF:-1 group-title="港澳台",澳门Macau
 http://r.jdshipin.com/QFhCq
@@ -540,10 +544,20 @@ http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 #EXTINF:-1 group-title="港澳台",TVBS新闻
+http://iptv.4666888.xyz/iptv2A.php?id=43
 http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="港澳台",TVBS欢乐
 http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="港澳台",TVBS精彩台
+http://iptv.4666888.xyz/iptv2A.php?id=47
+
+#EXTINF:-1 group-title="港澳台",TVBS综艺
+http://iptv.4666888.xyz/iptv2A.php?id=46
+
+#EXTINF:-1 group-title="港澳台",TVBS影剧
+http://iptv.4666888.xyz/iptv2A.php?id=53
 
 #EXTINF:-1 group-title="港澳台",中视
 http://220.135.241.47:8301/0.ts
@@ -579,6 +593,7 @@ http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34887
 http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="港澳台",民视
+http://iptv.4666888.xyz/iptv2A.php?id=55
 http://211.72.174.95:8115/0.ts
 http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1782639885837
 
@@ -602,11 +617,36 @@ http://211.72.174.95:8116/0.ts
 #EXTINF:-1 group-title="港澳台",台视财经新
 http://220.135.241.47:8315/0.ts
 
-#EXTINF:-1 group-title="国际",CNA
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF8%E3%80%8F
+#EXTINF:-1 group-title="港澳台",ROCK CTION
+http://iptv.4666888.xyz/iptv2A.php?id=50
+
+
+#EXTINF:-1 group-title="港澳台",靖洋戏剧台
+http://iptv.4666888.xyz/iptv2A.php?id=42
+
+
+#EXTINF:-1 group-title="港澳台",靖天电影台
+http://iptv.4666888.xyz/iptv2A.php?id=56
+
+#EXTINF:-1 group-title="港澳台",未确定
+http://iptv.4666888.xyz/iptv2A.php?id=64
+
 
 #EXTINF:-1 group-title="国际",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 group-title="国际",HOB
 http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34571
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W46fmsvCR9HcA6tSWU14HI/ts
+
+#EXTINF:-1 group-title="体育",TNT SPORTS1
+http://iptv.4666888.xyz/iptv2A.php?id=2
+
+#EXTINF:-1 group-title="体育",SKY SPORTS LIVE
+http://iptv.4666888.xyz/iptv2A.php?id=4
+
+#EXTINF:-1 group-title="体育",SKY SPORTS Football
+http://iptv.4666888.xyz/iptv2A.php?id=5
+
+#EXTINF:-1 group-title="体育",博斯高球
+http://iptv.4666888.xyz/iptv2A.php?id=10
