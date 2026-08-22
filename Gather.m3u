@@ -487,7 +487,6 @@ http://r.jdshipin.com/Voac4
 
 #EXTINF:-1 group-title="港澳台",TVB娱乐新闻台
 https://cdn.qd.je/163189.php?id=ylxw
-http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E5%A8%B1%E4%B9%90
 
 #EXTINF:-1 group-title="港澳台",TVB生活台
 http://iptv.4666888.xyz/iptv2A.php?id=11
@@ -504,7 +503,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=34
 http://iptv.4666888.xyz/iptv2A.php?id=22
 
 #EXTINF:-1 group-title="港澳台",RHK31
-http://iptv.4666888.xyz/iptv2A.php?id=23
+https://cdn.qd.je/163189.php?id=rthk31
 
 #EXTINF:-1 group-title="港澳台",RHK32
 https://cdn.qd.je/163189.php?id=rthk32
@@ -513,7 +512,6 @@ https://cdn.qd.je/163189.php?id=rthk32
 https://cdn.qd.je/163189.php?id=hoy76
 
 #EXTINF:-1 group-title="港澳台",HOY77
-https://cdn.qd.je/163189.php?id=hoy77
 http://r.jdshipin.com/sFw4S
 http://rihou.cc:555/tv/[Pd]%E6%9C%89%E7%BA%BF%E7%BB%BC%E5%90%88
 
@@ -537,7 +535,6 @@ https://cdn.qd.je/163189.php?id=aod
 #EXTINF:-1 group-title="港澳台",八度空间
 https://cdn.qd.je/163189.php?id=8tv
 
-
 #EXTINF:-1 group-title="港澳台",CH5
 https://cdn.qd.je/163189.php?id=ch5
 
@@ -552,7 +549,6 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 #EXTINF:-1 group-title="港澳台",澳视澳门
 http://112.92.129.96:9898/hls/135/index.m3u8
-http://iptv.4666888.xyz/iptv2A.php?id=41
 
 #EXTINF:-1 group-title="港澳台",澳门Macau
 http://r.jdshipin.com/QFhCq
