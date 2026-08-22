@@ -457,6 +457,8 @@ http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E7%BF%A14k
 
 #EXTINF:-1 group-title="港澳台",翡翠台华丽
 http://r.jdshipin.com/thuYX
+http://iptv.4666888.xyz/iptv2A.php?id=28
+
 #EXTINF:-1 group-title="港澳台",明珠台
 http://112.92.129.96:9898/hls/110/index.m3u8
 
@@ -472,17 +474,18 @@ http://rihou.cc:555/tv/[Pd]Plus%E7%BB%BC%E5%90%88
 http://iptv.4666888.xyz/iptv2A.php?id=25
 
 #EXTINF:-1 group-title="港澳台",TVBJ1
-
-#EXTINF:-1 group-title="港澳台",TVBS精彩台
-
 http://iptv.4666888.xyz/iptv2A.php?id=26
-http://iptv.4666888.xyz/iptv2A.php?id=28
+
+#EXTINF:-1 group-title="港澳台",TVB精彩台
 
 #EXTINF:-1 group-title="港澳台",TVB星河
 http://r.jdshipin.com/Voac4
 
 #EXTINF:-1 group-title="港澳台",TVB娱乐新闻台
 http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E5%A8%B1%E4%B9%90
+
+#EXTINF:-1 group-title="港澳台",TVB生活台
+http://iptv.4666888.xyz/iptv2A.php?id=11
 
 #EXTINF:-1 group-title="港澳台",TVB千禧经典台
 
@@ -628,9 +631,12 @@ http://iptv.4666888.xyz/iptv2A.php?id=42
 #EXTINF:-1 group-title="港澳台",靖天电影台
 http://iptv.4666888.xyz/iptv2A.php?id=56
 
+#EXTINF:-1 group-title="港澳台",黄金花戏台
+http://iptv.4666888.xyz/iptv2A.php?id=24
+
 #EXTINF:-1 group-title="港澳台",未确定
 http://iptv.4666888.xyz/iptv2A.php?id=64
-
+http://iptv.4666888.xyz/iptv2A.php?id=20
 
 #EXTINF:-1 group-title="国际",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
