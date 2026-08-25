@@ -43,7 +43,6 @@ https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 group-title="4K频道",苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
---------------------------------------------------------------
 
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://112.92.129.96:9898/hls/18/index.m3u8
@@ -126,7 +125,6 @@ http://112.92.129.96:9898/hls/116/index.m3u8
 #EXTINF:-1 group-title="央视频道",央视台球
 http://112.92.129.96:9898/hls/117/index.m3u8
 
---------------------------------------------------------------
 
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://112.92.129.96:9898/hls/35/index.m3u8
@@ -239,7 +237,6 @@ http://112.92.129.96:9898/hls/50/index.m3u8
 #EXTINF:-1 group-title="卫视频道",新视觉
 http://112.92.129.96:9898/hls/107/index.m3u8
 
---------------------------------------------------------------
 
 #EXTINF:-1 group-title="广东频道",广东卫视
 http://112.92.129.96:9898/hls/1/index.m3u8
@@ -292,7 +289,6 @@ http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 #EXTINF:-1 group-title="广东频道",都市剧场
 http://112.92.129.96:9898/hls/6/index.m3u8
 
---------------------------------------------------------------
 
 #EXTINF:-1 group-title="咪视界",咪视界4K
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=K
@@ -432,7 +428,6 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 group-title="咪视界",咪视界 44
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=K
 
---------------------------------------------------------------
 
 #EXTINF:-1 group-title="港澳台",凤凰中文
 https://cdn.qd.je/163189.php?id=fhzw
@@ -562,7 +557,6 @@ https://cdn.qd.je/163189.php?id=ccm
 #EXTINF:-1 group-title="港澳台",天映频道(新加坡)
 https://cdn.qd.je/163189.php?id=typd
 
---------------------------------------------------------------
 
 #EXTINF:-1 group-title="澳门",澳视澳门
 http://112.92.129.96:9898/hls/135/index.m3u8
@@ -580,7 +574,6 @@ https://cdn.qd.je/163189.php?id=amty
 #EXTINF:-1 group-title="澳门",澳门综艺
 https://cdn.qd.je/163189.php?id=amzy
 
---------------------------------------------------------------
 
 #EXTINF:-1 group-title="台湾",龙华经典
 https://cdn.qd.je/163189.php?id=lhjd
@@ -698,7 +691,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=56
 #EXTINF:-1 group-title="台湾",DW
 http://220.135.64.124:5050/4gtv-live071/index.m3u8?proxy=true
 
---------------------------------------------------------------
 
 #EXTINF:-1 group-title="国际",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -707,7 +699,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34571
 https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W46fmsvCR9HcA6tSWU14HI/ts
 
---------------------------------------------------------------
 
 #EXTINF:-1 group-title="体育",五星体育
 https://cdn.qd.je/163189.php?id=wxty
