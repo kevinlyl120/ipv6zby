@@ -2,50 +2,40 @@
 
 
 #EXTINF:-1 group-title="4K频道",北京卫视4K
-http://123.114.30.36:4000/rtp/239.3.1.139:8001
 
 #EXTINF:-1 group-title="4K频道",北京IPTV4K
 http://home.airengine.net:9003/rtp/228.1.1.123:8001
 http://221.220.135.225:8012/rtp/239.3.1.249:8001%24%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A31
 
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
-http://123.114.30.36:4000/rtp/239.3.1.112:3002
 
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" http-user-agent="aliplayer" http-referer="http://live.jstv.com/" group-title="4K频道",江苏卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K
 http://8.138.7.223/tv/jsws4k.php
-http://123.114.30.36:4000/rtp/239.3.1.113:3003
 
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="aliplayer" group-title="4K频道",浙江卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
-http://123.114.30.36:4000/rtp/239.3.1.114:3004
 
 #EXTINF:-1 group-title="4K频道",东方卫视4K
-http://123.114.30.36:4000/rtp/239.3.1.119:3006
 
 #EXTINF:-1 group-title="4K频道",广东卫视4K
-http://123.114.30.36:4000/rtp/239.3.1.203:2000
 
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K
 http://101.35.240.114:88/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K
-http://123.114.30.36:4000/rtp/239.3.1.202:2000
 
 #EXTINF:-1 group-title="4K频道",广东4K超高清
 http://112.92.129.96:9898/hls/138/index.m3u8
 
 #EXTINF:-1 group-title="4K频道",山东卫视4K
-http://123.114.30.36:4000/rtp/239.3.1.144:3005
 
 #EXTINF:-1 group-title="4K频道",四川卫视4K
-http://123.114.30.36:4000/rtp/239.3.1.131:3001
 
 #EXTINF:-1 group-title="4K频道",CCTV4K
-http://183.236.43.98:4013/udp/239.77.0.194:5146%24%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A111
 
 #EXTINF:-1 group-title="4K频道",CCTV16 4K
 
 #EXTINF:-1 group-title="4K频道",华数4K
-http://221.220.135.225:8012/rtp/239.3.1.236:2000%24%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A31
+http://221.220.135.225:8012/rtp/239.3.1.236:2000
 
 #EXTINF:-1 group-title="4K频道",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -284,11 +274,13 @@ http://112.92.129.96:9898/hls/131/index.m3u8
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 #EXTINF:-1 group-title="广东频道",广州新闻
+https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 
 #EXTINF:-1 group-title="广东频道",广州综合
+https://tencentplaygsm.gztv.com/live/zonghes.m3u8
 
 #EXTINF:-1 group-title="广东频道",广州法治
-http://183.220.107.138:4022/rtp/239.253.43.74:5146
+https://tencentplaygsm.gztv.com/live/zonghes.m3u8
 
 #EXTINF:-1 group-title="广东频道",番禺
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
@@ -466,12 +458,10 @@ https://cdn.qd.je/163189.php?id=mzt
 
 #EXTINF:-1 group-title="港澳台",无线新闻台
 https://cdn.qd.je/163189.php?id=wxxw
-http://r.jdshipin.com/CkuBd
 http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
 
 #EXTINF:-1 group-title="港澳台",TVBPLUS
 https://cdn.qd.je/163189.php?id=tvbp
-http://r.jdshipin.com/Nr5jq
 http://rihou.cc:555/tv/[Pd]Plus%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 group-title="港澳台",TVB1
@@ -558,6 +548,7 @@ https://cdn.qd.je/163189.php?id=asam
 https://cdn.qd.je/163189.php?id=as
 
 #EXTINF:-1 group-title="港澳台",澳门莲花
+https://cdn.qd.je/163189.php?id=amlh
 
 #EXTINF:-1 group-title="港澳台",澳门体育
 https://cdn.qd.je/163189.php?id=amty
