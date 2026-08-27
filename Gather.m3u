@@ -653,7 +653,7 @@ http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
 #EXTINF:-1 group-title="台湾",寰宇新闻
 http://222.128.55.152:9080/live/hy.m3u8
 
-#EXTINF:-1 group-title="台湾",华视http://220.135.64.124:5050/
+#EXTINF:-1 group-title="台湾",华视
 http://220.135.241.47:8317/0.ts
 
 #EXTINF:-1 group-title="台湾",华视新闻
