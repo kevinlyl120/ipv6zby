@@ -458,11 +458,9 @@ https://cdn.qd.je/163189.php?id=mzt
 
 #EXTINF:-1 group-title="港澳台",无线新闻台
 https://cdn.qd.je/163189.php?id=wxxw
-http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
 
 #EXTINF:-1 group-title="港澳台",TVBPLUS
 https://cdn.qd.je/163189.php?id=tvbp
-http://rihou.cc:555/tv/[Pd]Plus%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 group-title="港澳台",TVB1
 https://cdn.qd.je/163189.php?id=tvb1
@@ -624,8 +622,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=46
 #EXTINF:-1 group-title="台湾",TVBS影剧
 http://iptv.4666888.xyz/iptv2A.php?id=53
 
-
-
 #EXTINF:-1 group-title="台湾",东森新闻
 http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 
@@ -643,7 +639,6 @@ http://220.135.241.47:8321/0.ts
 
 #EXTINF:-1 group-title="台湾",中视菁采
 http://220.135.241.47:8322/0.ts
-
 
 #EXTINF:-1 group-title="台湾",中天新闻
 https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
@@ -669,20 +664,19 @@ http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
 http://220.135.241.47:8318/0.ts
 
 #EXTINF:-1 group-title="台湾",民视
-http://iptv.4666888.xyz/iptv2A.php?id=55
 http://211.72.174.95:8115/0.ts
+http://iptv.4666888.xyz/iptv2A.php?id=55
 http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",民视台湾
-http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
+http://220.135.241.47:8311/0.ts
 
 #EXTINF:-1 group-title="台湾",民视新闻
-http://rihou.cc:555/tv/民视新闻
+http://211.72.174.95:8117/0.ts
 http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
-http://rihou.cc:555/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB
 
 #EXTINF:-1 group-title="台湾",民视第一
-http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
+http://220.135.241.47:8309/0.ts
 
 #EXTINF:-1 group-title="台湾",民视财经
 http://220.135.241.47:8315/0.ts
