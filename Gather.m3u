@@ -696,7 +696,7 @@ http://220.135.241.47:8314/0.ts
 #EXTINF:-1 group-title="台湾",台视综合
 http://220.135.241.47:8316/0.ts
 
-#EXTINF:-1 group-title="台湾",台视财经新
+#EXTINF:-1 group-title="台湾",台视财经
 http://220.135.241.47:8315/0.ts
 
 #EXTINF:-1 group-title="台湾",客家电视
