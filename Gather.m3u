@@ -199,13 +199,11 @@ http://112.92.129.96:9898/hls/48/index.m3u8
 http://112.92.129.96:9898/hls/57/index.m3u8
 
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://219.156.89.99:4022/rtp/225.1.4.38:1067%24%E6%B2%B3%E5%8D%97%E8%81%94%E9%80%9A11
 
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://219.156.89.99:4022/rtp/225.1.4.42:1071%24%E6%B2%B3%E5%8D%97%E8%81%94%E9%80%9A11
 
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://219.156.89.99:4022/rtp/225.1.4.195:1310%24%E6%B2%B3%E5%8D%97%E8%81%94%E9%80%9A11
+http://t.061899.xyz/tl/tl.php?id=hinws
 
 #EXTINF:-1 group-title="卫视频道",海峡卫视
 https://cdn.qd.je/163189.php?id=hxws
@@ -363,7 +361,6 @@ https://cdn.qd.je/163189.php?id=hoy76
 #EXTINF:-1 group-title="香港",HOY77
 https://cdn.qd.je/163189.php?id=hoy
 http://r.jdshipin.com/sFw4S
-http://rihou.cc:555/tv/[Pd]%E6%9C%89%E7%BA%BF%E7%BB%BC%E5%90%88
 
 #EXTINF:-1 group-title="香港",HOY78
 https://cdn.qd.je/163189.php?id=hoy78
@@ -715,13 +712,6 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 group-title="咪视界",咪视界 44
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=K
 
-
-#EXTINF:-1 group-title="国际",亚洲新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1 group-title="国际",HOB
-https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W46fmsvCR9HcA6tSWU14HI/ts
-
 #EXTINF:-1 group-title="体育",五星体育
 https://cdn.qd.je/163189.php?id=wxty
 
@@ -741,10 +731,35 @@ http://iptv.4666888.xyz/iptv2A.php?id=5
 http://iptv.4666888.xyz/iptv2A.php?id=10
 
 
+
+#EXTINF:-1 group-title="国际",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 group-title="国际",HOB
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W46fmsvCR9HcA6tSWU14HI/ts
+
+#EXTINF:-1 group-title="韩国",SBS 강심장
+copy to clip	https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?	
+
+#EXTINF:-1 group-title="韩国",SBS 스페셜  
+https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="韩国",SBS 닥터스  
+https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?
+
+#EXTINF:-1 group-title="韩国",SBS 스페셜  
+https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?
+
+#EXTINF:-1 group-title="韩国",SBS 미운 우리 새끼
+https://d2h2h4q3zieeav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49nq9623vilm8-prod/hls-harvester2-1293-prod/us-east-1/cc-49nq9623vilm8/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="韩国",tvN 도깨비
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+
+
+
+
 #EXTINF:-1 group-title="香港",未确定
 http://iptv.4666888.xyz/iptv2A.php?id=64
 http://iptv.4666888.xyz/iptv2A.php?id=20
-
 http://iptv.4666888.xyz/iptv2A.php?id=7
-
-http://211.72.174.95:8118/0.ts
