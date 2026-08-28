@@ -538,6 +538,9 @@ http://220.135.241.47:8307/0.ts
 #EXTINF:-1 group-title="台湾",原视TITV
 http://220.135.241.47:8303/0.ts
 
+#EXTINF:-1 group-title="台湾",八大综合台
+http://iptv.4666888.xyz/iptv2A.php?id=64
+
 #EXTINF:-1 group-title="台湾",大爱2
 http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
 
@@ -765,9 +768,6 @@ https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="韩国",SBS 닥터스  
 https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?
 
-#EXTINF:-1 group-title="韩国",SBS 스페셜  
-https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?
-
 #EXTINF:-1 group-title="韩国",SBS 미운 우리 새끼
 https://d2h2h4q3zieeav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49nq9623vilm8-prod/hls-harvester2-1293-prod/us-east-1/cc-49nq9623vilm8/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -775,9 +775,5 @@ https://d2h2h4q3zieeav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
 
 
-
-
-#EXTINF:-1 group-title="香港",未确定
-http://iptv.4666888.xyz/iptv2A.php?id=64
-http://iptv.4666888.xyz/iptv2A.php?id=20
+#EXTINF:-1 group-title="未确定",
 http://iptv.4666888.xyz/iptv2A.php?id=7
