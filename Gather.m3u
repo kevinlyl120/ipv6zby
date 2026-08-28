@@ -5,7 +5,6 @@
 
 #EXTINF:-1 group-title="4K频道",北京IPTV4K
 http://home.airengine.net:9003/rtp/228.1.1.123:8001
-http://221.220.135.225:8012/rtp/239.3.1.249:8001%24%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A31
 
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
 
@@ -35,7 +34,6 @@ http://112.92.129.96:9898/hls/138/index.m3u8
 #EXTINF:-1 group-title="4K频道",CCTV16 4K
 
 #EXTINF:-1 group-title="4K频道",华数4K
-http://221.220.135.225:8012/rtp/239.3.1.236:2000
 
 #EXTINF:-1 group-title="4K频道",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -57,10 +55,8 @@ http://112.92.129.96:9898/hls/20/index.m3u8
 http://112.92.129.96:9898/hls/21/index.m3u8
 
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
-http://221.220.135.225:8012/rtp/239.3.1.213:4220%24%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A31
 
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
-http://221.220.135.225:8012/rtp/239.3.1.214:4220%24%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A31
 
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://112.92.129.96:9898/hls/22/index.m3u8
@@ -334,6 +330,7 @@ http://r.jdshipin.com/Voac4
 
 #EXTINF:-1 group-title="香港",TVB娱乐新闻台
 https://cdn.qd.je/163189.php?id=ylxw
+https://cdn6.cc.cd/163189/ylxw
 
 #EXTINF:-1 group-title="香港",TVB生活台
 http://iptv.4666888.xyz/iptv2A.php?id=11
@@ -368,9 +365,6 @@ https://cdn.qd.je/163189.php?id=hoy78
 #EXTINF:-1 group-title="香港",viu6
 https://cdn.qd.je/163189.php?id=viu6
 
-#EXTINF:-1 group-title="香港",有线综合
-http://rihou.cc:555/tv/[Pd]有线综合
-
 #EXTINF:-1 group-title="香港",now新闻
 https://cdn.qd.je/163189.php?id=now
 
@@ -388,6 +382,7 @@ https://cdn.qd.je/163189.php?id=hxt
 
 #EXTINF:-1 group-title="香港",AMC电影台
 https://cdn.qd.je/163189.php?id=amc
+https://cdn12.178.indevs.in/163189/amc
 
 #EXTINF:-1 group-title="香港",八度空间
 https://cdn.qd.je/163189.php?id=8tv
@@ -516,6 +511,9 @@ http://220.135.241.47:8309/0.ts
 #EXTINF:-1 group-title="台湾",民视财经
 http://220.135.241.47:8315/0.ts
 
+#EXTINF:-1 group-title="台湾",民视影剧台
+https://cdn12.178.indevs.in/163189/msyj
+
 #EXTINF:-1 group-title="台湾",公视
 http://211.72.174.95:8116/0.ts
 
@@ -547,10 +545,30 @@ http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
 http://iptv.4666888.xyz/iptv2A.php?id=50
 
 #EXTINF:-1 group-title="台湾",靖洋戏剧台
+https://cdn12.178.indevs.in/163189/jyxj
 http://iptv.4666888.xyz/iptv2A.php?id=42
 
 #EXTINF:-1 group-title="台湾",靖天电影台
+https://cdn12.178.indevs.in/163189/jtdy
 http://iptv.4666888.xyz/iptv2A.php?id=56
+
+#EXTINF:-1 group-title="台湾",靖天戏剧台
+https://cdn12.178.indevs.in/163189/jtxj
+
+#EXTINF:-1 group-title="台湾",采昌影剧台
+https://cdn12.178.indevs.in/163189/ccyj
+
+#EXTINF:-1 group-title="台湾",cinemaworld
+https://cdn12.178.indevs.in/163189/cinemaworld
+
+#EXTINF:-1 group-title="台湾",影迷数位电影台
+https://cdn12.178.indevs.in/163189/ymswdyt
+
+#EXTINF:-1 group-title="台湾",经典电影台
+https://cdn12.178.indevs.in/163189/jddyt
+
+#EXTINF:-1 group-title="台湾",My Cinema Europe
+https://cdn12.178.indevs.in/163189/mce
 
 #EXTINF:-1 group-title="台湾",DW
 http://220.135.64.124:5050/4gtv-live071/index.m3u8?proxy=true
