@@ -2,6 +2,9 @@
 
 
 #EXTINF:-1 group-title="4K频道",北京卫视4K
+http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.139:8001
+http://58.17.134.3:8003/udp/225.0.4.122:7980
+http://ccj.gohome.link:55556/rtp/239.3.1.139:8001
 
 #EXTINF:-1 group-title="4K频道",北京IPTV4K
 http://home.airengine.net:9003/rtp/228.1.1.123:8001
@@ -16,6 +19,7 @@ http://8.138.7.223/tv/jsws4k.php
 http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
 
 #EXTINF:-1 group-title="4K频道",东方卫视4K
+http://58.17.134.3:8003/udp/225.0.4.103:7980
 
 #EXTINF:-1 group-title="4K频道",广东卫视4K
 
@@ -298,6 +302,7 @@ http://r.jdshipin.com/yDoTN
 #EXTINF:-1 tvg-id="翡翠台" group-title="香港",翡翠台4K
 http://r.jdshipin.com/n90gt
 https://cdn3.indevs.in/stream/tvb/fct4k/
+https://cdn.qd.je/163189.php?id=fct4k
 
 #EXTINF:-1 tvg-id="翡翠台" group-title="香港",翡翠台
 http://112.92.129.96:9898/hls/91/index.m3u8
@@ -305,7 +310,7 @@ https://cdn.qd.je/163189.php?id=fct
 
 #EXTINF:-1 group-title="香港",翡翠台华丽
 http://r.jdshipin.com/thuYX
-https://cdn.qd.je/163189.php?id=jade
+https://cdn6.cc.cd/163189/jade
 http://iptv.4666888.xyz/iptv2A.php?id=28
 
 #EXTINF:-1 group-title="香港",明珠台
@@ -319,7 +324,7 @@ https://cdn.qd.je/163189.php?id=wxxw
 https://cdn.qd.je/163189.php?id=tvbp
 
 #EXTINF:-1 group-title="香港",TVB1
-https://cdn.qd.je/163189.php?id=tvb1
+https://cdn6.cc.cd/163189/tvb1
 
 #EXTINF:-1 group-title="香港",TVBJ1
 https://cdn.qd.je/163189.php?id=j1
@@ -384,7 +389,6 @@ https://cdn.qd.je/163189.php?id=hxt
 
 #EXTINF:-1 group-title="香港",AMC电影台
 https://cdn.qd.je/163189.php?id=amc
-https://cdn12.178.indevs.in/163189/amc
 
 #EXTINF:-1 group-title="香港",八度空间
 https://cdn.qd.je/163189.php?id=8tv
@@ -436,8 +440,7 @@ http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",TVBS新闻
 http://iptv.4666888.xyz/iptv2A.php?id=43
-http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
-
+https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="台湾",TVBS欢乐
 http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
 
@@ -484,10 +487,12 @@ http://222.128.55.152:9080/live/hy.m3u8
 
 #EXTINF:-1 group-title="台湾",华视
 http://220.135.241.47:8317/0.ts
+http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视新闻
 http://220.135.241.47:8319/0.ts
 http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
+http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视教育文化
 http://220.135.241.47:8318/0.ts
@@ -542,6 +547,9 @@ http://220.135.241.47:8303/0.ts
 
 #EXTINF:-1 group-title="台湾",八大综合台
 http://iptv.4666888.xyz/iptv2A.php?id=64
+
+#EXTINF:-1 group-title="台湾",大爱1
+http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",大爱2
 http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
