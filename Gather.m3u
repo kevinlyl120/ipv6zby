@@ -39,10 +39,12 @@ http://58.17.134.3:8003/udp/225.0.4.106:7980
 http://58.17.134.3:8003/udp/225.0.4.108:7980
 
 #EXTINF:-1 group-title="4K频道",CCTV4K
+http://60.4.28.19:8077/rtp/239.253.93.134:6631%24%E6%B2%B3%E5%8C%97%E8%81%94%E9%80%9A12
 
 #EXTINF:-1 group-title="4K频道",CCTV16 4K
 
 #EXTINF:-1 group-title="4K频道",华数4K
+http://221.220.128.203:8012/rtp/239.3.1.236:2000%24%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A21
 
 #EXTINF:-1 group-title="4K频道",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -311,11 +313,11 @@ https://cdn.qd.je/163189.php?id=fct4k
 
 #EXTINF:-1 tvg-id="翡翠台" group-title="香港",翡翠台
 http://112.92.129.96:9898/hls/91/index.m3u8
-https://cdn.qd.je/163189.php?id=fct
+https://cdn3.indevs.in/stream/tvb/fct/
 
 #EXTINF:-1 group-title="香港",翡翠台华丽
 http://r.jdshipin.com/thuYX
-https://cdn6.cc.cd/163189/jade
+https://cdn3.indevs.in/stream/live/hlt/
 http://iptv.4666888.xyz/iptv2A.php?id=28
 
 #EXTINF:-1 group-title="香港",明珠台
@@ -326,7 +328,7 @@ https://cdn.qd.je/163189.php?id=mzt
 https://cdn.qd.je/163189.php?id=wxxw
 
 #EXTINF:-1 group-title="香港",TVBPLUS
-https://cdn.qd.je/163189.php?id=tvbp
+https://cdn3.indevs.in/stream/tvb/tvbp/
 
 #EXTINF:-1 group-title="香港",TVB1
 https://cdn6.cc.cd/163189/tvb1
@@ -348,7 +350,7 @@ https://cdn6.cc.cd/163189/ylxw
 http://iptv.4666888.xyz/iptv2A.php?id=11
 
 #EXTINF:-1 group-title="香港",TVB千禧经典台
-https://cdn.qd.je/163189.php?id=tvbc
+https://cdn3.indevs.in/stream/live/tvbc/
 
 #EXTINF:-1 group-title="香港",TVB DRAMA
 https://cdn.qd.je/163189.php?id=tvbd
@@ -387,13 +389,13 @@ http://124.244.129.167:7003/0.ts
 http://124.244.129.167:7007/0.ts
 
 #EXTINF:-1 group-title="香港",Astro AOD
-https://cdn.qd.je/163189.php?id=aod
+https://cdn3.indevs.in/stream/live/aod/
 
 #EXTINF:-1 group-title="香港",Astro欢喜台
-https://cdn.qd.je/163189.php?id=hxt
+https://cdn3.indevs.in/stream/live/hxt/
 
 #EXTINF:-1 group-title="香港",AMC电影台
-https://cdn.qd.je/163189.php?id=amc
+https://cdn12.178.indevs.in/163189/amc
 
 #EXTINF:-1 group-title="香港",八度空间
 https://cdn.qd.je/163189.php?id=8tv
@@ -411,13 +413,13 @@ https://cdn.qd.je/163189.php?id=chu
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 #EXTINF:-1 group-title="香港",爱奇艺
-https://cdn.qd.je/163189.php?id=iqiyi
+https://cdn3.indevs.in/stream/live/iqiyi/
 
 #EXTINF:-1 group-title="香港",天映经典
-https://cdn.qd.je/163189.php?id=ccm
+https://cdn3.indevs.in/stream/live/ccm/
 
 #EXTINF:-1 group-title="香港",天映频道
-https://cdn.qd.je/163189.php?id=typd
+https://cdn3.indevs.in/stream/live/typd/
 
 
 #EXTINF:-1 group-title="澳门",澳视澳门
