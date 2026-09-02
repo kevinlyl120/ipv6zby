@@ -311,19 +311,15 @@ https://cdn3.indevs.in/stream/live/hlt/
 
 #EXTINF:-1 group-title="香港",明珠台
 http://112.92.129.96:9898/hls/110/index.m3u8
-https://fast.hidns.vip/163189/mzt
 
 #EXTINF:-1 group-title="香港",无线新闻台
-https://fast.hidns.vip/163189/wxxw
 
 #EXTINF:-1 group-title="香港",TVBPLUS
 https://cdn3.indevs.in/stream/tvb/tvbp/
 
 #EXTINF:-1 group-title="香港",TVB1
-https://cdn6.cc.cd/163189/tvb1
 
 #EXTINF:-1 group-title="香港",TVBJ1
-https://fast.hidns.vip/163189/j1
 
 #EXTINF:-1 group-title="香港",TVB精彩台
 
@@ -331,13 +327,11 @@ https://fast.hidns.vip/163189/j1
 https://cdn3.indevs.in/stream/live/tvbxh/
 
 #EXTINF:-1 group-title="香港",TVB娱乐新闻台
-http://ysift55.xyz/live/52TLK6U/TNLMRY9/1052635.ts
 
 #EXTINF:-1 group-title="香港",TVB千禧经典台
 https://cdn3.indevs.in/stream/live/tvbc/
 
 #EXTINF:-1 group-title="香港",TVB DRAMA
-https://fast.hidns.vip/163189/tvbd
 
 #EXTINF:-1 group-title="香港",MyTV Super
 
@@ -348,7 +342,6 @@ https://fast.hidns.vip/163189/rthk31
 https://fast.hidns.vip/163189/rthk32
 
 #EXTINF:-1 group-title="香港",HOY76
-https://fast.hidns.vip/163189/hoy76
 
 #EXTINF:-1 group-title="香港",HOY77
 https://fast.hidns.vip/163189/hoy
@@ -379,16 +372,12 @@ https://cdn3.indevs.in/stream/live/hxt/
 https://cdn12.178.indevs.in/163189/amc
 
 #EXTINF:-1 group-title="香港",八度空间
-https://fast.hidns.vip/163189/8tv
 
 #EXTINF:-1 group-title="香港",CH5
-https://fast.hidns.vip/163189/ch5
 
 #EXTINF:-1 group-title="香港",CH8
-https://fast.hidns.vip/163189/ch8
 
 #EXTINF:-1 group-title="香港",CHU
-https://fast.hidns.vip/163189/chu
 
 #EXTINF:-1 group-title="香港",香港面包
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -404,43 +393,32 @@ https://cdn3.indevs.in/stream/live/typd/
 
 #EXTINF:-1 group-title="澳门",澳视澳门
 http://112.92.129.96:9898/hls/135/index.m3u8
-https://fast.hidns.vip/163189/asam
 
 #EXTINF:-1 group-title="澳门",澳门Macau
-https://fast.hidns.vip/163189/as
 
 #EXTINF:-1 group-title="澳门",澳门莲花
-https://fast.hidns.vip/163189/amlh
 
 #EXTINF:-1 group-title="澳门",澳门体育
-https://fast.hidns.vip/163189/amty
 
 #EXTINF:-1 group-title="澳门",澳门综艺
-https://fast.hidns.vip/163189/amzy
-
 
 
 #EXTINF:-1 group-title="台湾",TVBS
-http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",TVBS新闻
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾",TVBS欢乐
-http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",TVBS精彩台
-http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",TVBS综艺
 
 #EXTINF:-1 group-title="台湾",TVBS影剧
 
 #EXTINF:-1 group-title="台湾",东森新闻
-http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",东森财经新闻
-http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",中视
 
@@ -452,7 +430,6 @@ http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",中天新闻
 https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",三立新闻
 http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
@@ -460,25 +437,19 @@ http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
 #EXTINF:-1 group-title="台湾",三立综合
 http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
 
-#EXTINF:-1 group-title="台湾",寰宇新闻
-http://222.128.55.152:9080/live/hy.m3u8
-
 #EXTINF:-1 group-title="台湾",华视
 http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视新闻
-http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
 http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视教育文化
 
 #EXTINF:-1 group-title="台湾",民视
-http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",民视台湾
 
 #EXTINF:-1 group-title="台湾",民视新闻
-http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",民视第一
 
@@ -515,7 +486,6 @@ http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
 http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",ROCK CTION
-http://iptv.4666888.xyz/iptv2A.php?id=50
 
 #EXTINF:-1 group-title="台湾",靖洋戏剧
 https://cdn12.178.indevs.in/163189/jyxj
@@ -545,28 +515,27 @@ https://cdn12.178.indevs.in/163189/jddyt
 https://cdn12.178.indevs.in/163189/mce
 
 #EXTINF:-1 group-title="台湾",DW
-http://220.135.64.124:5050/4gtv-live071/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",CMusic
 https://cdn12.178.indevs.in/163189/cmusic
 
 #EXTINF:-1 group-title="台湾",龙华经典
-https://fast.hidns.vip/163189/lhjd
+https://8.fast.hidns.vip/163189/lhjd
 
 #EXTINF:-1 group-title="台湾",龙华偶像
-https://fast.hidns.vip/163189/lhox
+https://8.fast.hidns.vip/163189/lhox
 
 #EXTINF:-1 group-title="台湾",龙华日韩
-https://fast.hidns.vip/163189/lhrh
+https://8.fast.hidns.vip/163189/lhrh
 
 #EXTINF:-1 group-title="台湾",龙华戏剧
 https://fast.hidns.vip/163189/lhxj
 
 #EXTINF:-1 group-title="台湾",龙华电影
-https://fast.hidns.vip/163189/lhdy
+https://8.fast.hidns.vip/163189/lhdy
 
 #EXTINF:-1 group-title="台湾",龙华洋片
-https://fast.hidns.vip/163189/lhyp
+https://8.fast.hidns.vip/163189/lhyp
 
 
 #EXTINF:-1 group-title="咪视界",咪视界4K
