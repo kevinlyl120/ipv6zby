@@ -403,6 +403,9 @@ http://112.92.129.96:9898/hls/135/index.m3u8
 #EXTINF:-1 group-title="澳门",澳门综艺
 
 
+#EXTINF:-1 group-title="台湾",寰宇新闻
+http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
+
 #EXTINF:-1 group-title="台湾",TVBS
 
 #EXTINF:-1 group-title="台湾",TVBS新闻
@@ -417,12 +420,14 @@ https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="台湾",TVBS影剧
 
 #EXTINF:-1 group-title="台湾",东森新闻
+https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾",东森财经新闻
 
 #EXTINF:-1 group-title="台湾",中视
 
 #EXTINF:-1 group-title="台湾",中视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾",中视经典
 
@@ -433,6 +438,7 @@ https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾",三立新闻
 http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
+http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",三立综合
 http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
@@ -442,6 +448,7 @@ http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视新闻
 http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾",华视教育文化
 
@@ -450,6 +457,7 @@ http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 #EXTINF:-1 group-title="台湾",民视台湾
 
 #EXTINF:-1 group-title="台湾",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 
 #EXTINF:-1 group-title="台湾",民视第一
 
@@ -468,6 +476,7 @@ https://cdn12.178.indevs.in/163189/gsxj
 #EXTINF:-1 group-title="台湾",台视
 
 #EXTINF:-1 group-title="台湾",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 
 #EXTINF:-1 group-title="台湾",台视综合
 
@@ -696,14 +705,14 @@ http://iptv.4666888.xyz/iptv2A.php?id=10
 
 
 
-#EXTINF:-1 group-title="国际",亚洲新闻
+#EXTINF:-1 group-title="国际",CNA亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 group-title="国际",HOB
 https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W46fmsvCR9HcA6tSWU14HI/ts
 
 #EXTINF:-1 group-title="韩国",SBS 강심장
-copy to clip	https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?	
+https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?	
 
 #EXTINF:-1 group-title="韩国",SBS 스페셜  
 https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
