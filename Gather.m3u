@@ -199,7 +199,7 @@ http://112.92.129.96:9898/hls/57/index.m3u8
 http://t.061899.xyz/tl/tl.php?id=hinws
 
 #EXTINF:-1 group-title="卫视频道",海峡卫视
-https://cdn.qd.je/163189.php?id=hxws
+https://fast.hidns.vip/163189/hxws
 
 #EXTINF:-1 group-title="卫视频道",三沙卫视
 http://183.236.43.98:4013/udp/239.253.43.113:5146%24%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A111
@@ -297,7 +297,7 @@ http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 
 #EXTINF:-1 group-title="香港",凤凰香港
-https://cdn.qd.je/163189.php?id=fhhk
+https://fast.hidns.vip/163189/fhhk
 
 #EXTINF:-1 tvg-id="翡翠台" group-title="香港",翡翠台4K
 https://cdn3.indevs.in/stream/tvb/fct4k/
@@ -307,16 +307,14 @@ http://112.92.129.96:9898/hls/91/index.m3u8
 https://cdn3.indevs.in/stream/tvb/fct/
 
 #EXTINF:-1 group-title="香港",翡翠台华丽
-http://r.jdshipin.com/thuYX
 https://cdn3.indevs.in/stream/live/hlt/
-http://iptv.4666888.xyz/iptv2A.php?id=28
 
 #EXTINF:-1 group-title="香港",明珠台
 http://112.92.129.96:9898/hls/110/index.m3u8
-https://cdn.qd.je/163189.php?id=mzt
+https://fast.hidns.vip/163189/mzt
 
 #EXTINF:-1 group-title="香港",无线新闻台
-https://cdn.qd.je/163189.php?id=wxxw
+https://fast.hidns.vip/163189/wxxw
 
 #EXTINF:-1 group-title="香港",TVBPLUS
 https://cdn3.indevs.in/stream/tvb/tvbp/
@@ -325,63 +323,51 @@ https://cdn3.indevs.in/stream/tvb/tvbp/
 https://cdn6.cc.cd/163189/tvb1
 
 #EXTINF:-1 group-title="香港",TVBJ1
-https://cdn.qd.je/163189.php?id=j1
+https://fast.hidns.vip/163189/j1
 
 #EXTINF:-1 group-title="香港",TVB精彩台
 
 #EXTINF:-1 group-title="香港",TVB星河
-http://r.jdshipin.com/Voac4
 https://cdn3.indevs.in/stream/live/tvbxh/
 
 #EXTINF:-1 group-title="香港",TVB娱乐新闻台
-https://cdn.qd.je/163189.php?id=ylxw
-https://cdn6.cc.cd/163189/ylxw
-
-#EXTINF:-1 group-title="香港",TVB生活台
-http://iptv.4666888.xyz/iptv2A.php?id=11
+http://ysift55.xyz/live/52TLK6U/TNLMRY9/1052635.ts
 
 #EXTINF:-1 group-title="香港",TVB千禧经典台
 https://cdn3.indevs.in/stream/live/tvbc/
 
 #EXTINF:-1 group-title="香港",TVB DRAMA
-https://cdn.qd.je/163189.php?id=tvbd
+https://fast.hidns.vip/163189/tvbd
 
 #EXTINF:-1 group-title="香港",MyTV Super
-http://iptv.4666888.xyz/iptv2A.php?id=34
-
-http://iptv.4666888.xyz/iptv2A.php?id=22
 
 #EXTINF:-1 group-title="香港",RHK31
-https://cdn.qd.je/163189.php?id=rthk31
-http://45.192.97.170:8880/play/1151.m3u8
+https://fast.hidns.vip/163189/rthk31
 
 #EXTINF:-1 group-title="香港",RHK32
-https://cdn.qd.je/163189.php?id=rthk32
-http://45.192.97.170:8880/play/1152.m3u8
+https://fast.hidns.vip/163189/rthk32
 
 #EXTINF:-1 group-title="香港",HOY76
-https://cdn.qd.je/163189.php?id=hoy76
+https://fast.hidns.vip/163189/hoy76
 
 #EXTINF:-1 group-title="香港",HOY77
-https://cdn.qd.je/163189.php?id=hoy
-http://r.jdshipin.com/sFw4S
-http://45.192.97.170:8880/play/1145.m3u8
+https://fast.hidns.vip/163189/hoy
 
 #EXTINF:-1 group-title="香港",HOY78
-https://cdn.qd.je/163189.php?id=hoy78
-http://45.192.97.170:8880/play/1146.m3u8
+https://fast.hidns.vip/163189/hoy78
+
+#EXTINF:-1 group-title="香港",viu
+https://fast.hidns.vip/163189/viu
 
 #EXTINF:-1 group-title="香港",viu6
-https://cdn.qd.je/163189.php?id=viu6
+https://fast.hidns.vip/163189/viu6
 
 #EXTINF:-1 group-title="香港",now新闻
-https://cdn.qd.je/163189.php?id=now
+https://fast.hidns.vip/163189/now
 
 #EXTINF:-1 group-title="香港",now星影台
-http://124.244.129.167:7003/0.ts
 
 #EXTINF:-1 group-title="香港",now爆谷
-http://124.244.129.167:7007/0.ts
 
 #EXTINF:-1 group-title="香港",Astro AOD
 https://cdn3.indevs.in/stream/live/aod/
@@ -393,16 +379,16 @@ https://cdn3.indevs.in/stream/live/hxt/
 https://cdn12.178.indevs.in/163189/amc
 
 #EXTINF:-1 group-title="香港",八度空间
-https://cdn.qd.je/163189.php?id=8tv
+https://fast.hidns.vip/163189/8tv
 
 #EXTINF:-1 group-title="香港",CH5
-https://cdn.qd.je/163189.php?id=ch5
+https://fast.hidns.vip/163189/ch5
 
 #EXTINF:-1 group-title="香港",CH8
-https://cdn.qd.je/163189.php?id=ch8
+https://fast.hidns.vip/163189/ch8
 
 #EXTINF:-1 group-title="香港",CHU
-https://cdn.qd.je/163189.php?id=chu
+https://fast.hidns.vip/163189/chu
 
 #EXTINF:-1 group-title="香港",香港面包
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -416,22 +402,21 @@ https://cdn3.indevs.in/stream/live/ccm/
 #EXTINF:-1 group-title="香港",天映频道
 https://cdn3.indevs.in/stream/live/typd/
 
-
 #EXTINF:-1 group-title="澳门",澳视澳门
 http://112.92.129.96:9898/hls/135/index.m3u8
-https://cdn.qd.je/163189.php?id=asam
+https://fast.hidns.vip/163189/asam
 
 #EXTINF:-1 group-title="澳门",澳门Macau
-https://cdn.qd.je/163189.php?id=as
+https://fast.hidns.vip/163189/as
 
 #EXTINF:-1 group-title="澳门",澳门莲花
-https://cdn.qd.je/163189.php?id=amlh
+https://fast.hidns.vip/163189/amlh
 
 #EXTINF:-1 group-title="澳门",澳门体育
-https://cdn.qd.je/163189.php?id=amty
+https://fast.hidns.vip/163189/amty
 
 #EXTINF:-1 group-title="澳门",澳门综艺
-https://cdn.qd.je/163189.php?id=amzy
+https://fast.hidns.vip/163189/amzy
 
 
 
@@ -439,20 +424,17 @@ https://cdn.qd.je/163189.php?id=amzy
 http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",TVBS新闻
-http://iptv.4666888.xyz/iptv2A.php?id=43
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+
 #EXTINF:-1 group-title="台湾",TVBS欢乐
 http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",TVBS精彩台
-http://iptv.4666888.xyz/iptv2A.php?id=47
 http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",TVBS综艺
-http://iptv.4666888.xyz/iptv2A.php?id=46
 
 #EXTINF:-1 group-title="台湾",TVBS影剧
-http://iptv.4666888.xyz/iptv2A.php?id=53
 
 #EXTINF:-1 group-title="台湾",东森新闻
 http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
@@ -461,16 +443,12 @@ http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",中视
-http://220.135.241.47:8301/0.ts
 
 #EXTINF:-1 group-title="台湾",中视新闻
-http://220.135.241.47:8302/0.ts
 
 #EXTINF:-1 group-title="台湾",中视经典
-http://220.135.241.47:8321/0.ts
 
 #EXTINF:-1 group-title="台湾",中视菁采
-http://220.135.241.47:8322/0.ts
 
 #EXTINF:-1 group-title="台湾",中天新闻
 https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
@@ -486,67 +464,49 @@ http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
 http://222.128.55.152:9080/live/hy.m3u8
 
 #EXTINF:-1 group-title="台湾",华视
-http://220.135.241.47:8317/0.ts
 http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视新闻
-http://220.135.241.47:8319/0.ts
 http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
 http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视教育文化
-http://220.135.241.47:8318/0.ts
 
 #EXTINF:-1 group-title="台湾",民视
-http://211.72.174.95:8115/0.ts
-http://iptv.4666888.xyz/iptv2A.php?id=55
 http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",民视台湾
-http://220.135.241.47:8311/0.ts
 
 #EXTINF:-1 group-title="台湾",民视新闻
-http://211.72.174.95:8117/0.ts
 http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
 
 #EXTINF:-1 group-title="台湾",民视第一
-http://220.135.241.47:8309/0.ts
 
 #EXTINF:-1 group-title="台湾",民视财经
-http://220.135.241.47:8315/0.ts
 
 #EXTINF:-1 group-title="台湾",民视影剧台
 https://cdn12.178.indevs.in/163189/msyj
 
 #EXTINF:-1 group-title="台湾",公视
-http://211.72.174.95:8116/0.ts
 
 #EXTINF:-1 group-title="台湾",公视台语
-http://220.135.241.47:8306/0.ts
 
 #EXTINF:-1 group-title="台湾",公视戏剧
 https://cdn12.178.indevs.in/163189/gsxj
 
 #EXTINF:-1 group-title="台湾",台视
-http://220.135.241.47:8313/0.ts
 
 #EXTINF:-1 group-title="台湾",台视新闻
-http://220.135.241.47:8314/0.ts
 
 #EXTINF:-1 group-title="台湾",台视综合
-http://220.135.241.47:8316/0.ts
 
 #EXTINF:-1 group-title="台湾",台视财经
-http://220.135.241.47:8315/0.ts
 
 #EXTINF:-1 group-title="台湾",客家电视
-http://220.135.241.47:8307/0.ts
 
 #EXTINF:-1 group-title="台湾",原视TITV
-http://220.135.241.47:8303/0.ts
 
 #EXTINF:-1 group-title="台湾",八大综合台
-http://iptv.4666888.xyz/iptv2A.php?id=64
 
 #EXTINF:-1 group-title="台湾",大爱1
 http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
@@ -559,11 +519,9 @@ http://iptv.4666888.xyz/iptv2A.php?id=50
 
 #EXTINF:-1 group-title="台湾",靖洋戏剧
 https://cdn12.178.indevs.in/163189/jyxj
-http://iptv.4666888.xyz/iptv2A.php?id=42
 
 #EXTINF:-1 group-title="台湾",靖天电影
 https://cdn12.178.indevs.in/163189/jtdy
-http://iptv.4666888.xyz/iptv2A.php?id=56
 
 #EXTINF:-1 group-title="台湾",靖天戏剧
 https://cdn12.178.indevs.in/163189/jtxj
@@ -593,22 +551,22 @@ http://220.135.64.124:5050/4gtv-live071/index.m3u8?proxy=true
 https://cdn12.178.indevs.in/163189/cmusic
 
 #EXTINF:-1 group-title="台湾",龙华经典
-https://cdn.qd.je/163189.php?id=lhjd
+https://fast.hidns.vip/163189/lhjd
 
 #EXTINF:-1 group-title="台湾",龙华偶像
-https://cdn.qd.je/163189.php?id=lhox
+https://fast.hidns.vip/163189/lhox
 
 #EXTINF:-1 group-title="台湾",龙华日韩
-https://cdn.qd.je/163189.php?id=lhrh
+https://fast.hidns.vip/163189/lhrh
 
 #EXTINF:-1 group-title="台湾",龙华戏剧
-https://cdn.qd.je/163189.php?id=lhxj
+https://fast.hidns.vip/163189/lhxj
 
 #EXTINF:-1 group-title="台湾",龙华电影
-https://cdn.qd.je/163189.php?id=lhdy
+https://fast.hidns.vip/163189/lhdy
 
 #EXTINF:-1 group-title="台湾",龙华洋片
-https://cdn.qd.je/163189.php?id=lhyp
+https://fast.hidns.vip/163189/lhyp
 
 
 #EXTINF:-1 group-title="咪视界",咪视界4K
@@ -750,7 +708,7 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=K
 
 #EXTINF:-1 group-title="体育",五星体育
-https://cdn.qd.je/163189.php?id=wxty
+https://fast.hidns.vip/163189/wxty
 
 #EXTINF:-1 group-title="体育",TNT SPORTS1
 http://iptv.4666888.xyz/iptv2A.php?id=2
