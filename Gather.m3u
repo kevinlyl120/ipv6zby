@@ -297,7 +297,6 @@ http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 
 #EXTINF:-1 group-title="香港",凤凰香港
-https://fast.hidns.vip/163189/fhhk
 
 #EXTINF:-1 tvg-id="翡翠台" group-title="香港",翡翠台4K
 https://cdn3.indevs.in/stream/tvb/fct4k/
@@ -313,6 +312,7 @@ https://cdn3.indevs.in/stream/live/hlt/
 http://112.92.129.96:9898/hls/110/index.m3u8
 
 #EXTINF:-1 group-title="香港",无线新闻台
+http://74.91.26.218:82/live/inews.m3u8
 
 #EXTINF:-1 group-title="香港",TVBPLUS
 https://cdn3.indevs.in/stream/tvb/tvbp/
@@ -448,6 +448,7 @@ http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
 http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视
+http://74.91.26.218:82/live/cts.m3u8
 http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视新闻
@@ -457,13 +458,16 @@ https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="台湾",华视教育文化
 
 #EXTINF:-1 group-title="台湾",民视
+http://74.91.26.218:82/live/ftv.m3u8
 
 #EXTINF:-1 group-title="台湾",民视台湾
+http://74.91.26.218:82/live/ftvtw.m3u8
 
 #EXTINF:-1 group-title="台湾",民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 
 #EXTINF:-1 group-title="台湾",民视第一
+http://74.91.26.218:82/live/ftvdy.m3u8
 
 #EXTINF:-1 group-title="台湾",民视财经
 
@@ -473,20 +477,28 @@ https://cdn12.178.indevs.in/163189/msyj
 #EXTINF:-1 group-title="台湾",公视
 
 #EXTINF:-1 group-title="台湾",公视台语
+http://74.91.26.218:82/live/ptsty.m3u8
 
 #EXTINF:-1 group-title="台湾",公视戏剧
 https://cdn12.178.indevs.in/163189/gsxj
 
+#EXTINF:-1 group-title="台湾",小公视
+http://74.91.26.218:82/live/ptsse.m3u8
+
 #EXTINF:-1 group-title="台湾",台视
+http://74.91.26.218:82/live/ttv.m3u8
 
 #EXTINF:-1 group-title="台湾",台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 
 #EXTINF:-1 group-title="台湾",台视综合
+http://74.91.26.218:82/live/ttvzh.m3u8
 
 #EXTINF:-1 group-title="台湾",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
 
-#EXTINF:-1 group-title="台湾",客家电视
+#EXTINF:-1 group-title="台湾"，客家电视
 
 #EXTINF:-1 group-title="台湾",原视TITV
 
