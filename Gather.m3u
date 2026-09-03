@@ -425,13 +425,17 @@ https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 #EXTINF:-1 group-title="台湾",东森财经新闻
 
 #EXTINF:-1 group-title="台湾",中视
+http://74.91.26.218:82/live/ctv.m3u8
 
 #EXTINF:-1 group-title="台湾",中视新闻
 https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+http://74.91.26.218:82/live/ctvnews.m3u8
 
 #EXTINF:-1 group-title="台湾",中视经典
+http://74.91.26.218:82/live/ctvjd.m3u8
 
 #EXTINF:-1 group-title="台湾",中视菁采
+http://74.91.26.218:82/live/ctvjc.m3u8
 
 #EXTINF:-1 group-title="台湾",中天新闻
 https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
