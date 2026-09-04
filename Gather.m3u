@@ -467,10 +467,8 @@ https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾",三立新闻
 http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
-http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",三立综合
-http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视
 http://74.91.26.218:82/live/cts.m3u8
@@ -523,7 +521,7 @@ http://74.91.26.218:82/live/ttvzh.m3u8
 #EXTINF:-1 group-title="台湾",台视财经
 http://74.91.26.218:82/live/ttvcj.m3u8
 
-#EXTINF:-1 group-title="台湾"，客家电视
+#EXTINF:-1 group-title="台湾",客家电视
 http://220.135.241.47:8307/0.ts
 
 #EXTINF:-1 group-title="台湾",原视TITV
@@ -532,10 +530,8 @@ http://220.135.241.47:8303/0.ts
 #EXTINF:-1 group-title="台湾",八大综合台
 
 #EXTINF:-1 group-title="台湾",大爱1
-http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",大爱2
-http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",ROCK CTION
 
@@ -717,7 +713,6 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 
 #EXTINF:-1 group-title="咪视界",咪视界 44
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=K
-
 
 
 #EXTINF:-1 group-title="国际",CNA亚洲新闻
