@@ -15,6 +15,9 @@ http://58.17.134.3:8003/udp/225.0.4.103:7980
 #EXTINF:-1 group-title="4K频道",北京卫视4K
 http://58.17.134.3:8003/udp/225.0.4.122:7980
 
+#EXTINF:-1 group-title="4K频道",翡翠台4K
+https://cdn3.indevs.in/stream/tvb/fct4k/
+
 #EXTINF:-1 group-title="4K频道",北京IPTV4K
 http://home.airengine.net:9003/rtp/228.1.1.123:8001
 
@@ -30,11 +33,18 @@ http://58.17.134.3:8003/udp/225.0.4.106:7980
 #EXTINF:-1 group-title="4K频道",四川卫视4K
 http://58.17.134.3:8003/udp/225.0.4.108:7980
 
+#EXTINF:-1 group-title="4K频道",河南卫视4K
+http://xz.78057805.xyz:4002/rtp/225.1.4.254:1300
+
 #EXTINF:-1 group-title="4K频道",广东4K超高清
+http://lsa.familyds.com:8188/udp/239.77.0.244:5146
 http://112.92.129.96:9898/hls/138/index.m3u8
 
+#EXTINF:-1 group-title="4K频道",南国都市4K
+http://lsa.familyds.com:8188/udp/239.253.43.99:5146
+
 #EXTINF:-1 group-title="4K频道",CCTV4K
-http://60.4.28.19:8077/rtp/239.253.93.134:6631%24%E6%B2%B3%E5%8C%97%E8%81%94%E9%80%9A12
+http://lsa.familyds.com:8188/udp/239.77.1.180:5146
 
 #EXTINF:-1 group-title="4K频道",CCTV16 4K
 
@@ -258,6 +268,12 @@ http://112.92.129.96:9898/hls/107/index.m3u8
 
 
 
+#EXTINF:-1 group-title="广东频道",广州新闻
+http://lsa.familyds.com:8188/udp/239.253.43.72:5146
+
+#EXTINF:-1 group-title="广东频道",广州综合
+http://lsa.familyds.com:8188/udp/239.253.43.71:5146
+
 #EXTINF:-1 group-title="广东频道",广东卫视
 http://58.17.134.3:8003/udp/225.0.4.84:7980
 
@@ -291,22 +307,16 @@ http://112.92.129.96:9898/hls/14/index.m3u8
 #EXTINF:-1 group-title="广东频道",广东少儿
 http://112.92.129.96:9898/hls/131/index.m3u8
 
-#EXTINF:-1 group-title="广东频道",南国都市
+#EXTINF:-1 group-title="广东频道",南国都市4K
+http://lsa.familyds.com:8188/udp/239.253.43.99:5146
 http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
 
-#EXTINF:-1 group-title="广东频道",广州新闻
-https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
-
-#EXTINF:-1 group-title="广东频道",广州综合
-https://tencentplaygzrb01.gztv.com/live/zonghes.m3u8?
-
-#EXTINF:-1 group-title="广东频道",广州法治
+#EXTINF:-1 group-title="广东频道",汕尾综合
+http://lsa.familyds.com:8188/udp/239.77.0.25:5146
 
 #EXTINF:-1 group-title="广东频道",番禺
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
-#EXTINF:-1 group-title="广东频道",都市剧场
-http://58.17.134.3:8003/udp/225.0.4.235:7980
 
 
 #EXTINF:-1 group-title="香港",凤凰中文
@@ -320,9 +330,6 @@ http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 #EXTINF:-1 group-title="香港",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
-
-#EXTINF:-1 tvg-id="翡翠台" group-title="香港",翡翠台4K
-https://cdn3.indevs.in/stream/tvb/fct4k/
 
 #EXTINF:-1 tvg-id="翡翠台" group-title="香港",翡翠台
 http://112.92.129.96:9898/hls/91/index.m3u8
