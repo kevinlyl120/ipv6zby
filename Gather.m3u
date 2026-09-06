@@ -43,8 +43,9 @@ http://lsa.familyds.com:8188/udp/239.253.43.99:5146
 http://112.92.129.96:9898/hls/138/index.m3u8
 
 #EXTINF:-1 group-title="4K频道",CCTV16 4K
+http://lsa.familyds.com:8188/udp/239.77.0.165:5146
 
-#EXTINF:-1 group-title="4K频道",华数4K
+#EXTINF:-1 group-title="4K频道",爱上4K
 http://58.17.134.3:8003/udp/225.0.4.226:7980
 
 
@@ -318,6 +319,69 @@ http://lsa.familyds.com:8188/udp/239.253.43.99:5146
 #EXTINF:-1 group-title="广东频道",汕尾综合
 http://lsa.familyds.com:8188/udp/239.77.0.25:5146
 
+#EXTINF:-1 group-title="广东频道",深圳都市频道
+http://lsa.familyds.com:8188/udp/239.77.1.176:5146
+
+#EXTINF:-1 group-title="广东频道",深圳电视剧频道
+http://lsa.familyds.com:8188/udp/239.77.1.177:5146
+
+#EXTINF:-1 group-title="广东频道",深圳龙岗频道
+http://lsa.familyds.com:8188/udp/239.77.1.223:5146
+
+#EXTINF:-1 group-title="广东频道",深圳宝安频道
+http://lsa.familyds.com:8188/udp/239.77.1.67:5146
+
+#EXTINF:-1 group-title="广东频道",韶关新闻综合
+http://lsa.familyds.com:8188/udp/239.77.0.117:5146
+
+#EXTINF:-1 group-title="广东频道",湛江新闻综合
+http://lsa.familyds.com:8188/udp/239.77.0.141:5146
+
+#EXTINF:-1 group-title="广东频道",揭阳综合
+http://lsa.familyds.com:8188/udp/239.77.0.229:5146
+
+#EXTINF:-1 group-title="广东频道",江门综合
+http://lsa.familyds.com:8188/udp/239.77.0.201:5146
+
+#EXTINF:-1 group-title="广东频道",肇庆综合
+http://lsa.familyds.com:8188/udp/239.253.43.1:5146
+
+#EXTINF:-1 group-title="广东频道",河源综合
+http://lsa.familyds.com:8188/udp/239.253.43.213:5146
+
+#EXTINF:-1 group-title="广东频道",清远综合
+http://lsa.familyds.com:8188/udp/239.253.43.33:5146
+
+#EXTINF:-1 group-title="广东频道",云浮综合
+http://lsa.familyds.com:8188/udp/239.77.0.253:5146
+
+#EXTINF:-1 group-title="广东频道",茂名综合
+http://lsa.familyds.com:8188/udp/239.77.0.206:5146
+
+#EXTINF:-1 group-title="广东频道",汕头综合
+http://lsa.familyds.com:8188/udp/239.253.43.45:5146
+
+#EXTINF:-1 group-title="广东频道",汕头经济生活
+http://lsa.familyds.com:8188/udp/239.253.43.46:5146
+
+#EXTINF:-1 group-title="广东频道",佛山城市生活
+http://lsa.familyds.com:8188/udp/239.253.43.53:5146
+
+#EXTINF:-1 group-title="广东频道",南海
+http://lsa.familyds.com:8188/udp/239.253.43.54:5146
+
+#EXTINF:-1 group-title="广东频道",顺德
+http://lsa.familyds.com:8188/udp/239.253.43.55:5146
+
+#EXTINF:-1 group-title="广东频道",佛山综合
+http://lsa.familyds.com:8188/udp/239.253.43.57:5146
+
+#EXTINF:-1 group-title="广东频道",东莞新闻
+http://lsa.familyds.com:8188/udp/239.253.43.104:5146
+
+#EXTINF:-1 group-title="广东频道",中山综合
+http://lsa.familyds.com:8188/udp/239.253.43.62:5146
+
 #EXTINF:-1 group-title="广东频道",番禺
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
@@ -486,7 +550,7 @@ http://74.91.26.218:82/live/cts.m3u8
 http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视新闻
-http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+http://74.91.26.218:82/live/ctsnews.m3u8
 https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾",华视教育文化
@@ -499,7 +563,6 @@ http://74.91.26.218:82/live/ftv.m3u8
 http://74.91.26.218:82/live/ftvtw.m3u8
 
 #EXTINF:-1 group-title="台湾",民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 
 #EXTINF:-1 group-title="台湾",民视第一
 http://74.91.26.218:82/live/ftvdy.m3u8
@@ -524,7 +587,6 @@ http://74.91.26.218:82/live/ttv.m3u8
 
 #EXTINF:-1 group-title="台湾",台视新闻
 http://74.91.26.218:82/live/ttvnews.m3u8
-http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 
 #EXTINF:-1 group-title="台湾",台视综合
 http://74.91.26.218:82/live/ttvzh.m3u8
@@ -540,12 +602,6 @@ http://220.135.241.47:8303/0.ts
 
 #EXTINF:-1 group-title="台湾",八大综合台
 
-#EXTINF:-1 group-title="台湾",大爱1
-
-#EXTINF:-1 group-title="台湾",大爱2
-
-#EXTINF:-1 group-title="台湾",ROCK CTION
-
 #EXTINF:-1 group-title="台湾",靖洋戏剧
 
 #EXTINF:-1 group-title="台湾",靖天电影
@@ -556,17 +612,9 @@ http://220.135.241.47:8303/0.ts
 
 #EXTINF:-1 group-title="台湾",采昌影剧
 
-#EXTINF:-1 group-title="台湾",cinemaworld
-
 #EXTINF:-1 group-title="台湾",影迷数位电影
 
 #EXTINF:-1 group-title="台湾",经典电影
-
-#EXTINF:-1 group-title="台湾",My Cinema Europe
-
-#EXTINF:-1 group-title="台湾",DW
-
-#EXTINF:-1 group-title="台湾",CMusic
 
 #EXTINF:-1 group-title="台湾",龙华经典
 https://8.fast.hidns.vip/163189/lhjd
