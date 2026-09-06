@@ -319,16 +319,16 @@ http://lsa.familyds.com:8188/udp/239.253.43.99:5146
 #EXTINF:-1 group-title="广东频道",汕尾综合
 http://lsa.familyds.com:8188/udp/239.77.0.25:5146
 
-#EXTINF:-1 group-title="广东频道",深圳都市频道
+#EXTINF:-1 group-title="广东频道",深圳都市
 http://lsa.familyds.com:8188/udp/239.77.1.176:5146
 
-#EXTINF:-1 group-title="广东频道",深圳电视剧频道
+#EXTINF:-1 group-title="广东频道",深圳电视剧
 http://lsa.familyds.com:8188/udp/239.77.1.177:5146
 
-#EXTINF:-1 group-title="广东频道",深圳龙岗频道
+#EXTINF:-1 group-title="广东频道",深圳龙岗
 http://lsa.familyds.com:8188/udp/239.77.1.223:5146
 
-#EXTINF:-1 group-title="广东频道",深圳宝安频道
+#EXTINF:-1 group-title="广东频道",深圳宝安
 http://lsa.familyds.com:8188/udp/239.77.1.67:5146
 
 #EXTINF:-1 group-title="广东频道",韶关新闻综合
@@ -367,14 +367,14 @@ http://lsa.familyds.com:8188/udp/239.253.43.46:5146
 #EXTINF:-1 group-title="广东频道",佛山城市生活
 http://lsa.familyds.com:8188/udp/239.253.43.53:5146
 
+#EXTINF:-1 group-title="广东频道",佛山综合
+http://lsa.familyds.com:8188/udp/239.253.43.57:5146
+
 #EXTINF:-1 group-title="广东频道",南海
 http://lsa.familyds.com:8188/udp/239.253.43.54:5146
 
 #EXTINF:-1 group-title="广东频道",顺德
 http://lsa.familyds.com:8188/udp/239.253.43.55:5146
-
-#EXTINF:-1 group-title="广东频道",佛山综合
-http://lsa.familyds.com:8188/udp/239.253.43.57:5146
 
 #EXTINF:-1 group-title="广东频道",东莞新闻
 http://lsa.familyds.com:8188/udp/239.253.43.104:5146
