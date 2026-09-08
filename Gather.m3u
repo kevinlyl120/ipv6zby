@@ -225,6 +225,7 @@ http://58.17.134.3:8003/udp/225.0.4.203:7980
 http://58.17.134.3:8003/udp/225.0.4.244:7980
 
 #EXTINF:-1 group-title="卫视频道",山西卫视
+http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://58.17.134.3:8003/udp/225.0.4.181:7980
@@ -544,6 +545,7 @@ https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",三立综合
+http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视
 http://74.91.26.218:82/live/cts.m3u8
@@ -636,143 +638,147 @@ https://8.fast.hidns.vip/163189/lhyp
 
 
 
+
 #EXTINF:-1 group-title="咪视界",咪视界4K
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000005180&channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",至臻视界4K
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000015686&channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000001000005308&channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000001000005969&channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000001000007218 &channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000001000008001 &channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000001000008176 &channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000001000008379 &channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000001000010129 &channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000001000010948 &channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000001000028638 &channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000001000031494 &channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 11
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000000097 &channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000002019 &channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 13
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000002809 &channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000003915 &channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 15
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000004193 &channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 16
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000005837 &channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 17
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000006077 &channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 18
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000006658 &channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 19
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000009788 &channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 20
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000010833 &channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 21
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000011297 &channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 22
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000011518 &channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 23
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000012558 &channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 24
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000012616 &channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 25
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000015470 &channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 26
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000015560 &channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 27
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000019839 &channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 28
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000021904 &channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 29
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000023434 &channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 30
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000025380 &channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 31
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000027691 &channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 32
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000031669 &channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 33
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011518 &channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 34
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 35
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011519 &channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 36
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011521 &channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",咪视界 37
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011522 &channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",睛彩广场舞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011523 &channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",睛彩广场舞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011524 &channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",睛彩青少
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011525 &channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",睛彩竞技
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011528 &channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",睛彩竞技
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011530 &channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011529 &channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="咪视界",睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=Y
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011531 &channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=Y
+
+#EXTINF:-1 group-title="咪视界",纬来体育
+https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
 
 
 #EXTINF:-1 group-title="国际",CNA亚洲新闻
