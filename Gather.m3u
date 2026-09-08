@@ -777,8 +777,38 @@ http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011529 &channel-id=Fif
 #EXTINF:-1 group-title="咪视界",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011531 &channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=Y
 
-#EXTINF:-1 group-title="咪视界",纬来体育
+#EXTINF:-1 group-title="体育",纬来体育
 https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
+
+#EXTINF:-1 group-title="体育",Go3 Sport 1
+http://stream.mcquack.net/416/index.m3u8
+
+#EXTINF:-1 group-title="体育",Match! Ultra
+http://stream.mcquack.net/169/index.m3u8
+
+#EXTINF:-1 group-title="体育",Okko Futbol 
+http://stream.mcquack.net/491/index.m3u8
+
+#EXTINF:-1 group-title="体育",Okko Prajm Sport 
+http://stream.mcquack.net/493/index.m3u8
+
+#EXTINF:-1 group-title="体育",Okko Sport 
+http://stream.mcquack.net/492/index.m3u8
+
+#EXTINF:-1 group-title="体育",QazSport
+http://stream.mcquack.net/72/index.m3u8
+
+#EXTINF:-1 group-title="体育",Setanta Sports 1 Eurasia
+http://stream.mcquack.net/234/index.m3u8
+
+#EXTINF:-1 group-title="体育",Setanta Sports 2 Eurasia
+http://stream.mcquack.net/235/index.m3u8
+
+#EXTINF:-1 group-title="体育",Setanta Sports+ Ukraine
+http://stream.mcquack.net/390/index.m3u8
+
+#EXTINF:-1 group-title="体育",
+
 
 
 #EXTINF:-1 group-title="国际",CNA亚洲新闻
@@ -786,6 +816,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #EXTINF:-1 group-title="国际",HOB
 https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W46fmsvCR9HcA6tSWU14HI/ts
+
+#EXTINF:-1 group-title="韩国",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
 #EXTINF:-1 group-title="韩国",SBS 강심장
 https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?	
