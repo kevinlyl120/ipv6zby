@@ -798,6 +798,9 @@ http://stream.mcquack.net/492/index.m3u8
 #EXTINF:-1 group-title="体育",QazSport
 http://stream.mcquack.net/72/index.m3u8
 
+#EXTINF:-1 group-title="体育",Setanta Sports
+http://stream.mcquack.net/313/index.m3u8
+
 #EXTINF:-1 group-title="体育",Setanta Sports 1 Eurasia
 http://stream.mcquack.net/234/index.m3u8
 
@@ -807,7 +810,8 @@ http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 group-title="体育",Setanta Sports+ Ukraine
 http://stream.mcquack.net/390/index.m3u8
 
-#EXTINF:-1 group-title="体育",
+#EXTINF:-1 group-title="体育",Sports First
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
 
 
