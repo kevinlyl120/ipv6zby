@@ -780,6 +780,11 @@ http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011531 &channel-id=Fif
 #EXTINF:-1 group-title="体育",纬来体育
 https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
 
+
+
+#EXTINF:-1 group-title="体育",5Sport 
+http://stream.mcquack.net/41/index.m3u8
+
 #EXTINF:-1 group-title="体育",Go3 Sport 1
 http://stream.mcquack.net/416/index.m3u8
 
@@ -810,7 +815,7 @@ http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 group-title="体育",Setanta Sports+ Ukraine
 http://stream.mcquack.net/390/index.m3u8
 
-#EXTINF:-1 group-title="体育",Sports First
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/01/28/20250128211322330109_50" group-title="体育",Sports First
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
 
