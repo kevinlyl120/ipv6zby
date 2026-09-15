@@ -51,23 +51,23 @@ http://58.17.134.3:8003/udp/225.0.4.226:7980
 
 
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://58.17.134.3:8003/udp/225.0.4.74:7980
+http://4px369674fn3.vicp.fun:7088/udp/225.1.8.1:8008
 http://lsa.familyds.com:8188/udp/239.77.1.17:5146
 
 #EXTINF:-1 group-title="央视频道",CCTV2
-http://58.17.134.3:8003/udp/225.0.4.132:7980
+http://4px369674fn3.vicp.fun:7088/udp/225.1.8.2:8084
 http://lsa.familyds.com:8188/udp/239.77.1.158:5146
 
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://58.17.134.3:8003/udp/225.0.4.142:7980
+http://4px369674fn3.vicp.fun:7088/udp/225.1.8.88:8000
 http://lsa.familyds.com:8188/udp/239.77.0.169:5146
 
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://58.17.134.3:8003/udp/225.0.4.176:7980
+http://4px369674fn3.vicp.fun:7088/udp/225.1.8.4:8092
 http://lsa.familyds.com:8188/udp/239.77.0.78:5146
 
 #EXTINF:-1 group-title="央视频道",CCTV5
-http://58.17.134.3:8003/udp/225.0.4.143:7980
+http://4px369674fn3.vicp.fun:7088/udp/225.1.8.89:8000
 http://lsa.familyds.com:8188/udp/239.77.0.170:5146
 
 #EXTINF:-1 group-title="央视频道",CCTV5+
@@ -75,7 +75,7 @@ http://58.17.134.3:8003/udp/225.0.4.73:7980
 http://lsa.familyds.com:8188/udp/239.77.0.87:5146
 
 #EXTINF:-1 group-title="央视频道",CCTV6
-http://58.17.134.3:8003/udp/225.0.4.144:7980
+http://4px369674fn3.vicp.fun:7088/udp/225.1.8.84:8000
 http://lsa.familyds.com:8188/udp/239.77.0.171:5146
 
 #EXTINF:-1 group-title="央视频道",CCTV7
@@ -510,6 +510,7 @@ https://fast.hidns.vip/163189/hoy78
 #EXTINF:-1 group-title="香港",viu
 
 #EXTINF:-1 group-title="香港",viu6
+https://10.fast.hidns.vip/163189/viu6/
 
 #EXTINF:-1 group-title="香港",now新闻
 https://fast.hidns.vip/163189/now
@@ -631,6 +632,7 @@ http://74.91.26.218:82/live/ftvdy.m3u8
 #EXTINF:-1 group-title="台湾",民视影剧台
 
 #EXTINF:-1 group-title="台湾",公视
+http://74.91.26.218:82/live/pts.m3u8
 http://211.72.174.95:8116/0.ts
 
 #EXTINF:-1 group-title="台湾",公视台语
@@ -856,24 +858,15 @@ http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011522 &channel-id=Fif
 #EXTINF:-1 group-title="体育",睛彩广场舞
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011523 &channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=Y
 
-#EXTINF:-1 group-title="体育",睛彩广场舞
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011524 &channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=Y
-
 #EXTINF:-1 group-title="体育",睛彩青少
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011525 &channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=Y
 http://lsa.familyds.com:8188/udp/239.77.1.22:5146
-
-#EXTINF:-1 group-title="体育",睛彩竞技
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011528 &channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="体育",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011530 &channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=Y
 
 #EXTINF:-1 group-title="体育",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011529 &channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=Y
-
-#EXTINF:-1 group-title="体育",睛彩篮球
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011531 &channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=Y
 
 
 #EXTINF:-1 group-title="国际",CNA亚洲新闻
