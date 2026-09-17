@@ -563,7 +563,10 @@ http://112.92.129.96:9898/hls/135/index.m3u8
 
 
 #EXTINF:-1 group-title="台湾",寰宇新闻
-http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
+http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
+
+#EXTINF:-1 group-title="台湾",寰宇财经
+http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",TVBS
 
@@ -587,8 +590,7 @@ https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 http://74.91.26.218:82/live/ctv.m3u8
 
 #EXTINF:-1 group-title="台湾",中视新闻
-https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
-http://74.91.26.218:82/live/ctvnews.m3u8
+http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",中视经典
 http://74.91.26.218:82/live/ctvjd.m3u8
@@ -597,10 +599,10 @@ http://74.91.26.218:82/live/ctvjd.m3u8
 http://74.91.26.218:82/live/ctvjc.m3u8
 
 #EXTINF:-1 group-title="台湾",中天新闻
-https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",三立新闻
-http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
+http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",三立综合
 http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
@@ -610,8 +612,7 @@ http://74.91.26.218:82/live/cts.m3u8
 http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视新闻
-http://74.91.26.218:82/live/ctsnews.m3u8
-https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视教育文化
 http://74.91.26.218:82/live/ctsjy.m3u8
