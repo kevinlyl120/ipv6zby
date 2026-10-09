@@ -43,7 +43,6 @@ http://lsa.familyds.com:8188/udp/239.253.43.99:5146
 http://lsa.familyds.com:8188/udp/239.77.0.194:5146
 
 #EXTINF:-1 group-title="4K频道",CCTV16 4K
-http://lsa.familyds.com:8188/udp/239.77.0.165:5146
 http://183.220.107.138:4022/udp/239.11.0.67:5140
 
 #EXTINF:-1 group-title="4K频道",爱上4K
@@ -221,64 +220,64 @@ http://woc.iiiya.cn:18888/rtp/239.61.2.60:8354
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0eZa0qh.png" group-title="体育",Go3 Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eZa0qh.png" group-title="国际·体育",Go3 Sport 1
 http://stream.mcquack.net/416/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="体育",Match! Ultra
+#EXTINF:-1 tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="国际·体育",Match! Ultra
 http://stream.mcquack.net/169/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="体育",Okko Futbol
+#EXTINF:-1 tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="国际·体育",Okko Futbol
 http://stream.mcquack.net/491/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="体育",Okko Prajm Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="国际·体育",Okko Prajm Sport
 http://stream.mcquack.net/493/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="体育",Okko Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="体国际·体育",Okko Sport
 http://stream.mcquack.net/492/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="体育",Oman Sports TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="国际·体育",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="体育",QazSport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="国际·体育",QazSport
 http://stream.mcquack.net/72/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vk0j1mY.png" group-title="体育",Sport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vk0j1mY.png" group-title="国际·体育",Sport 2
 http://stream.mcquack.net/392/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zlJK7ca.png" group-title="体育",Setanta Sports 1 Eurasia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zlJK7ca.png" group-title="国际·体育",Setanta Sports 1 Eurasia
 http://stream.mcquack.net/234/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="体育",Setanta Sports 2 Eurasia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="国际·体育",Setanta Sports 2 Eurasia
 http://stream.mcquack.net/235/index.m3u8
 
-#EXTINF:-1 group-title="体育",Setanta Sports HD
+#EXTINF:-1 group-title="国际·体育",Setanta Sports HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/01/28/20250128211322330109_50" group-title="体育",Sports First
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/01/28/20250128211322330109_50" group-title="国际·体育",Sports First
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
-#EXTINF:-1 group-title="体育",Match TV
+#EXTINF:-1 group-title="国际·体育",Match TV
 http://stream.mcquack.net/169/index.m3u8
 
-#EXTINF:-1 group-title="体育",Футбол 3
+#EXTINF:-1 group-title="国际·体育",Футбол 3
 http://stream.mcquack.net/185/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pbk8c4x.png" group-title="体育",Spiler 1 | SHAHRIYAR LIVE TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbk8c4x.png" group-title="国际·体育",Spiler 1 | SHAHRIYAR LIVE TV
 http://88.212.15.19/live/spiler1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1e0VsVH.png" group-title="体育",Spiler 2 | SHAHRIYAR LIVE TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1e0VsVH.png" group-title="国际·体育",Spiler 2 | SHAHRIYAR LIVE TV
 http://88.212.15.19/live/spiler2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aBY7QK4.png" group-title="体育",Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aBY7QK4.png" group-title="国际·体育",Sport 1
 http://stream.mcquack.net/461/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vk0j1mY.png" group-title="体育",Sport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vk0j1mY.png" group-title="国际·体育",Sport 2
 http://stream.mcquack.net/392/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qkvavfH.png" group-title="体育",Sport 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkvavfH.png" group-title="国际·体育",Sport 3
 http://stream.mcquack.net/393/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sport5UA.jpg" group-title="体育",Sport 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sport5UA.jpg" group-title="国际·体育",Sport 5
 http://stream.mcquack.net/212/index.m3u8
 
 #EXTINF:-1 group-title="体育",五星体育
@@ -580,10 +579,8 @@ https://cdn6.123.rr.kg/163189/amty
 https://cdn6.123.rr.kg/163189/amzy
 
 #EXTINF:-1 group-title="台湾",寰宇新闻
-http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",寰宇财经
-http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",TVBS
 
@@ -607,7 +604,6 @@ https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 http://74.91.26.218:82/live/ctv.m3u8
 
 #EXTINF:-1 group-title="台湾",中视新闻
-http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",中视经典
 http://74.91.26.218:82/live/ctvjd.m3u8
@@ -616,20 +612,15 @@ http://74.91.26.218:82/live/ctvjd.m3u8
 http://74.91.26.218:82/live/ctvjc.m3u8
 
 #EXTINF:-1 group-title="台湾",中天新闻
-http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",三立新闻
-http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",三立综合
-http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视
 http://74.91.26.218:82/live/cts.m3u8
-http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视新闻
-http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾",华视教育文化
 http://74.91.26.218:82/live/ctsjy.m3u8
