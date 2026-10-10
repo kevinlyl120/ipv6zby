@@ -48,6 +48,15 @@ http://183.220.107.138:4022/udp/239.11.0.67:5140
 #EXTINF:-1 group-title="4K频道",爱上4K
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.80:2000
 
+#EXTINF:-1 group-title="4K频道",BesTV4K电影
+http://180.173.123.51:7088/rtp/233.18.204.169:5140
+
+#EXTINF:-1 group-title="4K频道",BesTV4K记录
+http://180.173.123.51:7088/rtp/233.18.204.170:5140
+
+#EXTINF:-1 group-title="4K频道",欢笑剧场4K
+http://180.173.123.51:7088/rtp/233.18.204.115:5140
+
 
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://lsa.familyds.com:8188/udp/239.77.1.17:5146
@@ -147,7 +156,7 @@ http://58.17.134.3:8003/udp/225.0.4.199:7980
 http://58.17.134.3:8003/udp/225.0.4.204:7980
 
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://183.220.107.138:4022/udp/239.11.0.116:5140
+http://58.17.134.3:8003/udp/225.0.4.187:7980
 
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://58.17.134.3:8003/udp/225.0.4.175:7980
@@ -232,7 +241,7 @@ http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="国际·体育",Okko Prajm Sport
 http://stream.mcquack.net/493/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="体国际·体育",Okko Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="国际·体育",Okko Sport
 http://stream.mcquack.net/492/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="国际·体育",Oman Sports TV
