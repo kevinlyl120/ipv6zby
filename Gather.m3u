@@ -34,83 +34,88 @@ http://58.17.134.3:8003/udp/225.0.4.106:7980
 http://58.17.134.3:8003/udp/225.0.4.108:7980
 
 #EXTINF:-1 group-title="4K频道",广东4K超高清
-http://lsa.familyds.com:8188/udp/239.77.0.244:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.244:5146
 
 #EXTINF:-1 group-title="4K频道",南国都市4K
-http://lsa.familyds.com:8188/udp/239.253.43.99:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.253.43.99:5146
 
 #EXTINF:-1 group-title="4K频道",CCTV4K
-http://lsa.familyds.com:8188/udp/239.77.0.194:5146
+http://www.zyhfm.com:8088/rtp/239.69.1.12:9712
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.194:5146
 
 #EXTINF:-1 group-title="4K频道",CCTV16 4K
 http://183.220.107.138:4022/udp/239.11.0.67:5140
 
 #EXTINF:-1 group-title="4K频道",爱上4K
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.80:2000
+http://58.17.134.3:8003/udp/225.0.4.226:7980
+
+#EXTINF:-1 group-title="4K频道",多彩文体4K
+http://www.zyhfm.com:8088/rtp/239.69.2.5:11184
 
 #EXTINF:-1 group-title="4K频道",BesTV4K电影
-http://180.173.123.51:7088/rtp/233.18.204.169:5140
-
-#EXTINF:-1 group-title="4K频道",BesTV4K记录
-http://180.173.123.51:7088/rtp/233.18.204.170:5140
-
-#EXTINF:-1 group-title="4K频道",欢笑剧场4K
-http://180.173.123.51:7088/rtp/233.18.204.115:5140
+http://pplee.vicp.net:4022/rtp/233.18.204.169:5140
 
 
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://lsa.familyds.com:8188/udp/239.77.1.17:5146
+http://pplee.vicp.net:4022/rtp/233.18.204.52:5140
+http://lbyjlt.vv5678.cn:8880/udp/239.77.1.17:5146
 
 #EXTINF:-1 group-title="央视频道",CCTV2
-http://lsa.familyds.com:8188/udp/239.77.1.158:5146
+http://58.17.134.3:8003/udp/225.0.4.132:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://lsa.familyds.com:8188/udp/239.77.0.169:5146
+http://58.17.134.3:8003/udp/225.0.4.142:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://lsa.familyds.com:8188/udp/239.77.1.163:5146
+http://58.17.134.3:8003/udp/225.0.4.176:7980
+
+#EXTINF:-1 group-title="央视频道",CCTV4 欧洲
+http://www.zyhfm.com:8088/rtp/239.69.1.231:11028
+
+#EXTINF:-1 group-title="央视频道",CCTV4 美洲
+http://www.zyhfm.com:8088/rtp/239.69.1.232:11034
 
 #EXTINF:-1 group-title="央视频道",CCTV5
-http://lsa.familyds.com:8188/udp/239.77.0.170:5146
+http://58.17.134.3:8003/udp/225.0.4.143:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV5+
-http://lsa.familyds.com:8188/udp/239.77.0.87:5146
+http://58.17.134.3:8003/udp/225.0.4.73:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV6
-http://lsa.familyds.com:8188/udp/239.77.0.171:5146
+http://58.17.134.3:8003/udp/225.0.4.144:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV7
-http://lsa.familyds.com:8188/udp/239.77.1.159:5146
+http://58.17.134.3:8003/udp/225.0.4.127:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV8
-http://lsa.familyds.com:8188/udp/239.77.0.172:5146
+http://58.17.134.3:8003/udp/225.0.4.137:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV9
-http://lsa.familyds.com:8188/udp/239.77.1.160:5146
+http://58.17.134.3:8003/udp/225.0.4.131:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV10
-http://lsa.familyds.com:8188/udp/239.77.1.113:5146
+http://58.17.134.3:8003/udp/225.0.4.130:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV11
-http://lsa.familyds.com:8188/udp/239.77.1.238:5146
+http://58.17.134.3:8003/udp/225.0.4.218:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV12
-http://lsa.familyds.com:8188/udp/239.77.1.109:5146
+http://58.17.134.3:8003/udp/225.0.4.129:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://lsa.familyds.com:8188/udp/239.77.0.188:5146
+http://58.17.134.3:8003/udp/225.0.4.219:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV14
-http://lsa.familyds.com:8188/udp/239.77.1.161:5146
+http://58.17.134.3:8003/udp/225.0.4.128:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV15
-http://lsa.familyds.com:8188/udp/239.77.1.239:5146
+http://58.17.134.3:8003/udp/225.0.4.220:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV16
-http://lsa.familyds.com:8188/udp/239.77.0.165:5146
+http://www.zyhfm.com:8088/rtp/239.69.1.247:11124
 
 #EXTINF:-1 group-title="央视频道",CCTV17
-http://lsa.familyds.com:8188/udp/239.77.1.121:5146
+http://58.17.134.3:8003/udp/225.0.4.179:7980
 
 #EXTINF:-1 group-title="央视频道",CHC家庭影院
 http://58.17.134.3:8003/udp/225.0.4.228:7980
@@ -144,7 +149,7 @@ http://58.17.134.3:8003/udp/225.0.4.84:7980
 http://58.17.134.3:8003/udp/225.0.4.202:7980
 
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://112.92.129.96:9898/hls/64/index.m3u8
+http://www.zyhfm.com:8088/rtp/239.69.1.191:10788
 
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://58.17.134.3:8003/udp/225.0.4.82:7980
@@ -162,7 +167,7 @@ http://58.17.134.3:8003/udp/225.0.4.187:7980
 http://58.17.134.3:8003/udp/225.0.4.175:7980
 
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://183.220.107.138:4022/udp/239.11.0.52:5140
+http://www.zyhfm.com:8088/rtp/239.69.2.25:11304
 
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://58.17.134.3:8003/udp/225.0.4.217:7980
@@ -192,10 +197,10 @@ http://58.17.134.3:8003/udp/225.0.4.133:7980
 http://58.17.134.3:8003/udp/225.0.4.203:7980
 
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://lsa.familyds.com:8188/udp/239.77.0.13:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.13:5146
 
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://183.220.107.138:4022/udp/239.11.0.32:5140
+http://pplee.vicp.net:4022/rtp/233.18.204.211:5140
 
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://58.17.134.3:8003/udp/225.0.4.181:7980
@@ -210,23 +215,28 @@ https://fast.hidns.vip/163189/hxws
 http://58.17.134.3:8003/udp/225.0.4.67:7980
 
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://lsa.familyds.com:8188/udp/239.77.0.49:5146
+http://www.zyhfm.com:8088/rtp/239.69.2.33:11352
 
 #EXTINF:-1 group-title="卫视频道",新疆卫视
 http://58.17.134.3:8003/udp/225.0.4.60:7980
 
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://lsa.familyds.com:8188/udp/239.77.0.16:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.16:5146
 
 #EXTINF:-1 group-title="卫视频道",兵团卫视
 http://58.17.134.3:8003/udp/225.0.4.72:7980
 
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://woc.iiiya.cn:18888/rtp/239.61.3.10:9578
+http://pplee.vicp.net:4022/rtp/233.18.204.172:5140
 
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://woc.iiiya.cn:18888/rtp/239.61.2.60:8354
+http://www.zyhfm.com:8088/rtp/239.69.2.24:11298
 
+
+
+
+#EXTINF:-1 group-title="体育",五星体育
+http://pplee.vicp.net:4022/rtp/233.18.204.58:5140
 
 #EXTINF:-1 group-title="体育",纬来体育
 https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
@@ -353,7 +363,7 @@ http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011523 &channel-id=Fif
 
 #EXTINF:-1 group-title="体育",睛彩青少
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011525 &channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=Y
-http://lsa.familyds.com:8188/udp/239.77.1.22:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.77.1.22:5146
 
 #EXTINF:-1 group-title="体育",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000020000011530 &channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=Y
@@ -424,45 +434,47 @@ http://stream.mcquack.net/212/index.m3u8
 
 
 #EXTINF:-1 group-title="广东频道",广州新闻
-http://lsa.familyds.com:8188/udp/239.253.43.72:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.253.43.72:5146
 
 #EXTINF:-1 group-title="广东频道",广州综合
-http://lsa.familyds.com:8188/udp/239.253.43.71:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.253.43.71:5146
 
 #EXTINF:-1 group-title="广东频道",广东卫视
-http://lsa.familyds.com:8188/udp/239.77.1.19:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.77.1.19:5146
 
 #EXTINF:-1 group-title="广东频道",深圳卫视
 http://58.17.134.3:8003/udp/225.0.4.202:7980
 
 #EXTINF:-1 group-title="广东频道",广东新闻
-http://lsa.familyds.com:8188/udp/239.77.0.173:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.173:5146
 
 #EXTINF:-1 group-title="广东频道",广东珠江
-http://lsa.familyds.com:8188/udp/239.77.0.1:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.1:5146
 
 #EXTINF:-1 group-title="广东频道",广东体育
-http://lsa.familyds.com:8188/udp/239.77.0.112:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146
 
 #EXTINF:-1 group-title="广东频道",大湾区卫视
-http://lsa.familyds.com:8188/udp/239.77.0.215:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.215:5146
 
 #EXTINF:-1 group-title="广东频道",广东民生
-http://lsa.familyds.com:8188/udp/239.77.0.225:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.225:5146
 
 #EXTINF:-1 group-title="广东频道",广东经济科教
-http://lsa.familyds.com:8188/udp/239.77.0.85:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.85:5146
 
 #EXTINF:-1 group-title="广东频道",广东影视
-http://lsa.familyds.com:8188/udp/239.77.0.217:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.217:5146
 
 #EXTINF:-1 group-title="广东频道",南国都市4K
-http://lsa.familyds.com:8188/udp/239.253.43.99:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.253.43.99:5146
 
 #EXTINF:-1 group-title="香港",凤凰中文
+http://www.zyhfm.com:8088/rtp/239.69.2.20:11274
 http://112.92.129.96:9898/hls/128/index.m3u8
 
 #EXTINF:-1 group-title="香港",凤凰资讯
+http://www.zyhfm.com:8088/rtp/239.69.2.19:11268
 http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 
 #EXTINF:-1 group-title="香港",凤凰香港
