@@ -234,6 +234,42 @@ http://www.zyhfm.com:8088/rtp/239.69.2.24:11298
 
 
 
+#EXTINF:-1 group-title="广东频道",广州新闻
+http://lbyjlt.vv5678.cn:8880/udp/239.253.43.72:5146
+
+#EXTINF:-1 group-title="广东频道",广州综合
+http://lbyjlt.vv5678.cn:8880/udp/239.253.43.71:5146
+
+#EXTINF:-1 group-title="广东频道",广东卫视
+http://lbyjlt.vv5678.cn:8880/udp/239.77.1.19:5146
+
+#EXTINF:-1 group-title="广东频道",深圳卫视
+http://58.17.134.3:8003/udp/225.0.4.202:7980
+
+#EXTINF:-1 group-title="广东频道",广东新闻
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.173:5146
+
+#EXTINF:-1 group-title="广东频道",广东珠江
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.1:5146
+
+#EXTINF:-1 group-title="广东频道",广东体育
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146
+
+#EXTINF:-1 group-title="广东频道",大湾区卫视
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.215:5146
+
+#EXTINF:-1 group-title="广东频道",广东民生
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.225:5146
+
+#EXTINF:-1 group-title="广东频道",广东经济科教
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.85:5146
+
+#EXTINF:-1 group-title="广东频道",广东影视
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.217:5146
+
+#EXTINF:-1 group-title="广东频道",南国都市4K
+http://lbyjlt.vv5678.cn:8880/udp/239.253.43.99:5146
+
 
 #EXTINF:-1 group-title="体育",五星体育
 http://pplee.vicp.net:4022/rtp/233.18.204.58:5140
@@ -433,42 +469,6 @@ http://stream.mcquack.net/393/index.m3u8
 http://stream.mcquack.net/212/index.m3u8
 
 
-#EXTINF:-1 group-title="广东频道",广州新闻
-http://lbyjlt.vv5678.cn:8880/udp/239.253.43.72:5146
-
-#EXTINF:-1 group-title="广东频道",广州综合
-http://lbyjlt.vv5678.cn:8880/udp/239.253.43.71:5146
-
-#EXTINF:-1 group-title="广东频道",广东卫视
-http://lbyjlt.vv5678.cn:8880/udp/239.77.1.19:5146
-
-#EXTINF:-1 group-title="广东频道",深圳卫视
-http://58.17.134.3:8003/udp/225.0.4.202:7980
-
-#EXTINF:-1 group-title="广东频道",广东新闻
-http://lbyjlt.vv5678.cn:8880/udp/239.77.0.173:5146
-
-#EXTINF:-1 group-title="广东频道",广东珠江
-http://lbyjlt.vv5678.cn:8880/udp/239.77.0.1:5146
-
-#EXTINF:-1 group-title="广东频道",广东体育
-http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146
-
-#EXTINF:-1 group-title="广东频道",大湾区卫视
-http://lbyjlt.vv5678.cn:8880/udp/239.77.0.215:5146
-
-#EXTINF:-1 group-title="广东频道",广东民生
-http://lbyjlt.vv5678.cn:8880/udp/239.77.0.225:5146
-
-#EXTINF:-1 group-title="广东频道",广东经济科教
-http://lbyjlt.vv5678.cn:8880/udp/239.77.0.85:5146
-
-#EXTINF:-1 group-title="广东频道",广东影视
-http://lbyjlt.vv5678.cn:8880/udp/239.77.0.217:5146
-
-#EXTINF:-1 group-title="广东频道",南国都市4K
-http://lbyjlt.vv5678.cn:8880/udp/239.253.43.99:5146
-
 #EXTINF:-1 group-title="香港",凤凰中文
 http://www.zyhfm.com:8088/rtp/239.69.2.20:11274
 http://112.92.129.96:9898/hls/128/index.m3u8
@@ -516,6 +516,8 @@ https://cdn3.indevs.in/stream/live/tvbc/
 #EXTINF:-1 group-title="香港",TVB DRAMA
 
 #EXTINF:-1 group-title="香港",MyTV Super
+http://iptv.4666888.xyz/iptv2A.php?id=22
+http://iptv.4666888.xyz/iptv2A.php?id=34
 
 #EXTINF:-1 group-title="香港",RHK31
 https://cdn.123.rr.kg/163189/rthk31
