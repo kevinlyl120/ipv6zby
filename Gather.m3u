@@ -52,12 +52,9 @@ http://58.17.134.3:8003/udp/225.0.4.226:7980
 #EXTINF:-1 group-title="4K频道",多彩文体4K
 http://www.zyhfm.com:8088/rtp/239.69.2.5:11184
 
-#EXTINF:-1 group-title="4K频道",BesTV4K电影
-http://pplee.vicp.net:4022/rtp/233.18.204.169:5140
 
 
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://pplee.vicp.net:4022/rtp/233.18.204.52:5140
 http://lbyjlt.vv5678.cn:8880/udp/239.77.1.17:5146
 
 #EXTINF:-1 group-title="央视频道",CCTV2
@@ -271,12 +268,6 @@ http://lbyjlt.vv5678.cn:8880/udp/239.77.0.217:5146
 http://lbyjlt.vv5678.cn:8880/udp/239.253.43.99:5146
 
 
-#EXTINF:-1 group-title="体育",五星体育
-http://pplee.vicp.net:4022/rtp/233.18.204.58:5140
-
-#EXTINF:-1 group-title="体育",纬来体育
-https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
-
 #EXTINF:-1 group-title="体育",咪视界4K
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?3000000010000005180&channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=Y
 
@@ -421,20 +412,11 @@ http://stream.mcquack.net/416/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="国际·体育",Match! Ultra
 http://stream.mcquack.net/169/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="国际·体育",Okko Futbol
-http://stream.mcquack.net/491/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="国际·体育",Okko Prajm Sport
-http://stream.mcquack.net/493/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="国际·体育",Okko Sport
-http://stream.mcquack.net/492/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="国际·体育",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="国际·体育",QazSport
-http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="国际·体育",Ovacion TV
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vk0j1mY.png" group-title="国际·体育",Sport 2
 http://stream.mcquack.net/392/index.m3u8
@@ -445,9 +427,6 @@ http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="国际·体育",Setanta Sports 2 Eurasia
 http://stream.mcquack.net/235/index.m3u8
 
-#EXTINF:-1 group-title="国际·体育",Setanta Sports HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/01/28/20250128211322330109_50" group-title="国际·体育",Sports First
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
@@ -456,12 +435,6 @@ http://stream.mcquack.net/169/index.m3u8
 
 #EXTINF:-1 group-title="国际·体育",Футбол 3
 http://stream.mcquack.net/185/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pbk8c4x.png" group-title="国际·体育",Spiler 1 | SHAHRIYAR LIVE TV
-http://88.212.15.19/live/spiler1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1e0VsVH.png" group-title="国际·体育",Spiler 2 | SHAHRIYAR LIVE TV
-http://88.212.15.19/live/spiler2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aBY7QK4.png" group-title="国际·体育",Sport 1
 http://stream.mcquack.net/461/index.m3u8
@@ -487,7 +460,7 @@ http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 #EXTINF:-1 group-title="香港",凤凰香港
 
 #EXTINF:-1 group-title="香港",香港卫视
-http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 
 #EXTINF:-1 tvg-id="翡翠台" group-title="香港",翡翠台
 http://112.92.129.96:9898/hls/91/index.m3u8
@@ -500,7 +473,7 @@ https://cdn3.indevs.in/stream/live/hlt/
 http://112.92.129.96:9898/hls/110/index.m3u8
 
 #EXTINF:-1 group-title="香港",无线新闻台
-
+http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:42:10:51&stream=1495601
 
 #EXTINF:-1 group-title="香港",TVBPLUS
 https://cdn3.indevs.in/stream/tvb/tvbp/
@@ -609,8 +582,10 @@ https://cdn6.123.rr.kg/163189/amzy
 #EXTINF:-1 group-title="台湾",寰宇财经
 
 #EXTINF:-1 group-title="台湾",TVBS
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾",TVBS新闻
+http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾",TVBS欢乐
@@ -626,16 +601,16 @@ https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾",东森财经新闻
 
+#EXTINF:-1 group-title="台湾",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+
 #EXTINF:-1 group-title="台湾",中视
-http://74.91.26.218:82/live/ctv.m3u8
 
 #EXTINF:-1 group-title="台湾",中视新闻
 
 #EXTINF:-1 group-title="台湾",中视经典
-http://74.91.26.218:82/live/ctvjd.m3u8
 
 #EXTINF:-1 group-title="台湾",中视菁采
-http://74.91.26.218:82/live/ctvjc.m3u8
 
 #EXTINF:-1 group-title="台湾",中天新闻
 
@@ -644,48 +619,39 @@ http://74.91.26.218:82/live/ctvjc.m3u8
 #EXTINF:-1 group-title="台湾",三立综合
 
 #EXTINF:-1 group-title="台湾",华视
-http://74.91.26.218:82/live/cts.m3u8
 
 #EXTINF:-1 group-title="台湾",华视新闻
 
 #EXTINF:-1 group-title="台湾",华视教育文化
-http://74.91.26.218:82/live/ctsjy.m3u8
 
 #EXTINF:-1 group-title="台湾",民视
-http://74.91.26.218:82/live/ftv.m3u8
 
 #EXTINF:-1 group-title="台湾",民视台湾
-http://74.91.26.218:82/live/ftvtw.m3u8
 
 #EXTINF:-1 group-title="台湾",民视新闻
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾",民视第一
-http://74.91.26.218:82/live/ftvdy.m3u8
 
 #EXTINF:-1 group-title="台湾",民视财经
 
 #EXTINF:-1 group-title="台湾",民视影剧台
 
 #EXTINF:-1 group-title="台湾",公视
-http://74.91.26.218:82/live/pts.m3u8
 http://211.72.174.95:8116/0.ts
 
 #EXTINF:-1 group-title="台湾",公视台语
-http://74.91.26.218:82/live/ptsty.m3u8
 
 #EXTINF:-1 group-title="台湾",公视戏剧
 
 #EXTINF:-1 group-title="台湾",小公视
-http://74.91.26.218:82/live/ptsse.m3u8
 
 #EXTINF:-1 group-title="台湾",台视
-http://74.91.26.218:82/live/ttv.m3u8
 
 #EXTINF:-1 group-title="台湾",台视新闻
-http://74.91.26.218:82/live/ttvnews.m3u8
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 
 #EXTINF:-1 group-title="台湾",台视综合
-http://74.91.26.218:82/live/ttvzh.m3u8
 
 #EXTINF:-1 group-title="台湾",台视财经
 http://74.91.26.218:82/live/ttvcj.m3u8
