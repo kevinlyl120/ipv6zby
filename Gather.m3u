@@ -466,7 +466,6 @@ http://112.92.129.96:9898/hls/91/index.m3u8
 https://cdn3.indevs.in/stream/tvb/fct/
 
 #EXTINF:-1 group-title="香港",翡翠台华丽
-https://cdn3.indevs.in/stream/live/hlt/
 
 #EXTINF:-1 group-title="香港",明珠台
 http://112.92.129.96:9898/hls/110/index.m3u8
@@ -525,15 +524,6 @@ https://cdn.123.rr.kg/163189/now
 
 #EXTINF:-1 group-title="香港",now爆谷
 
-#EXTINF:-1 group-title="香港",Astro AOD
-https://cdn3.indevs.in/stream/live/aod/
-
-#EXTINF:-1 group-title="香港",Astro欢喜台
-https://cdn3.indevs.in/stream/live/hxt/
-
-#EXTINF:-1 group-title="香港",Astro AEC
-https://cdn3.indevs.in/stream/live/aec/
-
 #EXTINF:-1 group-title="香港",AMC电影台
 
 #EXTINF:-1 group-title="香港",八度空间
@@ -546,18 +536,6 @@ https://cdn6.123.rr.kg/163189/ch8
 
 #EXTINF:-1 group-title="香港",CHU
 https://cdn6.123.rr.kg/163189/chu
-
-#EXTINF:-1 group-title="香港",香港面包
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
-#EXTINF:-1 group-title="香港",爱奇艺
-https://cdn3.indevs.in/stream/live/iqiyi/
-
-#EXTINF:-1 group-title="香港",天映经典
-https://cdn3.indevs.in/stream/live/ccm/
-
-#EXTINF:-1 group-title="香港",天映频道
-https://cdn3.indevs.in/stream/live/typd/
 
 #EXTINF:-1 group-title="澳门",澳视澳门
 http://112.92.129.96:9898/hls/135/index.m3u8
@@ -658,37 +636,7 @@ http://74.91.26.218:82/live/ttvcj.m3u8
 
 #EXTINF:-1 group-title="台湾",八大综合台
 
-#EXTINF:-1 group-title="台湾",靖洋戏剧
-
-#EXTINF:-1 group-title="台湾",靖天电影
-
-#EXTINF:-1 group-title="台湾",靖天戏剧
-
-#EXTINF:-1 group-title="台湾",靖天映画
-
 #EXTINF:-1 group-title="台湾",采昌影剧
-
-#EXTINF:-1 group-title="台湾",影迷数位电影
-
-#EXTINF:-1 group-title="台湾",经典电影
-
-#EXTINF:-1 group-title="台湾",龙华经典
-https://8.fast.hidns.vip/163189/lhjd
-
-#EXTINF:-1 group-title="台湾",龙华偶像
-https://8.fast.hidns.vip/163189/lhox
-
-#EXTINF:-1 group-title="台湾",龙华日韩
-https://8.fast.hidns.vip/163189/lhrh
-
-#EXTINF:-1 group-title="台湾",龙华戏剧
-https://8.fast.hidns.vip/163189/lhxj
-
-#EXTINF:-1 group-title="台湾",龙华电影
-https://8.fast.hidns.vip/163189/lhdy
-
-#EXTINF:-1 group-title="台湾",龙华洋片
-https://8.fast.hidns.vip/163189/lhyp
 
 
 #EXTINF:-1 group-title="国际",CNA亚洲新闻
