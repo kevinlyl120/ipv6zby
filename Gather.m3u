@@ -57,6 +57,7 @@ http://denghao.net:4022/udp/239.77.0.174:5146
 
 #EXTINF:-1 group-title="4K频道",CCTV16 4K
 http://183.220.107.138:4022/udp/239.11.0.67:5140
+http://denghao.net:4022/udp/239.77.0.18:5146
 
 #EXTINF:-1 group-title="4K频道",爱上4K
 http://58.17.134.3:8003/udp/225.0.4.226:7980
@@ -122,7 +123,6 @@ http://58.17.134.3:8003/udp/225.0.4.220:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://www.zyhfm.com:8088/rtp/239.69.1.247:11124
-http://denghao.net:4022/udp/239.77.0.18:5146
 
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://58.17.134.3:8003/udp/225.0.4.179:7980
@@ -219,6 +219,7 @@ http://58.17.134.3:8003/udp/225.0.4.181:7980
 http://home.pinkfloyd.cn:5000/rtp/238.1.79.49:4504
 
 #EXTINF:-1 group-title="卫视频道",海峡卫视
+http://e1.woc.iiiya.cn:18888/rtp/239.61.2.151:8894
 
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://58.17.134.3:8003/udp/225.0.4.67:7980
@@ -239,7 +240,7 @@ http://58.17.134.3:8003/udp/225.0.4.72:7980
 http://www.rongrong.me:14022/rtp/233.18.204.172:5140
 
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://www.zyhfm.com:8088/rtp/239.69.2.24:11298
+http://e1.woc.iiiya.cn:18888/rtp/239.61.2.60:8354
 
 
 
@@ -250,10 +251,12 @@ http://lbyjlt.vv5678.cn:8880/udp/239.253.43.72:5146
 http://lbyjlt.vv5678.cn:8880/udp/239.253.43.71:5146
 
 #EXTINF:-1 group-title="广东频道",广东卫视
-http://lbyjlt.vv5678.cn:8880/udp/239.77.1.19:5146
+http://58.17.134.3:8003/udp/225.0.4.102:7980
+http://denghao.net:4022/udp/239.77.0.65:5146
 
 #EXTINF:-1 group-title="广东频道",深圳卫视
-http://58.17.134.3:8003/udp/225.0.4.202:7980
+http://58.17.134.3:8003/udp/225.0.4.101:7980
+http://denghao.net:4022/udp/239.77.0.67:5146
 
 #EXTINF:-1 group-title="广东频道",广东新闻
 http://lbyjlt.vv5678.cn:8880/udp/239.77.0.173:5146
@@ -282,8 +285,13 @@ http://denghao.net:4022/udp/239.77.0.167:5146
 #EXTINF:-1 group-title="广东频道",广东影视
 http://lbyjlt.vv5678.cn:8880/udp/239.77.0.217:5146
 
+#EXTINF:-1 group-title="广东频道",广东4K超高清
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.244:5146
+http://denghao.net:4022/udp/239.77.0.244:5146
+
 #EXTINF:-1 group-title="广东频道",南国都市4K
 http://lbyjlt.vv5678.cn:8880/udp/239.253.43.99:5146
+http://denghao.net:4022/udp/239.253.43.99:5146
 
 
 #EXTINF:-1 group-title="体育",咪视界4K
