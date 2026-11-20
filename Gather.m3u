@@ -1,19 +1,25 @@
 #EXTM3U url-tvg="https://live.fanmingming.cn/e.xml,https://epg.pw/xmltv/epg_CN.xml,https://epg.pw/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_TW.xml" x-tvg-url="https://live.fanmingming.cn/e.xml,https://epg.pw/xmltv/epg_CN.xml,https://epg.pw/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_TW.xml"
 
+
 #EXTINF:-1 group-title="4K频道",湖南卫视4K
 http://58.17.134.3:8003/udp/225.0.4.107:7980
+http://denghao.net:4022/udp/239.77.0.56:5146
 
 #EXTINF:-1 group-title="4K频道",江苏卫视4K
 http://58.17.134.3:8003/udp/225.0.4.104:7980
+http://denghao.net:4022/udp/239.77.0.57:5146
 
 #EXTINF:-1 group-title="4K频道",浙江卫视4K
 http://58.17.134.3:8003/udp/225.0.4.105:7980
+http://denghao.net:4022/udp/239.77.0.58:5146
 
 #EXTINF:-1 group-title="4K频道",东方卫视4K
 http://58.17.134.3:8003/udp/225.0.4.103:7980
+http://denghao.net:4022/udp/239.77.0.59:5146
 
 #EXTINF:-1 group-title="4K频道",北京卫视4K
 http://58.17.134.3:8003/udp/225.0.4.122:7980
+http://denghao.net:4022/udp/239.77.0.2:5146
 
 #EXTINF:-1 group-title="4K频道",翡翠台4K
 https://cdn3.indevs.in/stream/tvb/fct4k/
@@ -23,24 +29,31 @@ http://home.airengine.net:9003/rtp/228.1.1.123:8001
 
 #EXTINF:-1 group-title="4K频道",广东卫视4K
 http://58.17.134.3:8003/udp/225.0.4.102:7980
+http://denghao.net:4022/udp/239.77.0.65:5146
 
 #EXTINF:-1 group-title="4K频道",深圳卫视4K
 http://58.17.134.3:8003/udp/225.0.4.101:7980
+http://denghao.net:4022/udp/239.77.0.67:5146
 
 #EXTINF:-1 group-title="4K频道",山东卫视4K
 http://58.17.134.3:8003/udp/225.0.4.106:7980
+http://denghao.net:4022/udp/239.77.0.61:5146
 
 #EXTINF:-1 group-title="4K频道",四川卫视4K
 http://58.17.134.3:8003/udp/225.0.4.108:7980
+http://denghao.net:4022/udp/239.77.0.60:5146
 
 #EXTINF:-1 group-title="4K频道",广东4K超高清
 http://lbyjlt.vv5678.cn:8880/udp/239.77.0.244:5146
+http://denghao.net:4022/udp/239.77.0.244:5146
 
 #EXTINF:-1 group-title="4K频道",南国都市4K
 http://lbyjlt.vv5678.cn:8880/udp/239.253.43.99:5146
+http://denghao.net:4022/udp/239.253.43.99:5146
 
 #EXTINF:-1 group-title="4K频道",CCTV4K
 http://lbyjlt.vv5678.cn:8880/udp/239.77.0.194:5146
+http://denghao.net:4022/udp/239.77.0.174:5146
 
 #EXTINF:-1 group-title="4K频道",CCTV16 4K
 http://183.220.107.138:4022/udp/239.11.0.67:5140
@@ -109,6 +122,7 @@ http://58.17.134.3:8003/udp/225.0.4.220:7980
 
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://www.zyhfm.com:8088/rtp/239.69.1.247:11124
+http://denghao.net:4022/udp/239.77.0.18:5146
 
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://58.17.134.3:8003/udp/225.0.4.179:7980
@@ -124,7 +138,7 @@ http://58.17.134.3:8003/udp/225.0.4.230:7980
 
 
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://58.17.134.3:8003/udp/225.0.4.75:7980
+http://bit.famcloud.top:9878/rtp/239.3.1.132:8012
 
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://58.17.134.3:8003/udp/225.0.4.81:7980
@@ -145,7 +159,7 @@ http://58.17.134.3:8003/udp/225.0.4.84:7980
 http://58.17.134.3:8003/udp/225.0.4.202:7980
 
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://www.zyhfm.com:8088/rtp/239.69.1.191:10788
+http://www.rongrong.me:14022/rtp/233.18.204.107:5140
 
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://58.17.134.3:8003/udp/225.0.4.82:7980
@@ -163,7 +177,7 @@ http://58.17.134.3:8003/udp/225.0.4.187:7980
 http://58.17.134.3:8003/udp/225.0.4.175:7980
 
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://www.zyhfm.com:8088/rtp/239.69.2.25:11304
+http://www.rongrong.me:14022/rtp/233.18.204.106:5140
 
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://58.17.134.3:8003/udp/225.0.4.217:7980
@@ -193,25 +207,24 @@ http://58.17.134.3:8003/udp/225.0.4.133:7980
 http://58.17.134.3:8003/udp/225.0.4.203:7980
 
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://lbyjlt.vv5678.cn:8880/udp/239.77.0.13:5146
+http://www.rongrong.me:14022/rtp/233.18.204.223:5140
 
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://pplee.vicp.net:4022/rtp/233.18.204.211:5140
+http://www.rongrong.me:14022/rtp/233.18.204.211:5140
 
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://58.17.134.3:8003/udp/225.0.4.181:7980
 
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://58.17.134.3:8003/udp/225.0.4.216:7980
+http://home.pinkfloyd.cn:5000/rtp/238.1.79.49:4504
 
 #EXTINF:-1 group-title="卫视频道",海峡卫视
-https://fast.hidns.vip/163189/hxws
 
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://58.17.134.3:8003/udp/225.0.4.67:7980
 
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://www.zyhfm.com:8088/rtp/239.69.2.33:11352
+http://www.rongrong.me:14022/rtp/233.18.204.230:5140
 
 #EXTINF:-1 group-title="卫视频道",新疆卫视
 http://58.17.134.3:8003/udp/225.0.4.60:7980
@@ -223,7 +236,7 @@ http://lbyjlt.vv5678.cn:8880/udp/239.77.0.16:5146
 http://58.17.134.3:8003/udp/225.0.4.72:7980
 
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://pplee.vicp.net:4022/rtp/233.18.204.172:5140
+http://www.rongrong.me:14022/rtp/233.18.204.172:5140
 
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://www.zyhfm.com:8088/rtp/239.69.2.24:11298
@@ -244,21 +257,27 @@ http://58.17.134.3:8003/udp/225.0.4.202:7980
 
 #EXTINF:-1 group-title="广东频道",广东新闻
 http://lbyjlt.vv5678.cn:8880/udp/239.77.0.173:5146
+http://denghao.net:4022/udp/239.77.0.173:5146
 
 #EXTINF:-1 group-title="广东频道",广东珠江
 http://lbyjlt.vv5678.cn:8880/udp/239.77.0.1:5146
+http://denghao.net:4022/udp/239.77.0.1:5146
 
 #EXTINF:-1 group-title="广东频道",广东体育
 http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146
+http://denghao.net:4022/udp/239.77.0.112:5146
 
 #EXTINF:-1 group-title="广东频道",大湾区卫视
 http://lbyjlt.vv5678.cn:8880/udp/239.77.0.215:5146
+http://denghao.net:4022/udp/239.77.0.215:5146
 
 #EXTINF:-1 group-title="广东频道",广东民生
 http://lbyjlt.vv5678.cn:8880/udp/239.77.0.225:5146
+http://denghao.net:4022/udp/239.77.0.225:5146
 
 #EXTINF:-1 group-title="广东频道",广东经济科教
 http://lbyjlt.vv5678.cn:8880/udp/239.77.0.85:5146
+http://denghao.net:4022/udp/239.77.0.167:5146
 
 #EXTINF:-1 group-title="广东频道",广东影视
 http://lbyjlt.vv5678.cn:8880/udp/239.77.0.217:5146
@@ -582,12 +601,16 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 #EXTINF:-1 group-title="港澳台",中视
 
 #EXTINF:-1 group-title="港澳台",中视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 
 #EXTINF:-1 group-title="港澳台",中视经典
 
 #EXTINF:-1 group-title="港澳台",中视菁采
 
 #EXTINF:-1 group-title="港澳台",中天新闻
+
+#EXTINF:-1 group-title="港澳台",中天亚洲
+http://tv.cloudcdn.me:80/live.ts?uid=4280&deviceMac=00:1A:79:17:C1:7F&channelId=133119
 
 #EXTINF:-1 group-title="港澳台",三立新闻
 
